@@ -1,0 +1,32 @@
+<div class="new-press-section">
+  <div class="container">
+    <div class="press-wrap">
+      {% if section.settings.image %}
+        <img loading="lazy" sizes="(max-width: 740px) 40vw, 600px" {% render 'image-attributes', image: section.settings.image, sizes: '400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600' %}>
+      {% endif %}
+      <span>{{ section.settings.title }}</span>
+    </div>
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "New Press",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title"
+      }
+    ],
+    "presets": [
+      {
+        "name": "New Press"
+      }
+    ]
+  }
+{% endschema %}

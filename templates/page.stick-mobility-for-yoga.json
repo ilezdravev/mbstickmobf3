@@ -1,0 +1,608 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "166441745145664638": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Stick_Mobility_Yoga.jpg",
+        "subheading": "",
+        "title": "YOGA",
+        "content": "<p>Improve Your Yoga Routine & Flexibility<\/p>",
+        "button_text_1": "Shop",
+        "button_link_1": "shopify:\/\/products\/stick-bundles",
+        "button_text_2": "",
+        "button_link_2": "",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "1664417466e1ea1879": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "blocks": {
+        "16644174662b619288-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "JOINT MOBILIZATION",
+            "content": "<p>Improve your mobility to increase your ability to hit the ball further.<\/p>"
+          }
+        },
+        "16644174662b619288-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "BALANCE",
+            "content": "<p>Get your club and body in better positions to have a more consistent, efficient, and effective golf swing.<\/p>"
+          }
+        },
+        "16644174662b619288-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "ACTIVE STRETCHING",
+            "content": "<p>Reduce your risk of injury in training and on the course.<\/p>"
+          }
+        },
+        "16644174662b619288-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16644174662b619288-0",
+        "16644174662b619288-1",
+        "16644174662b619288-2",
+        "16644174662b619288-3"
+      ],
+      "settings": {
+        "background": "#4c4c4c",
+        "text_color": "#ffffff"
+      }
+    },
+    "1664418879b0f7f229": {
+      "type": "logo-list",
+      "blocks": {
+        "1664418879aeebf17f-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Mens_Health_logo.png",
+            "link": "https:\/\/www.menshealth.com\/fitness\/a28777129\/stick-mobility-training\/"
+          }
+        },
+        "1664418879aeebf17f-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Yoga_Journal_Logo.png",
+            "link": "https:\/\/www.yogajournal.com\/lifestyle\/fashion-beauty\/yoga-gear\/yj-tried-it-stick-mobility\/"
+          }
+        },
+        "1664418879aeebf17f-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/golf-digest-logo.png",
+            "link": "https:\/\/www.golfdigest.com\/story\/best-fitness-equipment-for-golfers"
+          }
+        },
+        "1664418879aeebf17f-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Muscle_Fitness_Logo.png",
+            "link": "https:\/\/www.muscleandfitness.com\/gear\/5-ways-upgrade-your-home-gym-2020\/"
+          }
+        },
+        "1664418879aeebf17f-4": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664418879aeebf17f-0",
+        "1664418879aeebf17f-1",
+        "1664418879aeebf17f-2",
+        "1664418879aeebf17f-3",
+        "1664418879aeebf17f-4",
+        "1664418879aeebf17f-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "AS SEEN IN",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "166441748023149c73": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "subheading": "STICK MOBILITY IS A TRAINING SYSTEM THAT COMBINES JOINT MOBILIZATION, STRENGTH TRAINING, AND ACTIVE STRETCHING TO INCREASE ATHLETIC PERFORMANCE, REDUCE RISK OF INJURY, AND SPEED RECOVERY.",
+        "title": "",
+        "video_url": "https:\/\/vimeo.com\/296980871",
+        "image": "shopify:\/\/shop_images\/Golf_Image_Thubnail.jpg",
+        "background_type": "boxed",
+        "video_size": "small",
+        "autoplay": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644659930b39e6b5": {
+      "type": "logo-list",
+      "disabled": true,
+      "blocks": {
+        "1664465993d70cd9fd-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/golf-digest-logo.png",
+            "link": "https:\/\/www.golfdigest.com\/story\/best-fitness-equipment-for-golfers"
+          }
+        },
+        "1664465993d70cd9fd-1": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664465993d70cd9fd-2": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664465993d70cd9fd-3": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664465993d70cd9fd-4": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664465993d70cd9fd-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664465993d70cd9fd-0",
+        "1664465993d70cd9fd-1",
+        "1664465993d70cd9fd-2",
+        "1664465993d70cd9fd-3",
+        "1664465993d70cd9fd-4",
+        "1664465993d70cd9fd-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "2019-2021 EDITORS' CHOICE AWARD",
+        "title": "\"Best Fitness Equipment Stretching Aid\"",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "16644175168db70154": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664417516222184b9-0": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Bundle_Golf_Mobility.jpg",
+            "tab_label": "TRAINING BUNDLE",
+            "subheading": "SHOP TRAINING BUNDLE",
+            "title": "GET YOUR STICK BUNDLE",
+            "content": "<p>3-Stick Bundle to Compliment the Golf Mobility Training series.<\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "0167a942-a4b7-4d29-9e5b-11fd5a505f8c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Yoga_Mountains.jpg",
+            "tab_label": "",
+            "subheading": "",
+            "title": "YOGA IMPROVES STRENGTH, BALANCE AND FLEXIBILITY",
+            "content": "<p>Our exercises combine joint mobilization, strength training, and active stretching using our custom-designed Training Sticks. The Sticks are flexible tools used to create leverage, stability, and body awareness.  This will increase your functional range of motion and muscle activation, which in turn improves strength, balance and flexibility.  Exercises using our Sticks are easy for every yoga level, from beginner to professional.<\/p>",
+            "button_text_1": "Shop",
+            "button_link_1": "shopify:\/\/products\/stick-bundles",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417516222184b9-0",
+        "0167a942-a4b7-4d29-9e5b-11fd5a505f8c"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644174961453475b": {
+      "type": "multi-column",
+      "blocks": {
+        "1664417496ea78aaa2-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Yoga_Side_Stretch.jpg",
+            "image_width": 100,
+            "image_border": "#282828",
+            "title": "YJ TRIED IT: A NEW FORM OF DOWEL YOGA",
+            "content": "<p><em>“THE EXERCISES WERE GREAT FOR LOOSENING AND STRENGTHENING MY BODY IN WAYS THAT OTHER TRAINING SYSTEMS CAN’T.I COULD REALLY FEEL THE ADDED LEVERAGE FROM THE STICKS WHEN ROLLING MY HIPS FORWARD…”<\/em><\/p>",
+            "link_text": "Read Our Featured Yoga Journal Article",
+            "link_url": "https:\/\/www.yogajournal.com\/lifestyle\/fashion-beauty\/yoga-gear\/yj-tried-it-stick-mobility\/",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-1": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "RISK",
+            "content": "<p>Reduce your risk of injury in training and on the course.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MOBILITY",
+            "content": "<p>Improve your mobility to increase your ability to hit the ball further.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "f4457e47-9938-4151-9bb5-fb4b68ee1266": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Your content",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664417496ea78aaa2-0",
+        "1664417496ea78aaa2-1",
+        "1664417496ea78aaa2-2",
+        "1664417496ea78aaa2-3",
+        "f4457e47-9938-4151-9bb5-fb4b68ee1266"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "Improve your yoga and Improve how you feel",
+        "title": "Stick Mobility Can Supercharge Your Yoga Routine",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644175334c3da5f4": {
+      "type": "image-with-text",
+      "blocks": {
+        "166441753326af9e31-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Yoga_Both_Athletes.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "YOGA PROMOTES BETTER POSTURE, BODY AWARENESS AND REDUCES PAIN",
+            "content": "<p>By adding I5 minutes of Stick Mobility to your daily routine you can supercharge your yoga!  Stick Mobility flows can be integrated into your regular yoga sessions.  Daily active deep stretching,  in conjunction with adding resistance  from our Training Sticks will allow you to access increased ranges of motion and help strengthen your body over time which can lead to healthier tissues, better posture and less pain.<\/p>",
+            "button_text_1": "shop",
+            "button_link_1": "shopify:\/\/products\/stick-bundles",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166441753326af9e31-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664417554aa31d032": {
+      "type": "gallery",
+      "disabled": true,
+      "blocks": {
+        "1664417554effc6fbf-0": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "1664417554effc6fbf-1": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "1664417554effc6fbf-2": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "507a47af-f525-407b-8e77-1df632ca8fb3": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "4586ef82-b7ab-427a-8c3d-126bd2f7fc8d": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417554effc6fbf-0",
+        "1664417554effc6fbf-1",
+        "1664417554effc6fbf-2",
+        "507a47af-f525-407b-8e77-1df632ca8fb3",
+        "4586ef82-b7ab-427a-8c3d-126bd2f7fc8d"
+      ],
+      "settings": {
+        "subheading": "GOLF MOBILITY TRAINING",
+        "title": "PROGRAM SECTIONS",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664417566228d2f90": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "1664417566a1b96ff9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Bundle_Golf_Mobility.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "3-STICK TRAINING BUNDLE",
+            "content": "<p>3-Stick Bundle to compliment the Golf Mobility online training course.<\/p>",
+            "link_text": "SHOP NOW",
+            "link_url": "",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417566a1b96ff9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Golf_Mobility_Training_Program.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "GOLF MOBILITY TRAINING",
+            "content": "<p>Access to the online Golf Mobility Training video series.<\/p>",
+            "link_text": "BUY NOW",
+            "link_url": "",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417566a1b96ff9-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417566a1b96ff9-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664417566a1b96ff9-0",
+        "1664417566a1b96ff9-1",
+        "1664417566a1b96ff9-2",
+        "1664417566a1b96ff9-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "TRAINING FOR",
+        "title": "GOLFERS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ccabd39f-080d-4612-92dc-1dedcfa486f7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16044601344168__ccabd39f-080d-4612-92dc-1dedcfa486f7-1666655918692a2a40-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Yoga_Looking_Away.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "YOGA HELPS MANAGE STRESS AND ANXIETY",
+            "content": "<p>According to the National Institutes of Health, scientific evidence shows that yoga supports stress management, mental health, mindfulness, healthy eating, weight loss and quality sleep. <br\/><br\/>Stick Mobility's magic formula is:  joint range of motion + joint stability + neuromuscular drive = mobility.  The better balanced your muscles are, the better they can coordinate your kinetic chain.  All of these factors contribute to better sleep and less anxiety and stress:)<\/p>",
+            "button_text_1": "Shop",
+            "button_link_1": "shopify:\/\/products\/stick-bundles",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16044601344168__ccabd39f-080d-4612-92dc-1dedcfa486f7-1666655918692a2a40-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166441745145664638",
+    "1664417466e1ea1879",
+    "1664418879b0f7f229",
+    "166441748023149c73",
+    "16644659930b39e6b5",
+    "16644175168db70154",
+    "16644174961453475b",
+    "16644175334c3da5f4",
+    "1664417554aa31d032",
+    "1664417566228d2f90",
+    "ccabd39f-080d-4612-92dc-1dedcfa486f7"
+  ]
+}

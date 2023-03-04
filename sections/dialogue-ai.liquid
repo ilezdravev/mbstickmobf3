@@ -1,0 +1,37 @@
+{% schema %}
+{
+    "name": "Dialogue-Recommender",
+    "settings": [  
+      {
+        "type": "select",
+        "id": "position",
+        "label": "Position",
+        "options": [
+          {
+              "value": "top",
+              "label": "Top"
+          },
+          {
+              "value": "bottom",
+              "label": "Bottom"
+          }
+		],
+        "default": "bottom"
+      }
+		
+	]
+}
+{% endschema %}
+
+  {%- if section.settings.position == 'top' -%}
+  	  <section id="dialogue-{%- if request.page_type == 'index' -%}home{%- else -%}{{  request.page_type  }}{%- endif -%} -top">
+  {%- else -%}
+  	  <section id="dialogue-{%- if request.page_type == 'index' -%}home{%- else -%}{{  request.page_type  }}{%- endif -%} ">
+  {%- endif -%}      
+</section>
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}

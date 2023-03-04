@@ -1,0 +1,73 @@
+<div class="for-trainers-section">
+  <div class="container">
+    <div class="title">{{ section.settings.title }}</div>
+    <div class="trainers-grid">
+      {% for block in section.blocks %}
+        <div class="trainer-grid-item">
+          <div class="image-content">
+            <img loading="lazy" sizes="(max-width: 740px) 30vw, 400px" {% render 'image-attributes', image: block.settings.image, sizes: '400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600' %}>
+          </div>
+          <div class="text-content">
+            <div class="rating-info">
+              <img src="{{ 'StarRating-svg.png' | asset_url }}" alt="">
+              <span>({{ block.settings.reviews_count }})</span>
+            </div>
+            <div class="trainer-info-title">{{ block.settings.title }}</div>
+            <div class="trainer-info-subtitle">{{ block.settings.subtitle }}</div>
+            <div class="trainer-info-price">{{ block.settings.price }}</div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "For Trainers",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "item",
+        "name": "Item",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+          },
+          {
+            "type": "text",
+            "id": "reviews_count",
+            "label": "Reviews Count"
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+          },
+          {
+            "type": "text",
+            "id": "subtitle",
+            "label": "Subtitle"
+          },
+          {
+            "type": "text",
+            "id": "price",
+            "label": "Price"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "For Trainers"
+      }
+    ]
+  }
+{% endschema %}

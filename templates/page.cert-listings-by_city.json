@@ -1,0 +1,818 @@
+{
+  "sections": {
+    "38819de2-e2c2-4c0a-abf4-2153bc9e2dd4": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "Certification Listings",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "a5b5d7e5-1c13-42bf-80cd-bdc979a18db7": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "Payment Plan Available",
+        "content": "<p>During registration you will have the option of paying for 50% now and the other 50% later.<\/p>",
+        "button_text": "",
+        "button_link": "shopify:\/\/pages\/certification-info",
+        "background_type": "full_width",
+        "text_width": "large",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c04f60af-80b5-494b-91ce-d8f77c8e3e22": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "30% off certifications",
+        "content": "<p>Save 30% on In-Person and Online Certifications until November 28th.  <strong>($209.70 Savings)<\/strong><\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#282828",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ea793ff6-630b-4253-9100-7802c0aa09ac": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16071295369384__ea793ff6-630b-4253-9100-7802c0aa09ac-1668624733a4728964-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_7.jpg",
+            "tab_label": "Item",
+            "subheading": "Level 1 Certifications",
+            "title": "Los Angeles, California",
+            "content": "<p><strong>Heart & Hustle<br\/><\/strong>Click Date For Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca-225-26-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca-225-26-2023\"><strong>February 25th - 26th, 2023<\/strong><\/a><br\/><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca---63-4-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca---63-4-2023\"><strong>June 3rd - 4th, 2023<\/strong><\/a><br\/><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca---1014-15-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca---1014-15-2023\"><strong>October 14th - 15th, 2023<\/strong><\/a><\/p><p><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__ea793ff6-630b-4253-9100-7802c0aa09ac-1668624733a4728964-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f8bdfd74-4d96-4161-a585-9b41075bf446": {
+      "type": "image-with-text",
+      "blocks": {
+        "230191f6-d456-4734-80c2-4eed8dac920b": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_7.jpg",
+            "tab_label": "Item",
+            "subheading": "Level 1 Certifications",
+            "title": "Los Angeles, California",
+            "content": "<p><strong>Heart & Hustle<br\/><\/strong>Click Date For Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<br\/><\/p>",
+            "button_text_1": "February 25th - 26th, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca---225-26-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "230191f6-d456-4734-80c2-4eed8dac920b"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "91cb8b74-8986-4ef1-a707-834aca7bc0f5": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16071295369384__91cb8b74-8986-4ef1-a707-834aca7bc0f5-1668624733a4728964-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cert_1.jpg",
+            "tab_label": "LEVEL 1",
+            "subheading": "Level 1 and Level 2 Certifications",
+            "title": "San Jose, California",
+            "content": "<p><strong>Stick Mobility Training Center<br\/><\/strong>Click Date For Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---24-6-20223\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---24-6-20223\"><strong>February 4th - 5th, 2023<\/strong><\/a><br\/><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---610-11-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---610-11-2023\"><strong>June 10th - 11th, 2023<br\/><\/strong><\/a><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---930-101-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---930-101-2023\"><strong>September 30th - October 1st, 2023<\/strong><\/a><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "e0becb4a-48a1-42d4-8993-7f9c480ce1bf": {
+          "type": "item",
+          "settings": {
+            "tab_label": "LEVEL 2",
+            "subheading": "Level 1 & Level 2 Certifications",
+            "title": "San Jose, California",
+            "content": "<p><strong>Stick Mobility Training Center<\/strong><br\/>Click Date For Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---520-21-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---520-21-2023\"><strong>May 20th - 21st, 2023<br\/><\/strong><\/a><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---114-5-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---114-5-2023\"><strong>November 4th - 5th, 2023<\/strong><\/a><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__91cb8b74-8986-4ef1-a707-834aca7bc0f5-1668624733a4728964-0",
+        "e0becb4a-48a1-42d4-8993-7f9c480ce1bf"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 20,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "#f94f1b",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "2c7a2b68-d2d0-4102-89bf-d061f4fe5ef1": {
+      "type": "image-with-text",
+      "blocks": {
+        "31c9a6b7-3b67-4388-b20b-36ec2462530d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cert_1.jpg",
+            "tab_label": "LEVEL 1",
+            "subheading": "Level 1 and Level 2 Certifications",
+            "title": "San Jose, California",
+            "content": "<p><strong>Stick Mobility Training Center<br\/><\/strong>Click Date For Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<br\/><\/p>",
+            "button_text_1": "Level 1: June 10th - 11th, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca-610-11-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "3cef2a9e-5891-41c9-94f0-6c1c66565b2f": {
+          "type": "item",
+          "settings": {
+            "tab_label": "LEVEL 2",
+            "subheading": "Level 1 & Level 2 Certifications",
+            "title": "San Jose, California",
+            "content": "<p><strong>Stick Mobility Training Center<\/strong><br\/>Click Date For Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<\/p><p>Click Level 1 or Level 2 Below<a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---520-21-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---520-21-2023\"><strong><br\/><\/strong><\/a><\/p>",
+            "button_text_1": "Level 2: May 20th - 21st, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---520-21-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "31c9a6b7-3b67-4388-b20b-36ec2462530d",
+        "3cef2a9e-5891-41c9-94f0-6c1c66565b2f"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 20,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "#f94f1b",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "2bf20041-ab9c-4977-81d3-927d65ad6cd7": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16071295369384__2bf20041-ab9c-4977-81d3-927d65ad6cd7-16686342647796ab4b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_2.jpg",
+            "tab_label": "Item",
+            "subheading": "Level 1 Certifications",
+            "title": "San Diego, California",
+            "content": "<p><strong>Water & Sports Physical Therapy<\/strong><br\/>Click Date For Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-diego-ca---318-19-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-diego-ca---318-19-2023\"><strong>March 18th - 19th, 2023<\/strong><\/a><br\/><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-diego-ca---812-13-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-diego-ca---812-13-2023\"><strong>August 12th - 13th, 2023<\/strong><\/a><\/p><p><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__2bf20041-ab9c-4977-81d3-927d65ad6cd7-16686342647796ab4b-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 20,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f4cd17e8-dfd6-434a-bc95-e7a63d057493": {
+      "type": "image-with-text",
+      "blocks": {
+        "9b5bcd99-b435-44d0-8ea5-c51724a2d8e8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_2.jpg",
+            "tab_label": "Item",
+            "subheading": "Level 1 Certifications",
+            "title": "San Diego, California",
+            "content": "<p><strong>Water & Sports Physical Therapy<\/strong><br\/>Click Date For Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<br\/><\/p><p><\/p>",
+            "button_text_1": "March 18th - 19th, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-diego-ca---318-19-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "9b5bcd99-b435-44d0-8ea5-c51724a2d8e8"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 20,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "8fb74a1f-223a-44e0-9f20-16cc2de8f746": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16071295369384__8fb74a1f-223a-44e0-9f20-16cc2de8f746-1668624733a4728964-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_6.jpg",
+            "tab_label": "Level 1",
+            "subheading": "Level 1 & Level 2 Certifications",
+            "title": "Hawthorne, New Jersey",
+            "content": "<p><strong>Strong NJ<br\/><\/strong>Click Date for Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---34-5-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---34-5-2023\"><strong>March 4th - 5th, 2023<br\/><\/strong><\/a><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---610-11-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---610-11-2023\"><strong>June 10th - 11th, 2023<\/strong><\/a><em> <\/em><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---610-11-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---610-11-2023\"><strong><br\/><\/strong><\/a><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---1021-22-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---1021-22-2023\"><strong>October 21st - 22nd, 2023<\/strong><\/a><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "795adbae-88ca-4637-b872-085a569cd967": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Level 2",
+            "subheading": "Level 2 Certifications",
+            "title": "Hawthorne, New Jersey",
+            "content": "<p><strong>Strong NJ<br\/><\/strong>Click Date for Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-hawthorne-nj---715-16-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-hawthorne-nj---715-16-2023\"><strong>July 15th - 16th, 2023<\/strong><\/a><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__8fb74a1f-223a-44e0-9f20-16cc2de8f746-1668624733a4728964-0",
+        "795adbae-88ca-4637-b872-085a569cd967"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 20,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "a5f1e7d5-b737-4618-9a57-d421cdeeace8": {
+      "type": "image-with-text",
+      "blocks": {
+        "9f37beae-4d02-467d-b048-9b7bf4c15c28": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_6.jpg",
+            "tab_label": "Level 1",
+            "subheading": "Level 1 & Level 2 Certifications",
+            "title": "Hawthorne, New Jersey",
+            "content": "<p><strong>Strong NJ<br\/><\/strong>Click Date for Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<br\/><\/p>",
+            "button_text_1": "Level 1: March 4th - 5th, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---34-5-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "c0833832-0fda-486c-bded-4a7569e75978": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Level 2",
+            "subheading": "Level 2 Certifications",
+            "title": "Hawthorne, New Jersey",
+            "content": "<p><strong>Strong NJ<br\/><\/strong>Click Date for Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<br\/>Click Level 1 or Level 2 Below<\/p>",
+            "button_text_1": "Level 2: July 15th - 16th, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-hawthorne-nj---715-16-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "9f37beae-4d02-467d-b048-9b7bf4c15c28",
+        "c0833832-0fda-486c-bded-4a7569e75978"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 20,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ede3405e-093c-44be-afd5-fec03da19e10": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16071295369384__ede3405e-093c-44be-afd5-fec03da19e10-1670011216ce712d81-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification---LA-H_H-Aug-2019---20190818-DSC01948.jpg",
+            "tab_label": "",
+            "subheading": "Level 1 Certifications",
+            "title": "Springfield, Massachusetts",
+            "content": "<p><strong>Train For Life<br\/><\/strong>Click Date for Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-springfield-ma---415-22-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-springfield-ma---415-22-2023\"><strong>April 14th - 15th, 2023<\/strong><\/a><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__ede3405e-093c-44be-afd5-fec03da19e10-1670011216ce712d81-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c0bae211-500b-431e-b195-f14223bcd667": {
+      "type": "image-with-text",
+      "blocks": {
+        "94ea599c-1588-413b-952c-d576f0b97134": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification---LA-H_H-Aug-2019---20190818-DSC01948.jpg",
+            "tab_label": "",
+            "subheading": "Level 1 Certifications",
+            "title": "Springfield, Massachusetts",
+            "content": "<p><strong>Train For Life<br\/><\/strong>Click Date for Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<\/p>",
+            "button_text_1": "April 14th - 15th, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-springfield-ma---415-16-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "94ea599c-1588-413b-952c-d576f0b97134"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "54bdc25d-a6e4-4ebc-9a03-a21c40bbc2bf": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16071295369384__54bdc25d-a6e4-4ebc-9a03-a21c40bbc2bf-16686342647796ab4b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SQCertification_-_LA_H_H_Aug_2019_-_20190818-DSC01695_-_Small_b1b5abf7-a597-47ed-9a3a-ba083363c91d.jpg",
+            "tab_label": "Item",
+            "subheading": "Level 1 Certifications",
+            "title": "Chicago, Illinois",
+            "content": "<p><strong>FFC Park Ridge<br\/><\/strong>Click Date for Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-chicago-il---422-23-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-chicago-il---422-23-2023\"><strong>April 22nd - 23rd, 2023<br\/><\/strong><\/a><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-chicago-il---930-101-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-chicago-il---930-101-2023\"><strong>September 30th - October 1st, 2023<\/strong><\/a><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__54bdc25d-a6e4-4ebc-9a03-a21c40bbc2bf-16686342647796ab4b-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "0d0b78ba-33dd-49a1-83ec-ba13ae6248ee": {
+      "type": "image-with-text",
+      "blocks": {
+        "8b7ffe2b-9180-42ab-a912-eaf5d6b77980": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SQCertification_-_LA_H_H_Aug_2019_-_20190818-DSC01695_-_Small_b1b5abf7-a597-47ed-9a3a-ba083363c91d.jpg",
+            "tab_label": "Item",
+            "subheading": "Level 1 Certifications",
+            "title": "Chicago, Illinois",
+            "content": "<p><strong>FFC Park Ridge<br\/><\/strong>Click Date for Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<\/p>",
+            "button_text_1": "April 22nd - 23rd, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-chicago-il---422-23-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "8b7ffe2b-9180-42ab-a912-eaf5d6b77980"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c0492382-10be-4fee-ac54-18e6c2ffaae9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16071295369384__c0492382-10be-4fee-ac54-18e6c2ffaae9-16686342647796ab4b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SQUARECertification_-_LA_H_H_Aug_2019_-_20190818-DSC01772_-_Small_f903967d-bb1e-4185-9895-1ad3b627e832.jpg",
+            "tab_label": "Item",
+            "subheading": "Level-1 Certifications",
+            "title": "Dallas, Texas",
+            "content": "<p><strong>Extreme Studio Performance<br\/><\/strong>Click Date for Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<\/p>",
+            "button_text_1": "June 24th - 25th, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-dallas-tx---624-25-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__c0492382-10be-4fee-ac54-18e6c2ffaae9-16686342647796ab4b-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "355c8424-8265-419a-96af-c63de66da752": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "template--16071295369384__355c8424-8265-419a-96af-c63de66da752-167279474373916359-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification---LA-H_H-Aug-2019---1-20190818-DSC01662-_1.jpg",
+            "tab_label": "Item",
+            "subheading": "Level 1 Certifications",
+            "title": "New York City, New York",
+            "content": "<p><strong>MOCEAN Physical Therapy<br\/><\/strong>Click Date for Details\/Registration<\/p><p><a href=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-new-york-city-ny---99-10-2023\" title=\"https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-new-york-city-ny---99-10-2023\">September 9th - 10th, 2023<\/a><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__355c8424-8265-419a-96af-c63de66da752-167279474373916359-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "03829c8a-c05e-4083-ac5e-326396933a21": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16071295369384__03829c8a-c05e-4083-ac5e-326396933a21-1676057362dc77a86d-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification---LA-H_H-Aug-2019---20190818-DSC02010-SQ1400.jpg",
+            "tab_label": "Item",
+            "subheading": "Level-1 Certifications",
+            "title": "Minneapolis, Minnesota",
+            "content": "<p><strong>Timberwolf Fitness<br\/><\/strong>Click Date for Details\/Registration<\/p><p>$575 (Early Bird $50 Discount)<\/p>",
+            "button_text_1": "July 22nd - 23rd, 2023",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-minneapolis-mn---722-23-2023-sh",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__03829c8a-c05e-4083-ac5e-326396933a21-1676057362dc77a86d-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1e5405db-46f6-4122-9ec1-d466b1696069": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16071295369384__1e5405db-46f6-4122-9ec1-d466b1696069-16686342647796ab4b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1400x1400_Certification.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Interested in hosting a certification?",
+            "content": "<p>We are looking for Hosts in:<\/p><p>Tampa, Philadelphia, Washington DC, Atlanta<br\/><\/p>",
+            "button_text_1": "Apply to Host A Certification",
+            "button_link_1": "https:\/\/stickmobility.com\/pages\/certification-hosting",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__1e5405db-46f6-4122-9ec1-d466b1696069-16686342647796ab4b-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 20,
+        "accent_background": "#282828",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "70f47497-8dad-446f-86c6-ed030684c7f3": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16071295369384__70f47497-8dad-446f-86c6-ed030684c7f3-1668634229331dfa37-0": {
+          "type": "variant_picker",
+          "disabled": true,
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "template--16071295369384__70f47497-8dad-446f-86c6-ed030684c7f3-1668634229331dfa37-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--16071295369384__70f47497-8dad-446f-86c6-ed030684c7f3-1668634229331dfa37-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "atc_button_background": "#f94f1b",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "1c466095-0993-4dbc-bead-0c7425b1f97f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buy Now Pay Later is Available at Checkout with Sezzle<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__70f47497-8dad-446f-86c6-ed030684c7f3-1668634229331dfa37-0",
+        "template--16071295369384__70f47497-8dad-446f-86c6-ed030684c7f3-1668634229331dfa37-1",
+        "template--16071295369384__70f47497-8dad-446f-86c6-ed030684c7f3-1668634229331dfa37-2",
+        "1c466095-0993-4dbc-bead-0c7425b1f97f"
+      ],
+      "settings": {
+        "product": "online-certification-level-1",
+        "subheading": "",
+        "title": "Get certified online",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "7c790abc-bc70-4c34-9f49-b9767b541af8": {
+      "type": "featured-product",
+      "blocks": {
+        "template--16071295369384__7c790abc-bc70-4c34-9f49-b9767b541af8-1670574756693ee63d-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "template--16071295369384__7c790abc-bc70-4c34-9f49-b9767b541af8-1670574756693ee63d-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "template--16071295369384__7c790abc-bc70-4c34-9f49-b9767b541af8-1670574756693ee63d-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "atc_button_background": "#f94f1b",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        },
+        "96efba47-81e6-45be-8a26-6d935f15b82f": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Buy Now Pay Later is Available at Checkout with Sezzle<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16071295369384__7c790abc-bc70-4c34-9f49-b9767b541af8-1670574756693ee63d-0",
+        "template--16071295369384__7c790abc-bc70-4c34-9f49-b9767b541af8-1670574756693ee63d-1",
+        "template--16071295369384__7c790abc-bc70-4c34-9f49-b9767b541af8-1670574756693ee63d-2",
+        "96efba47-81e6-45be-8a26-6d935f15b82f"
+      ],
+      "settings": {
+        "product": "online-certification-level-2",
+        "subheading": "",
+        "title": "NEW RELEASE",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "38819de2-e2c2-4c0a-abf4-2153bc9e2dd4",
+    "main",
+    "a5b5d7e5-1c13-42bf-80cd-bdc979a18db7",
+    "c04f60af-80b5-494b-91ce-d8f77c8e3e22",
+    "ea793ff6-630b-4253-9100-7802c0aa09ac",
+    "f8bdfd74-4d96-4161-a585-9b41075bf446",
+    "91cb8b74-8986-4ef1-a707-834aca7bc0f5",
+    "2c7a2b68-d2d0-4102-89bf-d061f4fe5ef1",
+    "2bf20041-ab9c-4977-81d3-927d65ad6cd7",
+    "f4cd17e8-dfd6-434a-bc95-e7a63d057493",
+    "8fb74a1f-223a-44e0-9f20-16cc2de8f746",
+    "a5f1e7d5-b737-4618-9a57-d421cdeeace8",
+    "ede3405e-093c-44be-afd5-fec03da19e10",
+    "c0bae211-500b-431e-b195-f14223bcd667",
+    "54bdc25d-a6e4-4ebc-9a03-a21c40bbc2bf",
+    "0d0b78ba-33dd-49a1-83ec-ba13ae6248ee",
+    "c0492382-10be-4fee-ac54-18e6c2ffaae9",
+    "355c8424-8265-419a-96af-c63de66da752",
+    "03829c8a-c05e-4083-ac5e-326396933a21",
+    "1e5405db-46f6-4122-9ec1-d466b1696069",
+    "70f47497-8dad-446f-86c6-ed030684c7f3",
+    "7c790abc-bc70-4c34-9f49-b9767b541af8"
+  ]
+}

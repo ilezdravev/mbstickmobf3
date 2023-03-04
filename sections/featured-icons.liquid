@@ -1,0 +1,51 @@
+<div class="featured-icons-section">
+  <div class="container">
+    <div class="icons-grid">
+      {% for block in section.blocks %}
+        <div class="icon-grid-item">
+          <div class="icon-image">
+            {% if block.settings.svg_content and block.settings.svg_content != '' %}
+              {{ block.settings.svg_content }}
+            {% else %}
+              <img loading="lazy" sizes="(max-width: 740px) 20vw, 200px" {% render 'image-attributes', image: block.settings.image, sizes: '400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600' %}>
+            {% endif %}
+          </div>
+          <div class="description">{{ block.settings.title }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "Featured Icons",
+    "blocks": [
+      {
+        "name": "Icon",
+        "type": "icon",
+        "settings": [
+          {
+            "type": "html",
+            "id": "svg_content",
+            "label": "SVG Content"
+          },
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Icon Image"
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Featured Icons"
+      }
+    ]
+  }
+{% endschema %}

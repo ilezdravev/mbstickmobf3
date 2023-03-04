@@ -1,0 +1,289 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "faq": {
+      "type": "faq",
+      "blocks": {
+        "36172a8f-131a-4747-84a0-f644aac752bd": {
+          "type": "category",
+          "settings": {
+            "title": "Questions About Training Sticks"
+          }
+        },
+        "24acb665-bdc5-4c75-8b73-cb1002640708": {
+          "type": "question",
+          "settings": {
+            "title": "What stick lengths are best for me?",
+            "answer": "<p>Our training system is based on the use of three sticks. There are specific exercises for two long sticks, single long, and short stick drills that allow you to work the entire body efficientlyWe recommend purchasing a bundle of three sticks to start to utilize the full range of exercises in the training system and video programs.There are two bundle options to fit different height customers:If you are under 5’10″ tall get the 6ft + 6ft + 4ft Stick Bundle.If you are 5’10″ and taller get the 7ft + 7ft + 5ft Stick Bundle.If you have any stick length or model questions please call us at 888.992.8779 or email support@stickmobility.com<\/p>"
+          }
+        },
+        "db3b0f2e-7393-4e95-8eca-236479a65079": {
+          "type": "question",
+          "settings": {
+            "title": "Do I need more than one stick?",
+            "answer": "<p>As our training system is based on the use of three sticks (two long sticks, one short), we recommend purchasing a bundle of three sticks to begin your Stick Mobility Training. This allows you to utilize the full range of exercises in the training program as there are specific exercises using two long sticks, single long, and short stick drills that allow you to work the entire body efficiently.If you would like to purchase just one or two sticks to start instead, get the 6-foot sticks if you are under 5’10″ tall, and the 7-foot sticks if you are 5’10” and taller. As a guide, a single long stick allows access to approximately 50% of the exercises, two long sticks cover 75%, and 25% of our exercises are done with a short stick.The short stick is used for ground-based and kneeling exercises, including upper body and hip articulations and stretches, plus some rotational drills and lower body stretches e.g. Dead Bugs, Kayaking, Shin Box 90\/90's, and the Frog Straddle. Short sticks are used when a shorter lever is required, and when drills involve holding both end-grips at once.Two long sticks can be used to work both sides of the body at once and create force in different directions. These drills involve hanging, twisting, pushing, and pulling in opposing directions to challenge your bilateral coordination, help strengthen and balance the body’s kinetic chain, and can shorten workout time by working both sides of the body at once. Two long sticks also provide added stability. Balance and stability work can be challenging; extra stability allows the body and the central nervous system to learn to adapt to the new stimulus. Using two sticks can add extra support to practice more advanced drills before progressing to single-stick variations, add more stability for beginners, older clients, and aid those rehabbing from injuries.<\/p>"
+          }
+        },
+        "9589006b-2cf2-4376-b1c8-5365f35aeb07": {
+          "type": "question",
+          "settings": {
+            "title": "How often should I use the Training Sticks?",
+            "answer": "<p>Stick Mobility can be practiced every day. The benefits of Stick Mobility transfer to performance training and everyday activities. You can use Stick Mobility as a standalone training program or segmentally. It is a system that complements other training systems and sports.Active stretching and flows can be integrated into your daily routine for warm-ups and recovery. Submaximal efforts can be used for pre-exercise activations on a daily basis. Daily active deep stretching will allow you to access increased ranges of motion and help strengthen your body over time.Maximal effort isometrics (90-100%) can be done as a standalone workout, which requires optimal recuperation, as it fully fatigues the central nervous system. (Think of how often you would do maximal lifts in the gym.)Maximal efforts for 1-2 exercises can be introduced per individual workout, but with a limitation of approximately 1-2 minutes of total contraction time. (This is a general guideline for maximal efforts as some people have exceptional capabilities and can handle more load and effort than most.)<\/p>"
+          }
+        },
+        "d31d0d49-cc98-4f5e-b968-47e4dad52195": {
+          "type": "question",
+          "settings": {
+            "title": "How far should I flex the Training Stick?",
+            "answer": "<p>One objective with some Stick Mobility exercises (e.g. the Bow & Arrow drill) is to create tension by flexing the stick.Excessive over flexion is not part of the training exercises and not required to achieve the benefits of the system. Although rare, excessive over-flexion of the stick can result in stick damage and breakage. Please follow the flexion examples from our training videos and \/ or the guidance of a Certified Stick Mobility Instructor.<\/p>"
+          }
+        },
+        "66e38712-b536-4e25-94c0-9a0e5263e432": {
+          "type": "question",
+          "settings": {
+            "title": "Are there any special care guidelines for the Training Sticks?",
+            "answer": "<p>We recommend you do not expose your Training Sticks to prolonged extreme temperatures as this may compromise the structural integrity of the sticks.Do not leave your Training Sticks inside your vehicle in very hot temperatures as this can cause unwanted bending of the sticks if the sticks are on an angle. Store them flat or vertically in very hot temperatures.Store your Training Sticks either upright or if horizontal support the stick at each end and in the middle to avoid potential bending over time.When flexing the Training Stick, such as in the Bow & Arrow drill, we recommend spinning the stick after each rep so you don’t always bend the stick in the same direction to maintain the stick’s shape over time. One objective with Stick Mobility exercises (e.g. the bow & Arrow drill) is to create tension by flexing the stick. Excessive over-flexion is not part of the training exercises and not required to achieve the benefits of the system. Although rare, excessive over-flexion of the stick can result in stick damage and breakage. Please follow the flexion examples from our training videos and\/or the guidance of a Certified Stick Mobility Instructor. <\/p>"
+          }
+        },
+        "a9851b48-8230-48f7-b430-15aa9af81b9b": {
+          "type": "question",
+          "settings": {
+            "title": "Any recommendations for traveling by plane with my Mobility Sticks?",
+            "answer": "<p>Sticks can be checked in as luggage on flights but they may incur additional fees. We’ve found that some airlines have special rates or discounts for physical therapy equipment, so we suggest referring to your sticks as such.  We can’t guarantee any discounts due to each airline having its own policies and rates for checked luggage, but it’s worth a try.When you’re traveling domestically it can be more affordable to ship your sticks to your destination via a delivery service such as USPS, UPS, or FedEx. We advise calling and checking with your airline to find out their rates, which you can then compare to shipping costs.Unfortunately, international shipping is not always reliable and rates are often on the high side. If the final destination of the sticks is an international location, checking them as luggage through the airline is the more reliable option, and it is unlikely that shipping them would be more affordable.It is solely the customer’s responsibility to arrange for the transportation of their sticks home from the Certification Courses. If you choose to ship your sticks home, this includes locating the delivery service and purchasing a box to ship them in. We highly recommend pre-planning these details and giving yourself extra time before your flight home to package and drop your sticks off at your chosen postal facility.<\/p>"
+          }
+        },
+        "2096832f-91fb-4894-a7de-95f49a2239a7": {
+          "type": "question",
+          "settings": {
+            "title": "What are the Training Sticks made from?",
+            "answer": "<p>Stick Mobility Training Sticks are made with a blend of synthetic plastic with customized levels of polymers and plasticizers to create a unique level of flex and strength for professional daily use in gyms, medical facilities, and sports fields. (This is not plumber's pipe.)Our reinforced, durable end-grips are molded from silicone rubber and designed to provide a secure grip in-hand and on the floor. They are waterproof, easy to clean, and made in the USA.<\/p>"
+          }
+        },
+        "b1b8f953-84ff-46b1-893e-cb148c0ab3f5": {
+          "type": "question",
+          "settings": {
+            "title": "How much do the sticks weigh?",
+            "answer": "<p>4 Foot Weight: 2 lbs.<\/p><p>5 Foot Weight: 2 lbs. <\/p><p>6 Foot Weight: 2 lbs. 10 oz. <\/p><p>7 Foot Weight: 3 lbs. 7 oz. 664 <\/p><p>Bundle Weight: 7 lbs. 4 oz.775 <\/p><p>Bundle Weight: 9 lbs. 3 oz.<\/p><p><strong>HEAVY DUTY MODELS<\/strong><\/p><p>Heavy Duty 6-Foot Weight: 3 lbs. 9 oz.<\/p><p>Heavy Duty 7-Foot Weight: 4 lbs. <\/p><p>Heavy Duty 8-Foot Weight: 4 lbs 4 oz. lbs664 <\/p><p>Heavy Duty Bundle Weight: 9 lbs.775 <\/p><p>Heavy Duty Bundle Weight: 10 lbs. 5 oz. <\/p>"
+          }
+        },
+        "1aecea44-9b5d-4680-9a46-2e8489c936c7": {
+          "type": "question",
+          "settings": {
+            "title": "What are the exact dimensions of the sticks?",
+            "answer": "<p>Stick Width is 1.3″<\/p><p>Grip Width is 1.5\"4-Foot Length: 49.25\"<\/p><p>5-Foot Length: 61.25\"<\/p><p>6-Foot Length: 73.25\"<\/p><p>7-Foot Length: 85.25\"<\/p><p><strong>HEAVY DUTY MODELS<\/strong><\/p><p>Width of Heavy Duty Sticks: 1.7\"<\/p><p>Width of Heavy Duty Grips: 2″6-Foot <\/p><p>Heavy Duty Length: 73.25\"<\/p><p>7-Foot Heavy Duty Length: 85.25\"<\/p><p>8-Foot Heavy Duty Length: 97.25\"<\/p>"
+          }
+        },
+        "bf798410-822c-47a8-bfdf-3dc0efeb3cb2": {
+          "type": "category",
+          "settings": {
+            "title": "Shipping \/ Return \/ Warranty Questions"
+          }
+        },
+        "7b1980ac-aa7f-419a-a7b0-6e759370efdb": {
+          "type": "question",
+          "settings": {
+            "title": "What is your return \/ exchange policy?",
+            "answer": "<p>USA orders placed at StickMobility.com are eligible to be returned for a refund on the price of the product within 30 days of your order being delivered. For orders not placed at StickMobility.com, please contact the seller directly.Please view our <a href=\"\/pages\/returns-exchanges\" title=\"Returns & Exchanges\">Returns and Exchanges Policy Page<\/a> for complete details.<\/p>"
+          }
+        },
+        "21813c9c-06fd-4744-a93f-d9c971e0371a": {
+          "type": "question",
+          "settings": {
+            "title": "What is your warranty policy?",
+            "answer": "<p>Stick Mobility Training Sticks come with a 12-month Limited Warranty against manufacturer defects for sticks purchased from StickMobility.com from date of purchase.  We will replace any Stick Mobility Training Stick found to contain a manufacturer defect after inspection, and will cover replacement shipping charges.  For orders not placed at StickMobility.com, please contact the seller directly.  Please view our <a href=\"\/pages\/warranty\" title=\"Warranty\">Warranty Policy Page<\/a> for complete details.<\/p>"
+          }
+        },
+        "dd3b8ab3-2f61-4c51-87d5-8aaf6b3cfd38": {
+          "type": "question",
+          "settings": {
+            "title": "Where do stick orders ship from in the USA?",
+            "answer": "<p>Sticks ship from our warehouse in Florida. For more shipping information visit our <a href=\"\/pages\/shipping\" title=\"Shipping\">Shipping Page<\/a>.<\/p>"
+          }
+        },
+        "6600f012-a34e-40cb-9c13-f100ed60a199": {
+          "type": "question",
+          "settings": {
+            "title": "In what countries outside of the USA can I purchase Stick Mobility?",
+            "answer": "<p>Click &gt;&gt;&gt; <a href=\"\/pages\/international-partners\" title=\"International Partners\">HERE<\/a>  to view a list of our current international distribution partners.<\/p>"
+          }
+        },
+        "f536b664-3255-47f3-a8fc-b2580f122629": {
+          "type": "question",
+          "settings": {
+            "title": "How much do the sticks weigh?",
+            "answer": "<p>The weight of a Training Stick varies based on its length and model. Below are the approximate weights of each of our sticks.<\/p><p>4 Foot Stick ~ 2 lbs<\/p><p>5 Foot Stick ~ 2lbs 5 oz <\/p><p>6 Foot Stick ~ 2 lbs 10 oz<\/p><p>7 Foot Stick ~ 3 lbs 7 oz<\/p><p>Heavy Duty 6 Foot Stick ~  3 lbs 8 oz<\/p><p>Heavy Duty 7 Foot Stick ~  4 lbs<\/p><p>Heavy Duty 8 Foot Stick ~ 4 lbs 5 oz<\/p><p>Standard 664 Bundle ~ 7 lbs 4 oz<\/p><p>Standard 775 Bundle ~ 9 lbs 3 oz<\/p><p>Heavy Duty 664 Bundle ~ 9 lbs<\/p><p>Heavy Duty 775 Bundle ~ 10 lbs 5 oz<\/p>"
+          }
+        },
+        "26a8342c-f169-4c9a-94ab-d46d60d6aacf": {
+          "type": "category",
+          "settings": {
+            "title": "About the Training Program"
+          }
+        },
+        "c4eb82a7-0bcf-4095-977e-02dfa181f2ba": {
+          "type": "question",
+          "settings": {
+            "title": "What is Stick Mobility?",
+            "answer": "<p>Stick Mobility is a training system that improves your mobility, stability, and strength.<br\/><br\/>The system combines joint mobilization, strength training, and active stretching to increase athletic performance, reduce risk of injury, and speed recovery.<br\/><br\/>The training system features custom exercises using our Training Sticks as a tool to improve range of motion, muscle activation, and body awareness to build a stronger foundation for better movement.<\/p>"
+          }
+        },
+        "c120b025-c702-41c3-91e1-bb35c1186e60": {
+          "type": "question",
+          "settings": {
+            "title": "What are the different types of exercises in the training program?",
+            "answer": "<p>The Stick Mobility Training System has three phases \/ styles of exercises:<br\/><br\/><strong>1. Joint Mobility<\/strong><\/p><p>Joint mobilizations are the foundational key to optimal movement quality. When a joint doesn’t have an ability to move through all three planes of motion well then compensations and\/or the inability to handle internal and external loads can occur which can result in injury. Too often we try to increase the capacity of a joint without discovering if the joint can move appropriately.  Joints need to understand their function before we start increasing their capacity to handle loaded movements and deeper ranges of motion.<br\/><br\/><strong>2. Strength Training<br\/><\/strong>We use isometrics which involves the unweighted resistance of muscle groups through contractions  (tensing) of the muscles. This allows you to safely focus on creating internal tension to increase full-body strength and improve your ability to handle external weighted loads. <br\/><br\/><strong>3. Active Stretching<br\/><\/strong>Our stretches are active rather than traditional passive stretches, so we’re always pulling or pushing on the sticks or the floor to ensure we bring neuromuscular control and stability to your end-range positions.<\/p><p><br\/><strong>Class Examples<\/strong><br\/>In regular 45-minute Stick Mobility classes, you would practice 15 minutes of Joint Mobility exercises, 15 minutes of Strength Training exercises, and 15 minutes of Active Stretching to finish.<\/p>"
+          }
+        },
+        "9982e592-35f0-4130-9e79-899710d52b61": {
+          "type": "question",
+          "settings": {
+            "title": "Who is using Stick Mobility?",
+            "answer": "<p>We focus on helping coaches, athletes, and medical practitioners from various areas of fitness, sports performance, and healthcare. From pro athletes to personal trainers, yoga instructors to kettlebell specialists, bodybuilders to chiropractors, and physical therapists. Each one of them views movement from a different perspective. We work with them to understand how to apply the Stick Mobility principles into how they view movement with the goal of helping them reach their full potential.Some professional sports teams who use Stick Mobility include The Cincinnati Bengals, The Raiders, LA Rams, The Baltimore Orioles, LA Angels, Atlanta Braves, San Diego Padres, LA Kings, Anaheim Ducks, Philadelphia 76’ers, Indiana Pacers, Minnesota Timberwolves, and the Denver Nuggets.PGA Golfers, Paul Casey, Jason Day, and Dustin Johnson have implemented our system with their personal trainers to help increase their flexibility and rotation.<\/p>"
+          }
+        },
+        "53bab0e7-d611-425e-9da0-577d474bd8b2": {
+          "type": "question",
+          "settings": {
+            "title": "Why are Stick Mobility exercises more effective than basic stretches?",
+            "answer": "<p>Stick Mobility uses the formula: joint range of motion + joint stability + neuromuscular drive = mobility.Traditional, passive stretching by itself lacks these crucial elements.  We know that our muscles get tight for a reason, and no matter how much we stretch, without the right strength levels, they won’t let go. This is typically caused by weakness in one area causing tension in another.For example – tighten the hip flexors, like you do when you sit down all day, and your hamstrings will become overactive when you extend the hip. Tightness makes you more susceptible to injury.The neuromuscular drive benefits from Stick Mobility come as your body is better able to coordinate your muscles as one unified mechanism to produce movement. The better balanced your muscles are, the better they can coordinate your kinetic chain.<\/p>"
+          }
+        },
+        "49bf641b-482b-468b-a28f-07f7f22c5048": {
+          "type": "question",
+          "settings": {
+            "title": "What are the core principles behind the system?",
+            "answer": "<p><strong>Leverage<\/strong><\/p><p>The mechanical advantage gained by using a lever such as the Stick Mobility Training Stick allows for a greater range of motion to make it easier to overcome the body’s resistance to bending.<\/p><p><strong>Stability<\/strong><\/p><p>The quality of being stable. The ability to hold a position and resist internal or external forces. The Stick Mobility Training Stick gives you an aid to help create stability in the joints and gives a strong base of support.<\/p><p><strong>Feedback<\/strong><\/p><p>The Stick Mobility Training Stick provides visual and kinesthetic feedback to users and coaches to enhance body awareness and learning. Visual feedback amplifies the movements and targets problem areas. Kinesthetic feedback creates awareness and activation of different muscles, fascial lines, and joint positions and improves spatial awareness.<\/p><p><strong>Irradiation<\/strong><\/p><p>The Stick Mobility Training Stick increases irradiation by driving the sticks into the ground, ceiling, or wall and squeezing to activate grip and trunk power. This allows us to give more input to the nervous system and make changes faster.Sherrington’s Law of Irradiation: “A muscle working hard recruits the neighboring muscles, and if they are already part of the action, it amplifies its strength.  The neural impulses emitted by the contracting muscle reach other muscles and turn them on like an electric current starts a motor.”<\/p><p><strong>Isometrics<\/strong><\/p><p>There are three types of isometric contractions. When you apply all three, you can obtain significant increases in neural drive, muscle fiber recruitment, and rate of production. They include static contraction, yielding contraction, and overcoming contraction.<\/p><p><strong>Coordination<\/strong><\/p><p>The harmonious functioning of the motor apparatus of the brain and particular groups of muscles for the execution of movements. Using the Stick Mobility Training Stick enhances the neural feedback from the hands to the brain. The stick, in conjunction with positional isometrics, can aid in the activation of muscles involved in movements.These scientific principles form the foundation upon which our training system is built.  <\/p><p>The system is accredited by the following organizations:<\/p><p>National Academy of Sports Medicine <\/p><p>Athletics & Fitness Association of America <\/p><p>National College of Exercise Professionals <\/p><p>National Strength & Conditioning Association<\/p><p>Personal Training Academy Global<\/p><p>Alberta Fitness Leadership Certification Association <\/p>"
+          }
+        },
+        "4ef9a4f9-1f22-48d1-8ff0-0033048f4ed4": {
+          "type": "question",
+          "settings": {
+            "title": "What are the benefits of integrating Stick Mobility into my training program?",
+            "answer": "<p>Through combining joint mobilization, strength training, and active stretching with the Stick Mobility system we have seen users improve their:<\/p><p>Functional range of motion<\/p><p>Joint stability<\/p><p>Balance<\/p><p>Posture<\/p><p>Full-body strength<\/p><p>Coordination<\/p><p>Tissue quality<\/p><p>Athletic performance<\/p><p>Body alignment<\/p><p>Muscle activation<\/p><p>Motor control<\/p><p>Body awareness<\/p><p>Reduced risk of injury<\/p><p>Recovery from injury<\/p><p>Faster recovery after exercise<\/p>"
+          }
+        },
+        "7f7d5c36-e608-4c0d-8a9b-1921d8a676e4": {
+          "type": "category",
+          "settings": {
+            "title": "Online Videos & Courses"
+          }
+        },
+        "af36610f-6d0e-4d2e-b842-554e913296da": {
+          "type": "question",
+          "settings": {
+            "title": "Can I view Stick Mobility video exercises on a Smart TV?",
+            "answer": "<p>Our exercises are available to view on our YouTube channel which makes them easy to view on a Smart TV. Just download or open the YouTube app and find the Stick Mobility channel. Our Golf Mobility and Run Injury Free Online Training Programs are currently only available to view online through our website, so to view them on a Smart TV it will need to be capable of browsing the Internet.<\/p>"
+          }
+        },
+        "de7b615a-a34c-4535-a71f-5a69dbb07652": {
+          "type": "question",
+          "settings": {
+            "title": "Can I view Stick Mobility exercises offline?",
+            "answer": "<p>All the videos available on our YouTube channel can be accessed offline if you have a paid subscription to YouTube Premium, which allows you to download videos to your YouTube account and view them when you are offline. Our Golf Mobility and Run Injury Free Online Training Programs are currently only available to view on our website and they cannot be downloaded. The device you’d like to view them on will need to be connected to the Internet.<\/p>"
+          }
+        },
+        "15f44676-f29d-4a9b-9872-02b4e03b44b4": {
+          "type": "category",
+          "settings": {
+            "title": "Certification Course Questions"
+          }
+        },
+        "dca05d44-ea82-419e-b1d6-9fb72dc5a787": {
+          "type": "question",
+          "settings": {
+            "title": "Can I become a Certified Coach to teach Stick Mobility classes?",
+            "answer": "<p>We offer 2-day in-person certification courses and a Level 1 online course you can take at your own pace to learn the Stick Mobility principles and movements to enhance your own training and your clients.<\/p><p>The Level 1 In-Person Certification price includes: a $70.00 discount on 3 Mobility Sticks (2 long, 1 short), 14 hours of training, 15-30% off future stick purchases, a bound Level 1 Coaching Manual, lifetime access to online training and coaching videos, a printed official Certificate of Completion, and 1.3 CEU’s (13 CEC’s from PTA Global and 12 CEC’s from AFLCA).<\/p><p>The Level 1 Online Certification price includes: 14 hours of training via in-depth instructional online video’s, 15-30% off future stick purchases, a downloadable PDF Level 1 Coaching Manual, lifetime access to online training and coaching videos, an official Certificate of Completion (Downloadable PDF file), and 1.3 CEU’s (13 CEC’s from PTA Global and 12 CEC’s from AFLCA).<\/p><p>The Level 2 Certification price includes: 14 hours of advanced training from our co-founders, access to the Level 2 Coaching Manual, a printed official Certificate of Completion, and you earn 1.3 CEUs from NASM \/ NCEP\/ AFAA. *Completion of Level 1 is required to attend Level 2.<\/p><p>Click &gt;&gt;&gt; <a href=\"\/pages\/certification-info\" title=\"Certification Info\">HERE<\/a> for more information or Click &gt;&gt;&gt; <a href=\"\/pages\/certification-listings\" title=\"Certification Listings\">HERE<\/a> to see a list of our upcoming Certifications.<\/p>"
+          }
+        },
+        "5d7bee4b-2b12-4b15-ab1f-5f945d26c912": {
+          "type": "question",
+          "settings": {
+            "title": "Do Certified Coaches earn Continuing Education Units\/Credits?",
+            "answer": "<p>Our Level 1 In-Person and Online Certification Courses are accredited by the following organizations and were awarded 1.3 CEU’s (13 CEC’s from PTA Global and 12 CEC’s from AFLCA):<\/p><p>- Personal Training Academy Global <\/p><p>- National Academy of Sports Medicine<\/p><p>- Athletics & Fitness Association of America<\/p><p>- National College of Exercise Professionals<\/p><p>- National Strength & Conditioning Association<\/p><p>- Alberta Fitness Leadership Certification Association<\/p><p>Our Level 2 Certification Course is accredited by the following organizations and was awarded 1.3 CEU’s:<\/p><p>- National Academy of Sports Medicine<\/p><p>- Athletics & Fitness Association of America<\/p><p>- National College of Exercise Professionals<\/p>"
+          }
+        },
+        "19b2185d-9357-4ad2-b8d2-bd91d6fa5d33": {
+          "type": "question",
+          "settings": {
+            "title": "Will I be required to renew my Stick Mobility Certification after a period of time?",
+            "answer": "<p>The Stick Mobility Certification is valid for life, you will not be required to renew your Certification or provide any continuing education credits.Stick Mobility Coaches certified through Stick Mobility US have the option of re-taking a Level 1 In-Person or Online course for a reduced price of $199.<\/p>"
+          }
+        },
+        "8e0ab36a-ee50-4511-b8e4-4d234f9907ad": {
+          "type": "question",
+          "settings": {
+            "title": "What if I need to cancel after signing up for a Certification?",
+            "answer": "<p>We understand that sometimes plans change. Registrants can cancel and receive a full refund up to two weeks prior to the event or they can choose to transfer to a different Certification. Attendee substitutions are also allowed. Cancelations received within two weeks of the event may be subject to a shipping reimbursement fee (under $50) if sticks have been shipped to the event location. Refunds will not be issued for no-shows. To cancel or reschedule your Certification please contact us at support@stickmobility.com or 888-992-8779.<\/p>"
+          }
+        },
+        "640bc546-54f9-430e-aa2e-6a928796e5b8": {
+          "type": "question",
+          "settings": {
+            "title": "I’m petitioning for credit, can I get more details about the Certification Course?",
+            "answer": "<p>Yes, email support@stickmobility.com and you’ll be provided with the most commonly required information for petitioning to receive CECs.<\/p>"
+          }
+        },
+        "37a62248-31f2-4c14-a525-d577077dfea8": {
+          "type": "question",
+          "settings": {
+            "title": "Can my facility host a Stick Mobility Certification?",
+            "answer": "<p>If you’re interested in hosting a Level 1 Certification Course at your facility click &gt;&gt;&gt;<a href=\"\/pages\/certification-hosting\" title=\"Certification Hosting\"> HERE<\/a> for more information.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "36172a8f-131a-4747-84a0-f644aac752bd",
+        "24acb665-bdc5-4c75-8b73-cb1002640708",
+        "db3b0f2e-7393-4e95-8eca-236479a65079",
+        "9589006b-2cf2-4376-b1c8-5365f35aeb07",
+        "d31d0d49-cc98-4f5e-b968-47e4dad52195",
+        "66e38712-b536-4e25-94c0-9a0e5263e432",
+        "a9851b48-8230-48f7-b430-15aa9af81b9b",
+        "2096832f-91fb-4894-a7de-95f49a2239a7",
+        "b1b8f953-84ff-46b1-893e-cb148c0ab3f5",
+        "1aecea44-9b5d-4680-9a46-2e8489c936c7",
+        "bf798410-822c-47a8-bfdf-3dc0efeb3cb2",
+        "7b1980ac-aa7f-419a-a7b0-6e759370efdb",
+        "21813c9c-06fd-4744-a93f-d9c971e0371a",
+        "dd3b8ab3-2f61-4c51-87d5-8aaf6b3cfd38",
+        "6600f012-a34e-40cb-9c13-f100ed60a199",
+        "f536b664-3255-47f3-a8fc-b2580f122629",
+        "26a8342c-f169-4c9a-94ab-d46d60d6aacf",
+        "c4eb82a7-0bcf-4095-977e-02dfa181f2ba",
+        "c120b025-c702-41c3-91e1-bb35c1186e60",
+        "9982e592-35f0-4130-9e79-899710d52b61",
+        "53bab0e7-d611-425e-9da0-577d474bd8b2",
+        "49bf641b-482b-468b-a28f-07f7f22c5048",
+        "4ef9a4f9-1f22-48d1-8ff0-0033048f4ed4",
+        "7f7d5c36-e608-4c0d-8a9b-1921d8a676e4",
+        "af36610f-6d0e-4d2e-b842-554e913296da",
+        "de7b615a-a34c-4535-a71f-5a69dbb07652",
+        "15f44676-f29d-4a9b-9872-02b4e03b44b4",
+        "dca05d44-ea82-419e-b1d6-9fb72dc5a787",
+        "5d7bee4b-2b12-4b15-ab1f-5f945d26c912",
+        "19b2185d-9357-4ad2-b8d2-bd91d6fa5d33",
+        "8e0ab36a-ee50-4511-b8e4-4d234f9907ad",
+        "640bc546-54f9-430e-aa2e-6a928796e5b8",
+        "37a62248-31f2-4c14-a525-d577077dfea8"
+      ],
+      "settings": {
+        "show_navigation": true,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "faq"
+  ]
+}

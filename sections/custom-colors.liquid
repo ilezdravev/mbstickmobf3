@@ -1,0 +1,30 @@
+<style>
+{% for block in section.blocks %}
+  .{{ block.settings.color_name | handleize }} {
+    background-color: {{ block.settings.color_value }} !important;
+  }
+{% endfor %}
+</style>
+{% schema %}
+  {
+    "name": "Custom Colors",
+    "blocks": [
+      {
+        "type": "color",
+        "name": "Color",
+        "settings": [
+          {
+            "type": "text",
+            "id": "color_name",
+            "label": "Color Name"
+          },
+          {
+            "type": "color",
+            "id": "color_value",
+            "label": "Color Value"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

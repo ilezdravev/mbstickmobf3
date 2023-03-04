@@ -1,0 +1,60 @@
+
+<div class="timeline-section">
+  <div class="image-wrap">
+    {% for block in section.blocks %}
+
+    {% endfor %}
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "Timeline",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title",
+        "default": "TRUSTED BY PRO ATHLETES"
+      },
+      {
+        "type": "text",
+        "id": "btn_text",
+        "label": "Button Text",
+        "default": "Shop Training Sticks"
+      },
+      {
+        "type": "url",
+        "id": "btn_link",
+        "label": "Button Link"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "item",
+        "name": "Item",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+          },
+          {
+            "type": "text",
+            "id": "label",
+            "label": "Label"
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Timeline New"
+      }
+    ]
+  }
+{% endschema %}

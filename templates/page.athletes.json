@@ -1,0 +1,526 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "16644710975188d440": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "166447109759dd4503-0": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166447109759dd4503-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664470898eb166356": {
+      "type": "featured-collections",
+      "disabled": true,
+      "blocks": {
+        "16644708986deeb556-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644708986deeb556-0"
+      ],
+      "settings": {
+        "subheading": "Your title",
+        "title": "Collection",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644709228577adec": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "1664470922c66c7a63-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "1664470922c66c7a63-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "1664470922c66c7a63-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "rgba(0,0,0,0)",
+            "atc_button_text_color": "rgba(0,0,0,0)",
+            "buy_now_button_background": "rgba(0,0,0,0)",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "1664470922c66c7a63-0",
+        "1664470922c66c7a63-1",
+        "1664470922c66c7a63-2"
+      ],
+      "settings": {
+        "product": "",
+        "subheading": "Subheading",
+        "title": "Featured product",
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16645718720af11783": {
+      "type": "gallery",
+      "disabled": true,
+      "blocks": {
+        "166457187245f6738a-0": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "166457187245f6738a-1": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "166457187245f6738a-2": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "23baff83-918d-4cf3-bdce-cad758e78dd0": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "36e230bb-1b1b-4ef4-8814-6e9ba65f6542": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "166457187245f6738a-0",
+        "166457187245f6738a-1",
+        "166457187245f6738a-2",
+        "23baff83-918d-4cf3-bdce-cad758e78dd0",
+        "36e230bb-1b1b-4ef4-8814-6e9ba65f6542"
+      ],
+      "settings": {
+        "subheading": "Subheading",
+        "title": "Gallery",
+        "show_arrows": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16645719142c84f5e5": {
+      "type": "multi-column",
+      "blocks": {
+        "1664571914fd920c75-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kavon_Frazier.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Kavon Frazier",
+            "content": "<p>NFL<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664571914fd920c75-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Xavier_Woods.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Xavier woods",
+            "content": "<p>NFL<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664571914fd920c75-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Max_Holloway.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "max holloway",
+            "content": "<p>UFC<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664571914fd920c75-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Antonio_Brown.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Antonio brown",
+            "content": "<p>NFL<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "ff8bcd91-07c5-4552-bd6f-8acef042474a": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tarni_Golisano.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Tarni golisano",
+            "content": "<p>WAWFL<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "bf8b940f-6fb9-4d2e-a62a-91986215d569": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Trevor_Wreckling.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Trevor reckling",
+            "content": "<p>MLB<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "7781d9a6-4027-4039-b5b6-c5a32566876c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artie_Lewick.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Artie Lewicki",
+            "content": "<p>MLB<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "6a1fce13-3368-47ba-b4d7-91eb8be69575": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SF_Giants.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "SF GIANTS",
+            "content": "<p>MLB<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "9e09b7fa-12fc-48e5-88fb-9e07f49b41b2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Noah_Syndergaard.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Noah Syndergaard",
+            "content": "<p>MLB<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "d2737673-5019-430f-81bb-3c2a2b9fb522": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jon_Jay.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "JON JAY",
+            "content": "<p>MLB<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "6e338289-d469-4d79-b3aa-b21a72bf6d35": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blake_Rutherford.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Blake Rutherford",
+            "content": "<p>MLB<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "d62d8152-f485-4195-b155-53f15b4fdffd": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Aaron_Holiday.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "aaron holiday",
+            "content": "<p>NBA<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "afbc28dd-08b5-4d0f-babf-0b52b3facea5": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Franklin_Jackson.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "franklin jackson",
+            "content": "<p>NBA<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16dd3e07-8652-4e11-b103-2e258cc72334": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Lamar_Odem.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Lamar Odom",
+            "content": "<p>NBA<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "50851908-c705-4ed3-b947-3b9fba6d2f7c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dwayne_Wade_08d8fbf3-2f1b-4024-bfa8-1e127452361b.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Dwyane Wade",
+            "content": "<p>NBA<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "8e545f70-f1cd-4916-af05-de4ce12b70a6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/elfrid_payton.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "elfrid payton",
+            "content": "<p>NBA<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664571914fd920c75-0",
+        "1664571914fd920c75-1",
+        "1664571914fd920c75-2",
+        "1664571914fd920c75-3",
+        "ff8bcd91-07c5-4552-bd6f-8acef042474a",
+        "bf8b940f-6fb9-4d2e-a62a-91986215d569",
+        "7781d9a6-4027-4039-b5b6-c5a32566876c",
+        "6a1fce13-3368-47ba-b4d7-91eb8be69575",
+        "9e09b7fa-12fc-48e5-88fb-9e07f49b41b2",
+        "d2737673-5019-430f-81bb-3c2a2b9fb522",
+        "6e338289-d469-4d79-b3aa-b21a72bf6d35",
+        "d62d8152-f485-4195-b155-53f15b4fdffd",
+        "afbc28dd-08b5-4d0f-babf-0b52b3facea5",
+        "16dd3e07-8652-4e11-b103-2e258cc72334",
+        "50851908-c705-4ed3-b947-3b9fba6d2f7c",
+        "8e545f70-f1cd-4916-af05-de4ce12b70a6"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "THE STICKS IN ACTION WITH",
+        "title": "PRO ATHLETES",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#f5f5f5",
+        "text_color": "#282828"
+      }
+    },
+    "1664471123aa93aecc": {
+      "type": "featured-collections",
+      "blocks": {
+        "166447112385ddc8ae-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "4e59e994-f669-403f-bea9-0491ad75d493": {
+          "type": "collection",
+          "settings": {
+            "collection": "heavy-duty-mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "28cac500-d069-45fe-9c6c-bffe7ae88875": {
+          "type": "collection",
+          "settings": {
+            "collection": "sports-video-training",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "98badaf9-0dc2-4ba4-899f-022428a636bf": {
+          "type": "collection",
+          "settings": {
+            "collection": "certifications",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "166447112385ddc8ae-0",
+        "4e59e994-f669-403f-bea9-0491ad75d493",
+        "28cac500-d069-45fe-9c6c-bffe7ae88875",
+        "98badaf9-0dc2-4ba4-899f-022428a636bf"
+      ],
+      "settings": {
+        "subheading": "SHOP STICKMOBILITY",
+        "title": "EXPLORE",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16644710975188d440",
+    "1664470898eb166356",
+    "16644709228577adec",
+    "16645718720af11783",
+    "16645719142c84f5e5",
+    "1664471123aa93aecc"
+  ]
+}

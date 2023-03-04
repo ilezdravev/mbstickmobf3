@@ -1,0 +1,575 @@
+{
+  "sections": {
+    "166441748023149c73": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/vimeo.com\/489128819",
+        "background_type": "full_width",
+        "video_size": "small",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#ffffff"
+      }
+    },
+    "166441745145664638": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/StickMobility_Golf_Mobility_Cover_Image.jpg",
+        "subheading": "IMPROVE YOUR GAME WITH",
+        "title": "GOLF MOBILITY TRAINING",
+        "content": "<p><strong>By Stick Mobility and PGA Pro Trainer Ben Shear<\/strong><\/p>",
+        "button_text_1": "buy a training bundle",
+        "button_link_1": "shopify:\/\/products\/stick-bundles",
+        "button_text_2": "advanced golf mobilty for trainers",
+        "button_link_2": "shopify:\/\/products\/golf-mobility-online-video-training",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "1664417466e1ea1879": {
+      "type": "text-with-icons",
+      "blocks": {
+        "16644174662b619288-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/golf1.png",
+            "custom_icon_width": 50,
+            "title": "JOINT MOBILIZATION",
+            "content": "<p>Improve your mobility to increase your ability to hit the ball further.<\/p>"
+          }
+        },
+        "16644174662b619288-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/weight100.png",
+            "custom_icon_width": 40,
+            "title": "STRENGTH TRAINING",
+            "content": "<p>Get your club and body in better positions to have a more consistent, efficient, and effective golf swing.<\/p>"
+          }
+        },
+        "16644174662b619288-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/stretchbend100.png",
+            "custom_icon_width": 45,
+            "title": "ACTIVE STRETCHING",
+            "content": "<p>Reduce your risk of injury in training and on the course.<\/p>"
+          }
+        },
+        "16644174662b619288-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16644174662b619288-0",
+        "16644174662b619288-1",
+        "16644174662b619288-2",
+        "16644174662b619288-3"
+      ],
+      "settings": {
+        "background": "#4c4c4c",
+        "text_color": "#ffffff"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "1664418879b0f7f229": {
+      "type": "logo-list",
+      "disabled": true,
+      "blocks": {
+        "1664418879aeebf17f-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Mens_Health_logo.png",
+            "link": "https:\/\/www.menshealth.com\/fitness\/a28777129\/stick-mobility-training\/"
+          }
+        },
+        "1664418879aeebf17f-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Yoga_Journal_Logo.png",
+            "link": "https:\/\/www.yogajournal.com\/lifestyle\/fashion-beauty\/yoga-gear\/yj-tried-it-stick-mobility\/"
+          }
+        },
+        "1664418879aeebf17f-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/golf-digest-logo.png",
+            "link": "https:\/\/www.golfdigest.com\/story\/best-fitness-equipment-for-golfers"
+          }
+        },
+        "1664418879aeebf17f-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Muscle_Fitness_Logo.png",
+            "link": "https:\/\/www.muscleandfitness.com\/gear\/5-ways-upgrade-your-home-gym-2020\/"
+          }
+        },
+        "1664418879aeebf17f-4": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664418879aeebf17f-0",
+        "1664418879aeebf17f-1",
+        "1664418879aeebf17f-2",
+        "1664418879aeebf17f-3",
+        "1664418879aeebf17f-4",
+        "1664418879aeebf17f-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "AS SEEN IN",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "b47f2193-034e-4c21-ae6f-95c95481722c": {
+      "type": "video",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/player.vimeo.com\/video\/304898084",
+        "image": "shopify:\/\/shop_images\/basket-of-golf-balls_d146cb89-9536-45ca-b0b2-a7ca4d0aa8cf.jpg",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": false,
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644659930b39e6b5": {
+      "type": "logo-list",
+      "blocks": {
+        "1664465993d70cd9fd-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/golf-digest-logo.png",
+            "link": "https:\/\/www.golfdigest.com\/story\/best-fitness-equipment-for-golfers"
+          }
+        },
+        "1664465993d70cd9fd-1": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664465993d70cd9fd-2": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664465993d70cd9fd-3": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664465993d70cd9fd-4": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664465993d70cd9fd-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664465993d70cd9fd-0",
+        "1664465993d70cd9fd-1",
+        "1664465993d70cd9fd-2",
+        "1664465993d70cd9fd-3",
+        "1664465993d70cd9fd-4",
+        "1664465993d70cd9fd-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "2019-2022 EDITORS' CHOICE AWARD",
+        "title": "\"Best Fitness Equipment Stretching Aid\"",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "16644174961453475b": {
+      "type": "multi-column",
+      "blocks": {
+        "1664417496ea78aaa2-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Swing.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "POSITIONING",
+            "content": "<p>Get your club and body in better positions to have a more consistent, efficient, and effective golf swing.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Injured_Golfer.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "RISK",
+            "content": "<p>Reduce your risk of injury in training and on the course.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Positioning.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MOBILITY",
+            "content": "<p>Improve your mobility to increase your ability to hit the ball further.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "f4457e47-9938-4151-9bb5-fb4b68ee1266": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Your content",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664417496ea78aaa2-0",
+        "1664417496ea78aaa2-1",
+        "1664417496ea78aaa2-2",
+        "1664417496ea78aaa2-3",
+        "f4457e47-9938-4151-9bb5-fb4b68ee1266"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "THE BENEFITS",
+        "title": "GOLF MOBILITY TRAINING",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644175168db70154": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664417516222184b9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Bundle_Golf_Mobility.jpg",
+            "tab_label": "TRAINING BUNDLE",
+            "subheading": "SHOP TRAINING BUNDLE",
+            "title": "GET YOUR STICK BUNDLE",
+            "content": "<p>3-Stick Bundle to Compliment the Golf Mobility Training series.<\/p>",
+            "button_text_1": "Buy a  training Bundle",
+            "button_link_1": "shopify:\/\/products\/stick-bundles",
+            "button_text_2": "online golf mobility video",
+            "button_link_2": "shopify:\/\/products\/golf-mobility-online-video-training"
+          }
+        },
+        "0167a942-a4b7-4d29-9e5b-11fd5a505f8c": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Golf_Mobility_Randy_Hew_Plain.jpg",
+            "tab_label": "GOLF MOBILITY",
+            "subheading": "NOW AVAILABLE 100% ONLINE",
+            "title": "GET YOUR GOLF MOBILITY PROGRAM",
+            "content": "<p>The online video training series includes instructional videos that explain the benefits of mobility in relation to golf, a set of golf-specific warm-up exercises and workout videos, plus a pre-round on-course warm-up video. (The exercises require the use of a 3-stick bundle).<\/p>",
+            "button_text_1": "PURCHASE VIDEO TRAINING SERIES",
+            "button_link_1": "shopify:\/\/products\/golf-mobility-online-video-training",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417516222184b9-0",
+        "0167a942-a4b7-4d29-9e5b-11fd5a505f8c"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644175334c3da5f4": {
+      "type": "image-with-text",
+      "blocks": {
+        "166441753326af9e31-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ben_Shear_1400x1400_aab27703-fc99-4bd3-9533-8ea51059fd14.jpg",
+            "tab_label": "Item",
+            "subheading": "PGA PRO TRAINER",
+            "title": "BEN SHEAR",
+            "content": "<p>\"A big difference I see between the amateur and the professional is their mobility and range of motion. The professional has a great ability to have a big hip and shoulder turn and deliver the club back with speed.\"<\/p><p><\/p><p><strong>Performance Coach for PGA Tour Professionals, Fitness Advisor to Golf Digest Magazine, and host of Sirius XM's \"Golfers Edge\" on PGA Tour Radio.<\/strong><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166441753326af9e31-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664417554aa31d032": {
+      "type": "gallery",
+      "blocks": {
+        "1664417554effc6fbf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Warm-Up.jpg",
+            "caption": ""
+          }
+        },
+        "1664417554effc6fbf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Intructionals.jpg",
+            "caption": ""
+          }
+        },
+        "1664417554effc6fbf-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Workouts.jpg",
+            "caption": ""
+          }
+        },
+        "507a47af-f525-407b-8e77-1df632ca8fb3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Power_Program.jpg",
+            "caption": ""
+          }
+        },
+        "4586ef82-b7ab-427a-8c3d-126bd2f7fc8d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Course_Warm-Up.jpg",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417554effc6fbf-0",
+        "1664417554effc6fbf-1",
+        "1664417554effc6fbf-2",
+        "507a47af-f525-407b-8e77-1df632ca8fb3",
+        "4586ef82-b7ab-427a-8c3d-126bd2f7fc8d"
+      ],
+      "settings": {
+        "subheading": "GOLF MOBILITY TRAINING",
+        "title": "PROGRAM SECTIONS",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664417566228d2f90": {
+      "type": "multi-column",
+      "blocks": {
+        "1664417566a1b96ff9-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Randy_Hew_Golf_Mobility_Home_Page.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "MOBILITY TRAINING",
+            "content": "<p>Access to the online Golf Mobility Training video series.<\/p>",
+            "link_text": "BUY NOW",
+            "link_url": "shopify:\/\/products\/golf-mobility-online-video-training",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "1664417566a1b96ff9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jake_Hutt_Golf_Power_Home_Page.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "IMPROVE YOUR SWING",
+            "content": "<p>Access to the online Golf Feels For Power video series.<\/p>",
+            "link_text": "Learn More",
+            "link_url": "shopify:\/\/pages\/golf-swing-feels",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "1664417566a1b96ff9-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664417566a1b96ff9-1",
+        "1664417566a1b96ff9-2",
+        "1664417566a1b96ff9-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "TRAINING FOR",
+        "title": "GOLFERS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "166441748023149c73",
+    "166441745145664638",
+    "1664417466e1ea1879",
+    "main",
+    "1664418879b0f7f229",
+    "b47f2193-034e-4c21-ae6f-95c95481722c",
+    "16644659930b39e6b5",
+    "16644174961453475b",
+    "16644175168db70154",
+    "16644175334c3da5f4",
+    "1664417554aa31d032",
+    "1664417566228d2f90"
+  ]
+}

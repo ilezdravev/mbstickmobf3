@@ -1,0 +1,106 @@
+{
+  "sections": {
+    "dialogue-product-recommendations-top": {
+      "type": "dialogue-ai",
+      "settings": {
+        "position": "top"
+      }
+    },
+    "ea8fff09-433f-4c6b-9e3d-70be67dd7540": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "USE SEZZLE TO BUY NOW PAY LATER",
+        "title": "$200 gets Free shipping (USA)",
+        "content": "",
+        "button_text": "",
+        "button_link": "https:\/\/stickmobility.com\/collections\/workshops\/products\/online-intro-workshop",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-cart",
+      "blocks": {
+        "totals": {
+          "type": "totals",
+          "settings": {}
+        },
+        "order_note": {
+          "type": "order_note",
+          "settings": {
+            "open_by_default": false
+          }
+        },
+        "2dc8998b-93b3-496f-96a6-4a7ecda061ef": {
+          "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/tabs\/4959f958-a614-4d73-add9-fc38222c9217",
+          "disabled": true,
+          "settings": {
+            "style": "2",
+            "tabColor": "#f2f2f2",
+            "tabColorContrast": "#222222",
+            "highlightColor": "#b5b5b5",
+            "highlightColorContrast": "#ffffff",
+            "title_1": "Make Payments",
+            "content_1": "Split your purchase into 4 interest-free payments with Sezzle.",
+            "title_2": "Terms",
+            "content_2": "With Sezzle, you can buy more, pay later. Split your order into 4 interest-free payments over 6 weeks, so that you get what you need, when you want.\nWhy Sezzle It?\n🚫 No fees when you pay on time\n🗓️ Free payment reschedules\n😁 Zero impact on your credit.  \nClick Sezzle to make payments or checkout with your CC.",
+            "title_3": "",
+            "content_3": "",
+            "title_4": "",
+            "content_4": "",
+            "title_5": "",
+            "content_5": "",
+            "title_6": "",
+            "content_6": ""
+          }
+        },
+        "bf456fd4-7351-415e-b5d7-4f7625348c49": {
+          "type": "shopify:\/\/apps\/sezzle-widget\/blocks\/checkout-block\/f3a53793-e118-4764-a86b-a79bfedb0d5f",
+          "settings": {
+            "heading": "Sezzle Checkout Button",
+            "template": "Checkout with %%logo%%",
+            "mode": "light",
+            "default_placement": false
+          }
+        }
+      },
+      "block_order": [
+        "totals",
+        "order_note",
+        "2dc8998b-93b3-496f-96a6-4a7ecda061ef",
+        "bf456fd4-7351-415e-b5d7-4f7625348c49"
+      ],
+      "settings": {
+        "show_payment_methods": true,
+        "show_shipping_estimator": false,
+        "shipping_estimator_default_country": "United States",
+        "empty_button_link": "shopify:\/\/pages\/shop"
+      }
+    },
+    "dialogue-product-recommendations": {
+      "type": "dialogue-ai",
+      "settings": {
+        "position": "bottom"
+      }
+    },
+    "cart-recommendations": {
+      "type": "cart-recommendations",
+      "settings": {
+        "title": "You may also like"
+      }
+    }
+  },
+  "order": [
+    "dialogue-product-recommendations-top",
+    "ea8fff09-433f-4c6b-9e3d-70be67dd7540",
+    "main",
+    "dialogue-product-recommendations",
+    "cart-recommendations"
+  ]
+}

@@ -1,0 +1,423 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "166441745145664638": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "content": "<p>Content<\/p>",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "1664417466e1ea1879": {
+      "type": "text-with-icons",
+      "blocks": {
+        "16644174662b619288-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Free shipping",
+            "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
+          }
+        },
+        "16644174662b619288-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Customer service",
+            "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+          }
+        },
+        "16644174662b619288-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Secure payment",
+            "content": "<p>Your payment information is processed securely.<\/p>"
+          }
+        },
+        "16644174662b619288-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16644174662b619288-0",
+        "16644174662b619288-1",
+        "16644174662b619288-2",
+        "16644174662b619288-3"
+      ],
+      "settings": {
+        "background": "#4c4c4c",
+        "text_color": "#ffffff"
+      }
+    },
+    "1664418879b0f7f229": {
+      "type": "logo-list",
+      "blocks": {
+        "1664418879aeebf17f-0": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-1": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-2": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-3": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-4": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-5": {
+          "type": "logo",
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664418879aeebf17f-0",
+        "1664418879aeebf17f-1",
+        "1664418879aeebf17f-2",
+        "1664418879aeebf17f-3",
+        "1664418879aeebf17f-4",
+        "1664418879aeebf17f-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "Brands",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "166441748023149c73": {
+      "type": "video",
+      "settings": {
+        "subheading": "STICK MOBILITY IS A TRAINING SYSTEM THAT COMBINES JOINT MOBILIZATION, STRENGTH TRAINING, AND ACTIVE STRETCHING TO INCREASE ATHLETIC PERFORMANCE, REDUCE RISK OF INJURY, AND SPEED RECOVERY.",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "background_type": "boxed",
+        "video_size": "small",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644174961453475b": {
+      "type": "multi-column",
+      "blocks": {
+        "1664417496ea78aaa2-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664417496ea78aaa2-0",
+        "1664417496ea78aaa2-1",
+        "1664417496ea78aaa2-2",
+        "1664417496ea78aaa2-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "Subheading",
+        "title": "Multi-column",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644175168db70154": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664417516222184b9-0": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664417516222184b9-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#f5f5f5",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644175334c3da5f4": {
+      "type": "image-with-text",
+      "blocks": {
+        "166441753326af9e31-0": {
+          "type": "item",
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "166441753326af9e31-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664417554aa31d032": {
+      "type": "gallery",
+      "blocks": {
+        "1664417554effc6fbf-0": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "1664417554effc6fbf-1": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        },
+        "1664417554effc6fbf-2": {
+          "type": "image",
+          "settings": {
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417554effc6fbf-0",
+        "1664417554effc6fbf-1",
+        "1664417554effc6fbf-2"
+      ],
+      "settings": {
+        "subheading": "Subheading",
+        "title": "PROGRAM SECTIONS",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664417566228d2f90": {
+      "type": "multi-column",
+      "blocks": {
+        "1664417566a1b96ff9-0": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417566a1b96ff9-1": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417566a1b96ff9-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417566a1b96ff9-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664417566a1b96ff9-0",
+        "1664417566a1b96ff9-1",
+        "1664417566a1b96ff9-2",
+        "1664417566a1b96ff9-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "Subheading",
+        "title": "Multi-column",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166441745145664638",
+    "1664417466e1ea1879",
+    "1664418879b0f7f229",
+    "166441748023149c73",
+    "16644174961453475b",
+    "16644175168db70154",
+    "16644175334c3da5f4",
+    "1664417554aa31d032",
+    "1664417566228d2f90"
+  ]
+}

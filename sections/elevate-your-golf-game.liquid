@@ -1,0 +1,67 @@
+<div id="{{ section.id }}" class="eleavate-section">
+  <div class="container">
+    <div class="section-title">{{ section.settings.title }}</div>
+    <div class="image-and-text-wrap">
+      <div class="image-content">
+        <img src="{{ section.settings.image | img_url: '2000x'}}" alt="">
+      </div>
+      <div class="text-content">
+        <div>
+          <div class="description">
+            {{ section.settings.text }}
+          </div>
+          <a class="button button--secondary btn-first" href="{{ section.settings.url1 }}">{{ section.settings.text1 }}</a>
+          <a class="button button--secondary btn-second" href="{{ section.settings.url2 }}">{{ section.settings.text2 }}</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Elevate Your Golf Game",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title",
+        "default": "TRUSTED BY PRO ATHLETES"
+      },{
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      }, {
+        "type": "text",
+        "id": "text",
+        "label": "Description"
+      },
+      {
+        "type": "url",
+        "id": "url",
+        "label": "Link URL"
+      },
+      {
+        "type": "text",
+        "id": "text1",
+        "label": "Link Text 1",
+        "default": "SHOP TRAINING STICKS"
+      },
+      {
+        "type": "url",
+        "id": "url2",
+        "label": "Link URL"
+      }, {
+        "type": "text",
+        "id": "text2",
+        "label": "Link Text",
+        "default": "SHOP TRAINING STICKS"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Elevate Your Golf Name"
+      }
+    ]
+  }
+{% endschema %}

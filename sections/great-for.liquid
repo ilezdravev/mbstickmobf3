@@ -1,0 +1,101 @@
+
+<div class="great-for-section">
+  <div class="container">
+    <div class="title text--center">{{ section.settings.title }}</div>
+    <div class="great-for-content">
+      <div class="great-for-slider-prev">
+        <img src="{{ 'arrow-prev.png' | asset_url }}" alt="">
+      </div>
+      <div class="great-for-items-grid">
+        {% for block in section.blocks %}
+          <div class="great-for-item-wrap">
+            {% if block.settings.image %}
+              <div class="great-for-item">
+                <div class="great-for-image">
+                  <img
+                    loading="lazy"
+                    sizes=""
+                    {% render 'image-attributes', image: block.settings.image, sizes: '400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600' %}>
+                </div>
+                <div class="great-for-title">{{ block.settings.title }}</div>
+                <div class="great-for-subtitle">{{ block.settings.subtitle }}</div>
+              </div>
+            {% endif %}
+          </div>
+        {% endfor %}
+      </div>
+      <div class="great-for-slider-next">
+        <img src="{{ 'arrow-next.png' | asset_url }}" alt="">
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+
+  if ($('.great-for-content').find('.great-for-item-wrap').length > 5) {
+    $('.great-for-content').addClass('p')
+  }
+  if($(window).width() > 768) {
+    $('.great-for-items-grid').slick({
+      slidesToShow: 5,
+      dots: false,
+      arrows: false,
+      responsive: [
+        {
+          breakpoint: 999,
+          settings: {
+            slidesToShow: 1,
+            dots: true
+          }
+        }
+      ]
+    })
+  }
+  $('.great-for-slider-prev').on('click', function() {
+    $('.great-for-items-grid').slick('slickPrev')
+  })
+  $('.great-for-slider-next').on('click', function() {
+    $('.great-for-items-grid').slick('slickNext')
+  })
+</script>
+
+{% schema %}
+  {
+    "name": "Great For",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title",
+        "default": "WHAT OUR STICKS ARE GREAT FOR?"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "item",
+        "name": "Item",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image"
+          }, {
+            "type": "text",
+            "id": "title",
+            "label": "Title"
+          }, {
+            "type": "text",
+            "id": "subtitle",
+            "label": "Subtitle"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Great For"
+      }
+    ]
+  }
+{% endschema %}

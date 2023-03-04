@@ -1,0 +1,482 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "1664418723a28e98b2": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Run_Injury_Free_Website_Image.jpg",
+        "subheading": "RUNNERS TRAINING PROGRAM",
+        "title": "RUN INJURY FREE",
+        "content": "<p>with Dr. Emily Splichal and Stick Mobility<\/p>",
+        "button_text_1": "Purchase Video Training",
+        "button_link_1": "shopify:\/\/products\/run-injury-free-online-video-training",
+        "button_text_2": "",
+        "button_link_2": "",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "166441873759c40348": {
+      "type": "text-with-icons",
+      "blocks": {
+        "1664418736251d55cf-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon": "shopify:\/\/shop_images\/SeekPng.com_balance-icon-png_4314201.png",
+            "custom_icon_width": 50,
+            "title": "IMPROVE STABILITY AND BALANCE",
+            "content": "<p>Better control dynamic posture and joint position sense to run more efficiently.<\/p>"
+          }
+        },
+        "1664418736251d55cf-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon": "shopify:\/\/shop_images\/stretchbend100.png",
+            "custom_icon_width": 50,
+            "title": "CONNECT FROM THE GROUND UP",
+            "content": "<p>Increase body awareness and performance of small nerves to large muscle groups.<\/p>"
+          }
+        },
+        "1664418736251d55cf-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon": "shopify:\/\/shop_images\/reduceinjury100.png",
+            "custom_icon_width": 50,
+            "title": "REDUCE YOUR RISK OF INJURY",
+            "content": "<p>Reduce your risk of injury with fascial tensioning and proprioceptive training.<\/p>"
+          }
+        },
+        "1664418736251d55cf-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664418736251d55cf-0",
+        "1664418736251d55cf-1",
+        "1664418736251d55cf-2",
+        "1664418736251d55cf-3"
+      ],
+      "settings": {
+        "background": "#4c4c4c",
+        "text_color": "#ffffff"
+      }
+    },
+    "1664418750ff2a2a29": {
+      "type": "logo-list",
+      "blocks": {
+        "16644187504c4c5898-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Mens_Health_logo.png",
+            "link": "https:\/\/www.menshealth.com\/fitness\/a28777129\/stick-mobility-training\/"
+          }
+        },
+        "16644187504c4c5898-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Yoga_Journal_Logo.png",
+            "link": "https:\/\/www.yogajournal.com\/lifestyle\/fashion-beauty\/yoga-gear\/yj-tried-it-stick-mobility\/"
+          }
+        },
+        "16644187504c4c5898-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/golf-digest-logo.png",
+            "link": "https:\/\/www.golfdigest.com\/story\/best-fitness-equipment-for-golfers"
+          }
+        },
+        "16644187504c4c5898-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Muscle_Fitness_Logo.png",
+            "link": "https:\/\/www.muscleandfitness.com\/gear\/5-ways-upgrade-your-home-gym-2020\/"
+          }
+        },
+        "16644187504c4c5898-4": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "16644187504c4c5898-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644187504c4c5898-0",
+        "16644187504c4c5898-1",
+        "16644187504c4c5898-2",
+        "16644187504c4c5898-3",
+        "16644187504c4c5898-4",
+        "16644187504c4c5898-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "AS SEEN IN",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "16644187692738478a": {
+      "type": "video",
+      "settings": {
+        "subheading": "Stick Mobility is a training system that combines joint mobilization, strength training, and active stretching to increase athletic performance, reduce risk of injury, and speed recovery.",
+        "title": "",
+        "video_url": "https:\/\/vimeo.com\/243945713",
+        "image": "shopify:\/\/shop_images\/Run_Injury_Free_Thubnail.jpg",
+        "background_type": "boxed",
+        "video_size": "small",
+        "autoplay": false,
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "166441877935f23e58": {
+      "type": "multi-column",
+      "blocks": {
+        "1664418779a60af5d3-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ankle.jpg",
+            "image_width": 100,
+            "image_border": "#000000",
+            "title": "RISK",
+            "content": "<p>Reduce your risk of injury with fascial tensioning and proprioceptive training.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664418779a60af5d3-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Connection.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "CONNECTION",
+            "content": "<p>Connect your body from the ground up by increasing body awareness and performance originating from the smallest nerves moving up to the largest muscle groups.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664418779a60af5d3-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Balance.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "BALANCE",
+            "content": "<p>Improve your balance and stability to run more efficiently.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664418779a60af5d3-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664418779a60af5d3-0",
+        "1664418779a60af5d3-1",
+        "1664418779a60af5d3-2",
+        "1664418779a60af5d3-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "THE BENEFITS",
+        "title": "RUN INJURY FREE",
+        "content": "<p>The Run Injury Free Online Video Training Series is a collaboration between podiatrist Dr. Emily Splichal of Naboso Technology and Stick Mobility. This series features pre-run warmup exercises, two workout routines, plus post-run recovery drills. The custom exercises utilize our Mobility Stick Bundle and the Naboso Training Mat to help athletes prepare their bodies for the unique demands of running.<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#ffffff",
+        "text_color": "#282828"
+      }
+    },
+    "1664418782a34fdd2c": {
+      "type": "image-with-text",
+      "blocks": {
+        "166441878212fac13b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Section_3.jpg",
+            "tab_label": "TRAINING",
+            "subheading": "now available 100% online",
+            "title": "Get Your Runners Program!",
+            "content": "<p>Over 80% of runners experiencing overuse injuries at some point during their careers. This special edition barefoot training program has specific exercises to improve your balance and stability to help you run more efficiently and reduce injuries.<\/p>",
+            "button_text_1": "purchase video training",
+            "button_link_1": "shopify:\/\/products\/run-injury-free-online-video-training",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "ab968832-9377-455c-90b8-54173495fdd6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bundle_Collage.jpg",
+            "tab_label": "SHOP STICKS",
+            "subheading": "SHOP EQUIPMENT",
+            "title": "Get Your Stick Bundle!",
+            "content": "<p>3-Stick Bundle to Compliment the Run Video Series.<\/p>",
+            "button_text_1": "Shop Bundles",
+            "button_link_1": "shopify:\/\/products\/stick-bundles",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166441878212fac13b-0",
+        "ab968832-9377-455c-90b8-54173495fdd6"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#f5f5f5",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664418793205657c7": {
+      "type": "image-with-text",
+      "blocks": {
+        "166441879302dfe4d8-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dr_Emily_Splichal_1400x1400_28d77fd4-c22b-4f6d-96f5-791338473718.jpg",
+            "tab_label": "Item",
+            "subheading": "DOCTOR OF PODIATRIC MEDICINE",
+            "title": "DR. EMILY SPLICHAL",
+            "content": "<p>\"All our movement patterns are fed by and led by sensory stimulation. Sufficient sensory stimulation must enter the body to create proper motor patterns.\"<\/p><p>Functional Podiatrist, Human Movement Specialist, Founder of Naboso Technology, and Leader in Barefoot Science and Rehabilitation. Dr. Emily's Functional Foot Programming is built around fascial fitness, foot-to-core sequencing, and barefoot stimulation.<\/p>",
+            "button_text_1": "purchase video training",
+            "button_link_1": "shopify:\/\/products\/run-injury-free-online-video-training",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166441879302dfe4d8-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644187970de7876f": {
+      "type": "gallery",
+      "blocks": {
+        "1664418797773b2c73-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Warm-Up_Running.jpg",
+            "caption": ""
+          }
+        },
+        "1664418797773b2c73-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Workout_1.jpg",
+            "caption": ""
+          }
+        },
+        "1664418797773b2c73-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Workout_2.jpg",
+            "caption": ""
+          }
+        },
+        "4aab7e1e-b445-496e-be87-30273ef0f887": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Recovery.jpg",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664418797773b2c73-0",
+        "1664418797773b2c73-1",
+        "1664418797773b2c73-2",
+        "4aab7e1e-b445-496e-be87-30273ef0f887"
+      ],
+      "settings": {
+        "subheading": "run injury free",
+        "title": "program sections",
+        "show_arrows": true,
+        "background": "#ffffff",
+        "text_color": "#282828"
+      }
+    },
+    "1664418812487db6c4": {
+      "type": "multi-column",
+      "blocks": {
+        "16644188116a3e4e6f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Bundle_No_Border.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "STICK BUNDLES",
+            "content": "<p>3-Stick Bundle to compliment the Run Injury Free online training course.<\/p>",
+            "link_text": "SHOP NOW",
+            "link_url": "shopify:\/\/products\/stick-bundles",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16644188116a3e4e6f-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Run_Video_Series_No_Border.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "RUN INJURY FREE",
+            "content": "<p>Access to the online Run Injury Free video series.<\/p>",
+            "link_text": "BUY NOW",
+            "link_url": "shopify:\/\/products\/run-injury-free-online-video-training",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "16644188116a3e4e6f-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16644188116a3e4e6f-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16644188116a3e4e6f-0",
+        "16644188116a3e4e6f-1",
+        "16644188116a3e4e6f-2",
+        "16644188116a3e4e6f-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "TRAINING FOR",
+        "title": "RUNNERS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664418723a28e98b2",
+    "166441873759c40348",
+    "1664418750ff2a2a29",
+    "16644187692738478a",
+    "166441877935f23e58",
+    "1664418782a34fdd2c",
+    "1664418793205657c7",
+    "16644187970de7876f",
+    "1664418812487db6c4"
+  ]
+}

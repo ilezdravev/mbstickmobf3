@@ -1,0 +1,297 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#f94f1b",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "#f94f1b",
+            "buy_now_button_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "1664493388dbfc05b2": {
+      "type": "faq",
+      "blocks": {
+        "1664493388f96813dd-0": {
+          "type": "category",
+          "settings": {
+            "title": "Overview"
+          }
+        },
+        "1664493388f96813dd-1": {
+          "type": "question",
+          "settings": {
+            "title": "What Is Stick Mobility?",
+            "answer": "<p>Stick Mobility is a training system that improves your flexibility, strength, and coordination.<\/p>"
+          }
+        },
+        "1664493388f96813dd-2": {
+          "type": "question",
+          "settings": {
+            "title": "What Makes Stick Mobility Different?",
+            "answer": "<p>Our exercises combine joint mobilization, strength training, and active stretching using our custom-designed Training Sticks. The Training Sticks are flexible tools used to create leverage, stability, and body awareness to increase functional range of motion and muscle activation.<\/p>"
+          }
+        },
+        "1664493388f96813dd-4": {
+          "type": "question",
+          "settings": {
+            "title": "Why Sticks?",
+            "answer": "<p>The Stick Mobility Training Sticks are designed for professional daily use in gyms and on the sports field. They are waterproof, easy to clean, and made in the USA. Each stick features two silicone rubber grips created for a secure hold in-hand and on-floor.<\/p>"
+          }
+        },
+        "946da5e8-9288-44ae-b8ee-c7355fbc9978": {
+          "type": "question",
+          "settings": {
+            "title": "How Many Sticks?",
+            "answer": "<p>Our training system is based on the use of three sticks. There are specific exercises for two long sticks, single long, and short stick drills that allow you to work the entire body efficiently to help boost athletic performance, reduce risk of injury, and speed recovery. We recommend purchasing a stick bundle to utilize the full range of exercises in the training system.If you’d like to purchase just one or two sticks to start, get the 6-foot sticks if you are <em>under 5’10″<\/em> tall, and the 7-foot sticks if you are <em>5’10” and taller<\/em>.<\/p>"
+          }
+        },
+        "1664493388f96813dd-3": {
+          "type": "category",
+          "settings": {
+            "title": "bundle options"
+          }
+        },
+        "72401616-99b2-4423-a430-1e9ece00f634": {
+          "type": "question",
+          "settings": {
+            "title": "Which Bundle Should I Get?",
+            "answer": "<p>There are two bundle options to fit different height customers:<br\/><\/p><p><em>If you are under 5’10″ tall get the 6ft + 6ft + 4ft Stick Bundle.<\/em><\/p><p><em>If you are 5’10″ and taller get the 7ft + 7ft + 5ft Stick Bundle.<\/em><\/p>"
+          }
+        },
+        "23873ca9-17c0-4a1a-883c-b833b93c54da": {
+          "type": "category",
+          "settings": {
+            "title": "STICK WORKOUTS"
+          }
+        },
+        "c55306eb-9aeb-4a1c-ba39-fec1f8838ebc": {
+          "type": "question",
+          "settings": {
+            "title": "Does Stick Mobility Have Free Workouts?",
+            "answer": "<p>A printed quick-start guide is included with the sticks and you'll have access to the online Beginner's Basics Video Series that demonstrates the key exercises to get you started. Subscribe to our YouTube channel for free workout videos and Instagram@stickmobility for daily exercises to expand your routine. We also offer complimentary live 45-minute workouts on Tuesdays, Thursdays, and Saturdays on Instagram.<\/p>"
+          }
+        },
+        "46d294f4-71aa-4034-ae66-c9bb66576814": {
+          "type": "category",
+          "settings": {
+            "title": "STICK LENGTHS"
+          }
+        },
+        "be80d0e1-894a-49e6-b425-17bd2aae2682": {
+          "type": "question",
+          "settings": {
+            "title": "Which Stick Lengths Are Best For Me?",
+            "answer": "<p>Our most popular and recommended product to start is the three-stick bundle. (Bundles have a built-in discount of about 10% compared to buying the sticks individually). Having two long sticks and one short stick allows you to utilize the full range of exercises in the training program. There are exercises for two long sticks, single long, and short sticks that allow you to work the entire body efficiently.<\/p>"
+          }
+        },
+        "5f4d0ba5-a6f0-49ae-99d4-a4fb84cbca46": {
+          "type": "question",
+          "settings": {
+            "title": "Why Is There A Short Stick?",
+            "answer": "<p>The short stick is used for ground-based and kneeling exercises, including upper body and hip articulations and stretches, plus some rotational drills and lower body stretches e.g. Dead Bugs, Kayaking, Shin Box 90\/90s, and the Frog Straddle. Short sticks are used when a shorter lever is required, and when drills involve holding both end-grips at once.<\/p>"
+          }
+        },
+        "a046a9ff-6aad-4269-a0da-9a5498810d73": {
+          "type": "question",
+          "settings": {
+            "title": "Why Are There Two Long Sticks?",
+            "answer": "<p>Two long sticks are used to work both sides of the body at once and create force in different directions (contralateral exercises). These drills involve hanging, twisting, pushing, and pulling in opposing directions to challenge your bilateral coordination, help strengthen and balance the body’s kinetic chain, and can shorten workout time by working both sides of the body at once. Two long sticks also provide added stability. Balance and stability work can be challenging for most people; extra stability allows the body and the central nervous system to learn to adapt to the new stimulus. Using two sticks adds extra support to practice more advanced drills before progressing to single-stick variations, add more stability for older clients, and aid those rehabbing from injuries.<\/p>"
+          }
+        },
+        "941c040e-fb78-4844-9727-910532052fc7": {
+          "type": "question",
+          "settings": {
+            "title": "Should I Get A Heavy Duty Stick?",
+            "answer": "<p>If you are over 250 lbs and exceptionally strong we recommend the Heavy Duty Model sticks. They are thicker and offer considerably more resistance than the standard models. <\/p>"
+          }
+        },
+        "b3162e09-d26e-4813-abec-4e2aa2d8cb09": {
+          "type": "category",
+          "settings": {
+            "title": "training system"
+          }
+        },
+        "f5e5ab51-6da2-44cf-ac2b-5ecae74c722c": {
+          "type": "question",
+          "settings": {
+            "title": "What Is The Stick Mobility Training System?",
+            "answer": "<p>The Stick Mobility training system combines joint mobilization, strength training, and active stretching exercises using the Stick Mobility Training Sticks. The Training Sticks are flexible tools used to create leverage, stability, and body awareness to improve range of motion and muscle activation. The exercises in the system are based on the scientific principles of Leverage, Stability, Feedback, Irradiation, Isometrics, and Coordination.<\/p>"
+          }
+        },
+        "c99ddce6-46a1-44c6-aebd-824f60791752": {
+          "type": "question",
+          "settings": {
+            "title": "Does Stick Mobility Offer Certifications?",
+            "answer": "<p>We offer certification training courses to deepen your mobility knowledge and skillset and to become a Stick Mobility Coach. Our education system is accredited by these professional fitness organizations:<\/p><p>– National Academy of Sports Medicine<br\/>– Aerobics & Fitness Association of America<br\/>– National College of Exercise Professionals<br\/>– National Strength & Conditioning Association<br\/>– Personal Training Academy Global<br\/>– Alberta Fitness Leadership Certification Association<\/p>"
+          }
+        },
+        "7bd1c49d-a53e-4f4c-8315-8619a09cac02": {
+          "type": "category",
+          "settings": {
+            "title": "benefits"
+          }
+        },
+        "a48b7b25-5f9d-47d0-8328-ce4c5f7a0bcf": {
+          "type": "question",
+          "settings": {
+            "title": "What Are The Benefits of The Stick Mobility Training System?",
+            "answer": "<p>We work with coaches, athletes, and medical practitioners from many areas of sports, fitness, and healthcare. With frequent practice, we have seen users improve their:<\/p><p>Functional range of motion<br\/>Joint stability<br\/>Balance<br\/>Posture<br\/>Full-body strength<br\/>Coordination<br\/>Tissue quality<br\/>Athletic performance<br\/>Body alignment<br\/>Muscle activation<br\/>Motor control<br\/>Body awareness<br\/>Protection from injury<br\/>Recovery from injury<br\/>Recovery from exercise faster<\/p>"
+          }
+        },
+        "3139b1bd-5f7e-4ef7-9af2-c132e31b861e": {
+          "type": "category",
+          "settings": {
+            "title": "FREQUENCY"
+          }
+        },
+        "c9f20ea3-137c-4d9a-a313-5b67638296c5": {
+          "type": "question",
+          "settings": {
+            "title": "How Often Should I Workout With The Sticks?",
+            "answer": "<p>Stick Mobility can be utilized every day. The benefits of Stick Mobility transfer to performance training and everyday activities.<\/p>"
+          }
+        },
+        "25a6a640-1e34-4e6d-9ae8-2fa9d37d77f9": {
+          "type": "question",
+          "settings": {
+            "title": "How Do I Encorporate This Style of Training Into My Current Program?",
+            "answer": "<p>You can use Stick Mobility as a standalone training program or segmentally. It is a system that complements other training systems, activities, and sports.<br\/><\/p><p>Stretching and flows can be integrated into your daily routine for warm-ups and recovery. Submaximal efforts can be used for pre-exercise activations on a daily basis. Daily active deep stretching will allow you to access increased ranges of motion and help strengthen your body over time.<\/p>"
+          }
+        },
+        "b4860f50-cc5f-47c3-b87d-f0e451db1931": {
+          "type": "question",
+          "settings": {
+            "title": "How Should I Train Isometrics with The Sticks?",
+            "answer": "<p>Maximal effort isometrics (90-100%) can be done as a standalone workout, which requires optimal recuperation, as it fully fatigues the central nervous system. (Think of how often you would do maximal lifts in the gym.)<br\/><\/p><p>Maximal efforts for 1-2 exercises can be introduced per individual workout, but with a limitation of approximately 1-2 minutes of total contraction time. (This is a general guideline for maximal efforts as some people have exceptional capabilities and can handle more load and effort than most.)<\/p>"
+          }
+        },
+        "0c0a42b5-543d-4425-99c3-94567f5d435c": {
+          "type": "category",
+          "settings": {
+            "title": "STICK MATERIALS & SPECS"
+          }
+        },
+        "2245be67-e9e7-48d9-b7f6-483ff6f3b74c": {
+          "type": "question",
+          "settings": {
+            "title": "What Are The Training Sticks Made Of?",
+            "answer": "<p>Stick Mobility Training Sticks are made with a blend of synthetic plastic with customized levels of polymers and plasticizers to create a unique level of flex and strength for professional daily use in gyms, medical facilities, and sports fields. (This is not plumber's pipe.)<\/p><p>Our reinforced, durable end-grips are molded from silicone rubber and designed to provide a secure grip in-hand and on the floor. <\/p><p>They are waterproof, easy to clean, and made in the USA.<\/p>"
+          }
+        },
+        "c758c1d7-5a57-4c74-ab2e-c0d6109ff4d2": {
+          "type": "question",
+          "settings": {
+            "title": "What Are The Training Stick Specs?",
+            "answer": "<p>Width of Grips: 1.5″<br\/>Width of Sticks 1.3″<br\/><br\/>664 Bundle Weight: 7 lbs. 4 oz.<br\/>775 Bundle Weight: 9 lbs. 3 oz.<br\/><br\/>4 Foot Weight: 2 lbs. Length: 49.25\"5 Foot Weight: 2 lbs. 5 oz. Length: 61.25\"6 Foot Weight: 2 lbs. 10 oz. Length: 73.25\"7 Foot Weight: 3 lbs. 7 oz. Length: 85.25\"<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664493388f96813dd-0",
+        "1664493388f96813dd-1",
+        "1664493388f96813dd-2",
+        "1664493388f96813dd-4",
+        "946da5e8-9288-44ae-b8ee-c7355fbc9978",
+        "1664493388f96813dd-3",
+        "72401616-99b2-4423-a430-1e9ece00f634",
+        "23873ca9-17c0-4a1a-883c-b833b93c54da",
+        "c55306eb-9aeb-4a1c-ba39-fec1f8838ebc",
+        "46d294f4-71aa-4034-ae66-c9bb66576814",
+        "be80d0e1-894a-49e6-b425-17bd2aae2682",
+        "5f4d0ba5-a6f0-49ae-99d4-a4fb84cbca46",
+        "a046a9ff-6aad-4269-a0da-9a5498810d73",
+        "941c040e-fb78-4844-9727-910532052fc7",
+        "b3162e09-d26e-4813-abec-4e2aa2d8cb09",
+        "f5e5ab51-6da2-44cf-ac2b-5ecae74c722c",
+        "c99ddce6-46a1-44c6-aebd-824f60791752",
+        "7bd1c49d-a53e-4f4c-8315-8619a09cac02",
+        "a48b7b25-5f9d-47d0-8328-ce4c5f7a0bcf",
+        "3139b1bd-5f7e-4ef7-9af2-c132e31b861e",
+        "c9f20ea3-137c-4d9a-a313-5b67638296c5",
+        "25a6a640-1e34-4e6d-9ae8-2fa9d37d77f9",
+        "b4860f50-cc5f-47c3-b87d-f0e451db1931",
+        "0c0a42b5-543d-4425-99c3-94567f5d435c",
+        "2245be67-e9e7-48d9-b7f6-483ff6f3b74c",
+        "c758c1d7-5a57-4c74-ab2e-c0d6109ff4d2"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "HAVE QUESTIONS?",
+        "content": "<p>We recommend purchasing a bundle of 3-sticks to utilize the full range of exercises in the training system. If you’d like to purchase just one or two sticks to start, get the 6-foot sticks if you are <em>under 5’10″<\/em> tall, and the 7-foot sticks if you are <em>5’10” and taller<\/em>.<\/p>",
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "disabled": true,
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "description"
+      ],
+      "settings": {}
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664493388dbfc05b2",
+    "product-content",
+    "product-recommendations"
+  ]
+}

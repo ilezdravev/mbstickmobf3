@@ -1,0 +1,715 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "ab66de73-b4a7-486a-830c-09bb7cdd8ea1": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "video_url": "https:\/\/player.vimeo.com\/video\/304898084",
+        "background_type": "full_width",
+        "video_size": "auto",
+        "autoplay": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "752a3f51-d10d-4496-b3fd-aa175617320c": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16044600983720__752a3f51-d10d-4496-b3fd-aa175617320c-166914371531e9a50f-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Yoga_Image.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Image_Test_2.jpg",
+            "text_position": "middle_left",
+            "subheading": "IMPROVE YOUR YOGA PRACTICE",
+            "title": "STICK MOBILITY CAN SUPERCHARGE YOUR YOGA ROUTINE",
+            "button_1_text": "SHOP STICKS",
+            "button_1_link": "shopify:\/\/products\/stick-bundles",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#000000",
+            "button_background": "#f94f1b",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "template--16044600983720__752a3f51-d10d-4496-b3fd-aa175617320c-166914371531e9a50f-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16044600983720__752a3f51-d10d-4496-b3fd-aa175617320c-166914371531e9a50f-0",
+        "template--16044600983720__752a3f51-d10d-4496-b3fd-aa175617320c-166914371531e9a50f-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "166441745145664638": {
+      "type": "image-with-text-overlay",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/Jake_Hutt_Stick_Mobility_Golf_Feels.png",
+        "subheading": "",
+        "title": "A BRAND NEW GOLF VIDEO SERIES                WITH JAKE HUTT",
+        "content": "<p>Jake Hutt PGA Pro, Editors Choice Award 2022<\/p>",
+        "button_text_1": "buy A Training Bundle",
+        "button_link_1": "shopify:\/\/products\/stick-bundles",
+        "button_text_2": "Golf \"feels\" Online training",
+        "button_link_2": "shopify:\/\/products\/golf-feels-for-power-video-training",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 67
+      }
+    },
+    "1664417466e1ea1879": {
+      "type": "text-with-icons",
+      "blocks": {
+        "16644174662b619288-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-worldwide",
+            "custom_icon_width": 50,
+            "title": "Yoga & MOBILITY",
+            "content": "<p>Mobility training can help you achieve poses you never thought possible through strengthening and training your body's full range of motion.<\/p>"
+          }
+        },
+        "16644174662b619288-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-worldwide",
+            "custom_icon_width": 60,
+            "title": "FREE RESOURCES",
+            "content": "<p>Stick Mobility has a free library of exercises and daily routines you can implement to open up any area of your body that could be restricting your yoga practice.<\/p>"
+          }
+        },
+        "16644174662b619288-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-worldwide",
+            "custom_icon_width": 70,
+            "title": "OUR TRAINING SYSTEM",
+            "content": "<p>The Training Sticks will improve muscle activation, coordination, and body awareness to build a strong foundation for better movement.<\/p>"
+          }
+        },
+        "16644174662b619288-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "Contact us",
+            "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16644174662b619288-0",
+        "16644174662b619288-1",
+        "16644174662b619288-2",
+        "16644174662b619288-3"
+      ],
+      "settings": {
+        "background": "#4c4c4c",
+        "text_color": "#ffffff"
+      }
+    },
+    "166441748023149c73": {
+      "type": "video",
+      "settings": {
+        "subheading": "FREE YOUTUBE CONTENT TO GUIDEAND STRENGTHEN YOUR YOGA WORKOUTS",
+        "title": "",
+        "video_url": "https:\/\/www.youtube.com\/watch?time_continue=2&v=DG1PC3PKrIA",
+        "image": "shopify:\/\/shop_images\/Yoga_Cover_Image.jpg",
+        "background_type": "boxed",
+        "video_size": "small",
+        "autoplay": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644175334c3da5f4": {
+      "type": "image-with-text",
+      "blocks": {
+        "166441753326af9e31-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2023-01-20_at_7.10.35_AM.png",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "YOGA IMPROVES STRENGTH, BALANCE AND FLEXIBILITY.",
+            "content": "<p>Our exercises combine joint mobilization, strength training, and active stretching using our custom-designed Training Sticks. The Sticks are flexible tools used to create leverage, stability, and body awareness.  This will increase your functional range of motion and muscle activation, which in turn improves strength, balance and flexibility.  Exercises using our Sticks are easy for every yoga level, from beginner to professional.<\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166441753326af9e31-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664418879b0f7f229": {
+      "type": "logo-list",
+      "disabled": true,
+      "blocks": {
+        "1664418879aeebf17f-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Mens_Health_logo.png",
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Yoga_Journal_Logo.png",
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/golf-digest-logo.png",
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Muscle_Fitness_Logo.png",
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-4": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664418879aeebf17f-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664418879aeebf17f-0",
+        "1664418879aeebf17f-1",
+        "1664418879aeebf17f-2",
+        "1664418879aeebf17f-3",
+        "1664418879aeebf17f-4",
+        "1664418879aeebf17f-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "AS SEEN IN",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "16644175168db70154": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664417516222184b9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Level_2_Cert_White_2.jpg",
+            "tab_label": "SINGLE STICK",
+            "subheading": "SHOP TRAINING STICKS",
+            "title": "START WITH ONE STICK!",
+            "content": "<p>Select your Training Stick today and improve your mobility, flexibility, coordination and strength from home!<\/p>",
+            "button_text_1": "Select Your STICK",
+            "button_link_1": "shopify:\/\/products\/individual-sticks",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "729e13f2-2e3e-444b-8c2b-559c247a8f05": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Level_2_More_Info.jpg",
+            "tab_label": "Yoga Bundle",
+            "subheading": "IN STOCK & READY TO SHIP!",
+            "title": "GET YOUR STICK BUNDLE",
+            "content": "<p>Improve your yoga and Improve how you feel! Select your Training Sticks and get started supercharging your yoga routine today.<\/p>",
+            "button_text_1": "SELECT YOUR BUNDLE",
+            "button_link_1": "shopify:\/\/products\/stick-bundles",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417516222184b9-0",
+        "729e13f2-2e3e-444b-8c2b-559c247a8f05"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664466834bb429ba8": {
+      "type": "logo-list",
+      "blocks": {
+        "1664466834095d3ab0-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Yoga_Journal_Logo.png",
+            "link": "https:\/\/www.golfdigest.com\/story\/best-fitness-equipment-for-golfers"
+          }
+        },
+        "1664466834095d3ab0-1": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664466834095d3ab0-2": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664466834095d3ab0-3": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664466834095d3ab0-4": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "1664466834095d3ab0-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664466834095d3ab0-0",
+        "1664466834095d3ab0-1",
+        "1664466834095d3ab0-2",
+        "1664466834095d3ab0-3",
+        "1664466834095d3ab0-4",
+        "1664466834095d3ab0-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "We were featured in Yoga Journal!",
+        "title": "“The exercises were great for loosening and strengthening my body in ways that other training systems can’t. I could really feel the added leverage from the sticks when rolling my hips forward…”",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "16644174961453475b": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "1664417496ea78aaa2-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jake_Hutt.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Jake HUTT",
+            "content": "<p>Jake is a PGA Instructor, former golf coach at Stanford and the co-founder of Dryvebox.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Neil_Valera.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Neil Valera",
+            "content": "<p>Neil Valera is a performance coach, the co-founder of StickMobility and a collegiate golfer.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417496ea78aaa2-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664417496ea78aaa2-0",
+        "1664417496ea78aaa2-1",
+        "1664417496ea78aaa2-2",
+        "1664417496ea78aaa2-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "GOLF FEELS INSTRUCTORS",
+        "title": "improve your swing",
+        "content": "<p>\"One of the biggest problems I see when teaching golfers is that so many people overthink their swing and get too mechanical.  Great golfers are “feel” players and leverage their inner athlete which is why I love this program, you just do the exercise, swing the club and hit the ball.  Don’t think, just feel, and you will hit the ball farther, straighter and more consistently.” <\/p><p>-Jake Hutt<\/p>",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "b84c14d6-1699-46fc-86a4-147abb1b8804": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16149389901992__b84c14d6-1699-46fc-86a4-147abb1b8804-16769506199eec7567-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Yoga_Mountains.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "YOGA PROMOTES BETTER POSTURE, BODY AWARENESS AND REDUCES PAIN.",
+            "content": "<p>By adding I5 minutes of Stick Mobility to your daily routine you can supercharge your yoga!  Stick Mobility flows can be integrated into your regular yoga sessions.  Daily active deep stretching,  in conjunction with adding resistance  from our Training Sticks will allow you to access increased ranges of motion and help strengthen your body over time which can lead to healthier tissues, better posture and less pain.<\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16149389901992__b84c14d6-1699-46fc-86a4-147abb1b8804-16769506199eec7567-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "6b314f79-b311-466f-b3c2-435a57c1e8fb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16149389901992__6b314f79-b311-466f-b3c2-435a57c1e8fb-16769506199eec7567-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Yoga_Side_Stretch.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "YOGA HELPS MANAGESTRESS AND ANXIETY",
+            "content": "<p>According to the National Institutes of Health, scientific evidence shows that yoga supports stress management, mental health, mindfulness, healthy eating, weight loss and quality sleep. <br\/><br\/>Stick Mobility's magic formula is:  joint range of motion + joint stability + neuromuscular drive = mobility.  The better balanced your muscles are, the better they can coordinate your kinetic chain.  All of these factors contribute to better sleep and less anxiety and stress.<\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16149389901992__6b314f79-b311-466f-b3c2-435a57c1e8fb-16769506199eec7567-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "1664417554aa31d032": {
+      "type": "gallery",
+      "disabled": true,
+      "blocks": {
+        "1664417554effc6fbf-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Golf_Feels_Warm-Up.jpg",
+            "caption": ""
+          }
+        },
+        "1664417554effc6fbf-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Setup_c3773134-d596-467d-bb75-c08797a0de1d.jpg",
+            "caption": ""
+          }
+        },
+        "1664417554effc6fbf-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Backswing_6189311b-a1e2-4b9c-b016-a12ba65c3c69.jpg",
+            "caption": ""
+          }
+        },
+        "57e73ed5-eaab-44e5-8d3e-c4a7a276a19f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Transition_b50c5886-3497-4be2-99f9-52bec877cf61.jpg",
+            "caption": ""
+          }
+        },
+        "f75f6608-a68d-46c8-88f1-1d256a5a86ad": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Downswing_Golf_Feels.jpg",
+            "caption": ""
+          }
+        },
+        "acfa0c3c-ddd0-42c7-9b29-c9f4a47c9f1a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Club_Path.jpg",
+            "caption": ""
+          }
+        },
+        "eff83d1a-8335-4ff4-82de-f596969fac30": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMPACT_09b6911f-72e6-4fc2-b6b2-26e57da5b1fa.jpg",
+            "caption": ""
+          }
+        },
+        "2520f70f-5db9-4c39-9192-79269cfe1746": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_Finish_c27cfb3d-fdb4-41f7-bf0b-4b8ffde4228d.jpg",
+            "caption": ""
+          }
+        },
+        "50bc61dd-5fc1-438d-a5fa-d78b5e5caea0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daily_Flows_cf6c09d3-ec16-4f45-81ed-a15b8ca2cfd0.jpg",
+            "caption": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664417554effc6fbf-0",
+        "1664417554effc6fbf-1",
+        "1664417554effc6fbf-2",
+        "57e73ed5-eaab-44e5-8d3e-c4a7a276a19f",
+        "f75f6608-a68d-46c8-88f1-1d256a5a86ad",
+        "acfa0c3c-ddd0-42c7-9b29-c9f4a47c9f1a",
+        "eff83d1a-8335-4ff4-82de-f596969fac30",
+        "2520f70f-5db9-4c39-9192-79269cfe1746",
+        "50bc61dd-5fc1-438d-a5fa-d78b5e5caea0"
+      ],
+      "settings": {
+        "subheading": "GOLF SWING FEELS",
+        "title": "PROGRAM SECTIONS",
+        "show_arrows": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664417566228d2f90": {
+      "type": "multi-column",
+      "blocks": {
+        "1664417566a1b96ff9-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jake_Hutt_Golf_Power_Home_Page.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "GOLF \"FEELS\" TRAINING",
+            "content": "<p>Access to the online Golf Feels training video series.<\/p>",
+            "link_text": "BUY NOW",
+            "link_url": "shopify:\/\/products\/golf-feels-for-power-video-training",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417566a1b96ff9-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Randy_Hew_Golf_Mobility_Home_Page.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "golf MOBILITY TRAINING",
+            "content": "<p>Access to the online Golf Mobility Training video series.<\/p>",
+            "link_text": "LEARN MORE",
+            "link_url": "shopify:\/\/pages\/advanced-golf-mobility-training",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664417566a1b96ff9-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "GOLF MOBILITY TRAINING BUNDLE",
+            "content": "<p>3-Stick Bundle to compliment the Golf Mobility online training course.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664417566a1b96ff9-0",
+        "1664417566a1b96ff9-2",
+        "1664417566a1b96ff9-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "TRAINING FOR",
+        "title": "GOLFERS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ab66de73-b4a7-486a-830c-09bb7cdd8ea1",
+    "752a3f51-d10d-4496-b3fd-aa175617320c",
+    "166441745145664638",
+    "1664417466e1ea1879",
+    "166441748023149c73",
+    "16644175334c3da5f4",
+    "1664418879b0f7f229",
+    "16644175168db70154",
+    "1664466834bb429ba8",
+    "16644174961453475b",
+    "b84c14d6-1699-46fc-86a4-147abb1b8804",
+    "6b314f79-b311-466f-b3c2-435a57c1e8fb",
+    "1664417554aa31d032",
+    "1664417566228d2f90"
+  ]
+}

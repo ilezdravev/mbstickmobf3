@@ -1,0 +1,92 @@
+<div class="newsletter-section">
+  <div class="newsletter-form">
+    <div class="newsletter-form__content">
+      <div class="newsletter-form__title">
+        {{ section.settings.title }}
+      </div>
+      <div class="newsletter-form__subtitle">
+        {{ section.settings.subtitle }}
+      </div>
+      {%- assign newsletter_id = 'newsletter-' | append: section.id -%}
+
+      {%- form 'customer', id: newsletter_id, class: 'form newsletter__form' -%}
+        {%- if form.posted_successfully? -%}
+          <script>
+            window.addEventListener('DOMContentLoaded', () => {
+              if (history.scrollRestoration) {
+                history.scrollRestoration = 'manual'; // Prevent the browser to scroll on captcha page
+              }
+
+              document.getElementById('shopify-section-{{ section.id }}').scrollIntoView();
+            });
+          </script>
+
+          <div class="form__banner banner banner--success">
+            <span class="banner__ribbon">{% render 'icon' with 'form-success' %}</span>
+            <p class="banner__content">{{ 'general.newsletter.success' | t }}</p>
+          </div>
+        {%- else -%}
+          {%- if form.errors -%}
+            <div class="form__banner banner banner--error">
+              <span class="banner__ribbon">{% render 'icon' with 'form-error' %}</span>
+              <p class="banner__content">{{ form.errors.messages['email'] }}</p>
+            </div>
+          {%- endif -%}
+
+          <input type="hidden" name="contact[tags]" value="newsletter">
+          <input type="hidden" name="contact[context]" value="{{ newsletter_id }}">
+
+          <div class="">
+            <div class="input">
+              <input type="email" placeholder="Enter Your Email Address" id="newsletter[{{ section.id }}][contact][email]" name="contact[email]" class="input__field" required>
+              <label style="display: none;" for="newsletter[{{ section.id }}][contact][email]" class="input__label">{{ 'general.newsletter.email' | t }}</label>
+            </div>
+
+            <div class="input">
+              <button type="submit" class="button button--primary">{{ section.settings.btn_text }}</button>
+            </div>
+          </div>
+        {%- endif -%}
+      {%- endform -%}
+      <p class="newsletter-form__unsubscribe">Unsubscribe At Anytime</p>
+    </div>
+  </div>
+  <div class="newsletter-image">
+    <img sizes="(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px" loading="lazy" {% render 'image-attributes', image: section.settings.image, sizes: '600,700,800,1000,1200,1400' %}>
+  </div>
+</div>
+{% schema %}
+  {
+    "name": "Newsletter Section",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title",
+        "default": "SUBSCRIBE & GET 15% OFF"
+      },
+      {
+        "type": "text",
+        "id": "subtitle",
+        "label": "Subtitle",
+        "default": "Subscribe Now & Get 15% Off On Your Next Order Along With Many Other Exclusive Offers!"
+      },
+      {
+        "type": "text",
+        "id": "btn_text",
+        "label": "Button Text",
+        "default": "SEND ME MY 15% OFF DISCOUNT"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Newsletter Section"
+      }
+    ]
+  }
+{% endschema %}

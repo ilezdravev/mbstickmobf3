@@ -1,0 +1,202 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#f94f1b",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "#f94f1b",
+            "buy_now_button_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "166449288162760b4c": {
+      "type": "faq",
+      "blocks": {
+        "16644928810cc5607d-0": {
+          "type": "category",
+          "settings": {
+            "title": "Shipping"
+          }
+        },
+        "16644928810cc5607d-1": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>"
+          }
+        },
+        "16644928810cc5607d-2": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to get my order?",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "16644928810cc5607d-3": {
+          "type": "category",
+          "settings": {
+            "title": "Other"
+          }
+        },
+        "16644928810cc5607d-4": {
+          "type": "question",
+          "settings": {
+            "title": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        },
+        "8897aee2-80bb-47c2-b3c6-60a1deca3c32": {
+          "type": "category",
+          "settings": {
+            "title": "Category"
+          }
+        },
+        "197fe6f4-9f01-4f26-9002-32fc8884fe5f": {
+          "type": "question",
+          "settings": {
+            "title": "About your shop",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "c0a35ee5-42c2-47b5-8889-bc838e70af0c": {
+          "type": "category",
+          "settings": {
+            "title": "Category"
+          }
+        },
+        "e91861d5-416c-450e-975d-f5f1b5a3ba47": {
+          "type": "question",
+          "settings": {
+            "title": "About your shop",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "f8c8d37c-bc4f-4a8d-b37d-e24ad05c4b45": {
+          "type": "category",
+          "settings": {
+            "title": "Category"
+          }
+        },
+        "9bff92ff-ee71-4e66-ab05-8977a3080eea": {
+          "type": "question",
+          "settings": {
+            "title": "About your shop",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "7e5df054-1535-4b54-883b-5c70372083fc": {
+          "type": "category",
+          "settings": {
+            "title": "Category"
+          }
+        },
+        "0a9e75d8-984e-4d1d-afb9-ac2e9c132597": {
+          "type": "question",
+          "settings": {
+            "title": "About your shop",
+            "answer": "<p>Write content to help your customers to better understand your products or policies.<\/p>"
+          }
+        },
+        "fe251888-9e35-42f7-9a28-1f12333b5bfb": {
+          "type": "category",
+          "settings": {
+            "title": "Category"
+          }
+        }
+      },
+      "block_order": [
+        "16644928810cc5607d-0",
+        "16644928810cc5607d-1",
+        "16644928810cc5607d-2",
+        "16644928810cc5607d-3",
+        "16644928810cc5607d-4",
+        "8897aee2-80bb-47c2-b3c6-60a1deca3c32",
+        "197fe6f4-9f01-4f26-9002-32fc8884fe5f",
+        "c0a35ee5-42c2-47b5-8889-bc838e70af0c",
+        "e91861d5-416c-450e-975d-f5f1b5a3ba47",
+        "f8c8d37c-bc4f-4a8d-b37d-e24ad05c4b45",
+        "9bff92ff-ee71-4e66-ab05-8977a3080eea",
+        "7e5df054-1535-4b54-883b-5c70372083fc",
+        "0a9e75d8-984e-4d1d-afb9-ac2e9c132597",
+        "fe251888-9e35-42f7-9a28-1f12333b5bfb"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "disabled": true,
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "description"
+      ],
+      "settings": {}
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166449288162760b4c",
+    "product-content",
+    "product-recommendations"
+  ]
+}

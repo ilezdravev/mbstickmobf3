@@ -1,0 +1,875 @@
+{
+  "sections": {
+    "dialogue-product-recommendations-top": {
+      "type": "dialogue-ai",
+      "settings": {
+        "position": "top"
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/The_best_system_for_joint_mobilization.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "text_position": "bottom_left",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "Shop All Training Sticks",
+            "button_1_link": "shopify:\/\/collections\/mobility-sticks",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#f94f1b",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/bundleworkshopdesktopjan20.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/SambundlebelowMobilejan20.jpg",
+            "text_position": "bottom_left",
+            "subheading": "",
+            "title": "",
+            "button_1_text": "Shop Training Sticks",
+            "button_1_link": "https:\/\/stickmobility.com\/collections\/mobility-sticks\/products\/stick-bundles",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#f94f1b",
+            "button_text_color": "#ffffff",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "slide-2"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "#000000"
+      }
+    },
+    "c4480a39-7d42-499f-af07-e52d5a1d4ce9": {
+      "type": "home-press",
+      "settings": {
+        "title": "“Unlock Hidden Mobility, Stability & Strength”",
+        "image": "shopify:\/\/shop_images\/image_28.png"
+      }
+    },
+    "featured-collections": {
+      "type": "featured-collections",
+      "blocks": {
+        "collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "mobility-sticks",
+            "label": "",
+            "button_text": "SHOP ALL",
+            "button_url": "shopify:\/\/collections\/all"
+          }
+        },
+        "ccf29a29-25a5-4b22-9d6f-1ca31013362b": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "heavy-duty-mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "07b48266-1a3c-46d2-812b-13aaa45670f0": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "certifications",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "676318ed-f6df-4d42-9a34-81234f315ddd": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "sports-video-training",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "5de01588-7442-44ab-b1dc-7be780a56794": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "training-aids",
+            "label": "Accessories",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "collection-1",
+        "ccf29a29-25a5-4b22-9d6f-1ca31013362b",
+        "07b48266-1a3c-46d2-812b-13aaa45670f0",
+        "676318ed-f6df-4d42-9a34-81234f315ddd",
+        "5de01588-7442-44ab-b1dc-7be780a56794"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Explore Stick Mobility",
+        "content": "",
+        "products_count": 50,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3a1c6904-fd1e-475a-becd-dbbefcbfa39e": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "what our customers think",
+        "content": "",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "small",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "378fbeeb-3ac6-434c-8551-467967a4708e": {
+      "type": "quotes-slider",
+      "blocks": {
+        "4e5f72f8-2b6c-45e6-b232-60d275108872": {
+          "type": "quote",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/image_467.png",
+            "quote": "The Training Stick Allows You To Achieve Positions & Ranges You Wouldn’t Normally Be Able To Reach. It’s Been The Missing Link To My Own Personal Mobility Training",
+            "author_name": "Joe DeFranco"
+          }
+        },
+        "241fa0a9-09a1-4782-aff3-771b36fbf425": {
+          "type": "quote",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/image_467.png",
+            "quote": "The Training Stick Allows You To Achieve Positions & Ranges You Wouldn’t Normally Be Able To Reach. It’s Been The Missing Link To My Own Personal Mobility Training",
+            "author_name": "Joe DeFranco"
+          }
+        },
+        "4bf425ed-493f-4a44-b61e-c995ae6fa4fc": {
+          "type": "quote",
+          "settings": {
+            "author_image": "shopify:\/\/shop_images\/image_467.png",
+            "quote": "The Training Stick Allows You To Achieve Positions & Ranges You Wouldn’t Normally Be Able To Reach. It’s Been The Missing Link To My Own Personal Mobility Training",
+            "author_name": "Joe DeFranco"
+          }
+        }
+      },
+      "block_order": [
+        "4e5f72f8-2b6c-45e6-b232-60d275108872",
+        "241fa0a9-09a1-4782-aff3-771b36fbf425",
+        "4bf425ed-493f-4a44-b61e-c995ae6fa4fc"
+      ],
+      "settings": {
+        "title": "WHAT OUR CUSTOMERS THINK ABOUT US?"
+      }
+    },
+    "167719764107bab1df": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "62a8c2bb-4b5c-422d-9b32-41c3a164d3f3": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "62a8c2bb-4b5c-422d-9b32-41c3a164d3f3"
+      ],
+      "settings": {
+        "include_horizontal_margins": false,
+        "include_vertical_margins": false
+      }
+    },
+    "6d6f6b54-b4b6-47c8-9cfc-ef7bd6c870f9": {
+      "type": "promotion-blocks",
+      "disabled": true,
+      "blocks": {
+        "template--16044600492200__6d6f6b54-b4b6-47c8-9cfc-ef7bd6c870f9-166914023362c02d60-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Joe_DeFranco_Home_Page.jpg",
+            "highlight": false,
+            "subheading": "JOE DEFRANCO ON STICK MOBILITY",
+            "title": "",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_position": "middle_center",
+            "background": "#f7f8fd",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#1e316a"
+          }
+        },
+        "template--16044600492200__6d6f6b54-b4b6-47c8-9cfc-ef7bd6c870f9-166914023362c02d60-1": {
+          "type": "quote",
+          "settings": {
+            "highlight": false,
+            "subheading": "WHY STICK MOBILITY?",
+            "content": "\"THE STICK MOBILITY TRAINING STICK PROVIDES LEVERAGE WHICH ALLOWS YOU TO ACHIEVE POSITIONS AND RANGES OF MOTION YOU WOULDN’T NORMALLY BE ABLE TO REACH. IT'S BEEN THE MISSING LINK TO MY OWN PERSONAL MOBILITY TRAINING.\"",
+            "author": "JOE DEFRANCO",
+            "background": "#000000",
+            "text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--16044600492200__6d6f6b54-b4b6-47c8-9cfc-ef7bd6c870f9-166914023362c02d60-0",
+        "template--16044600492200__6d6f6b54-b4b6-47c8-9cfc-ef7bd6c870f9-166914023362c02d60-1"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "section_size": "small",
+        "stack_on_mobile": true,
+        "background": "#000000",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "8ec61ab8-097e-4bff-84dc-ff3dac1783a3": {
+      "type": "tab-grids",
+      "blocks": {
+        "466920e4-0ae2-4df1-9a12-2ebdee79dc42": {
+          "type": "tab_item",
+          "settings": {
+            "text": "NBA",
+            "image": "shopify:\/\/shop_images\/image_468_2.png",
+            "c_text": "Dwayne Wade • NBA Player"
+          }
+        },
+        "3677d3ea-8067-4338-91b7-fd5fccc14ca5": {
+          "type": "tab_item",
+          "settings": {
+            "text": "NFL",
+            "image": "shopify:\/\/shop_images\/image_468_2.png",
+            "c_text": "Dwayne Wade • NBA Player"
+          }
+        },
+        "6f4b6d8e-2854-4eef-84cc-ef914ba366de": {
+          "type": "tab_item",
+          "settings": {
+            "text": "UFC",
+            "image": "shopify:\/\/shop_images\/New_Project_3.png",
+            "c_text": "Dwayne Wade • NBA Player"
+          }
+        },
+        "f8a1a7c8-95fd-4897-a1c7-82fa06c66f2e": {
+          "type": "tab_item",
+          "settings": {
+            "text": "MLB",
+            "image": "shopify:\/\/shop_images\/317486596_214611964328040_421835355438745547_n_1.png",
+            "c_text": "Dwayne Wade • NBA Player"
+          }
+        },
+        "737460c8-051e-4190-8260-d2492bd57d91": {
+          "type": "tab_item",
+          "settings": {
+            "text": "SURF",
+            "image": "shopify:\/\/shop_images\/image_1270_1.png",
+            "c_text": "Dwayne Wade • NBA Player"
+          }
+        },
+        "6543da82-5bc3-4042-80d7-948a153d2aab": {
+          "type": "tab_item",
+          "settings": {
+            "text": "NFL",
+            "image": "shopify:\/\/shop_images\/image_1271.png",
+            "c_text": "Dwayne Wade • NBA Player"
+          }
+        }
+      },
+      "block_order": [
+        "466920e4-0ae2-4df1-9a12-2ebdee79dc42",
+        "3677d3ea-8067-4338-91b7-fd5fccc14ca5",
+        "6f4b6d8e-2854-4eef-84cc-ef914ba366de",
+        "f8a1a7c8-95fd-4897-a1c7-82fa06c66f2e",
+        "737460c8-051e-4190-8260-d2492bd57d91",
+        "6543da82-5bc3-4042-80d7-948a153d2aab"
+      ],
+      "settings": {
+        "title": "TRUSTED BY PRO ATHLETES",
+        "url": "",
+        "text": "SHOP TRAINING STICKS"
+      }
+    },
+    "f502a535-babf-4564-961f-9ba41e2050fa": {
+      "type": "featured-icons",
+      "blocks": {
+        "91451254-9711-43f5-a87f-330d4800de69": {
+          "type": "icon",
+          "settings": {
+            "svg_content": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"62\" height=\"62\" viewbox=\"0 0 62 62\" fill=\"none\">\n<path d=\"M31 59L59.5 47.0001V15M31 59L2.5 47.0001V15M31 59V27M59.5 15L31 3L2.5 15M59.5 15L31 27M2.5 15L31 27\" stroke=\"white\" stroke-width=\"4\"><\/path>\n<\/svg>",
+            "title": "Spend $200+ Or Buy A Bundle - Free Shipping"
+          }
+        },
+        "21e008cc-aeae-4f23-bdeb-a462b27ea741": {
+          "type": "icon",
+          "settings": {
+            "svg_content": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"46\" height=\"55\" viewbox=\"0 0 46 55\" fill=\"none\">\n<path d=\"M10.8333 5.38281C0.694445 9.94531 0.1875 10.9592 0.1875 20.8446C0.1875 34.5321 6.77778 47.7127 15.6493 52.5286C22.2396 55.8238 23.7604 55.8238 30.3507 52.5286C39.2222 47.7127 45.8125 34.5321 45.8125 20.8446C45.8125 10.7057 45.3056 9.94531 34.1528 5.38281C27.816 2.59461 22.4931 0.313362 22.2396 0.566833C21.9861 0.566833 16.9167 2.84808 10.8333 5.38281ZM31.8715 9.69183C39.4757 13.2404 40.7431 15.2682 40.7431 22.3654C40.7431 32.7578 34.9132 44.9245 28.0694 48.4731C17.6771 54.0495 5.25694 39.6016 5.25694 22.3654C5.25694 15.2682 6.5243 13.2404 13.6215 9.69183C17.9306 7.66406 21.9861 5.63628 22.2396 5.63628C22.4931 5.38281 26.8021 7.41058 31.8715 9.69183Z\" fill=\"white\"><\/path>\n<path d=\"M27.3091 24.9001C21.9862 30.4765 19.9584 30.9834 16.9167 28.4487C11.0868 23.6327 9.81949 29.4626 15.6493 34.7855C20.4653 39.0946 20.9723 39.0946 29.5903 30.223C34.6598 25.4071 37.7014 20.5911 36.4341 19.8307C35.1667 19.0702 31.1112 21.3515 27.3091 24.9001Z\" fill=\"white\"><\/path>\n<\/svg>",
+            "title": "12 Months Warranty Included On All Sticks"
+          }
+        },
+        "4aba2c0b-618a-4cb9-a937-bbd42262eee8": {
+          "type": "icon",
+          "settings": {
+            "svg_content": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"60\" height=\"58\" viewbox=\"0 0 60 58\" fill=\"none\">\n<g clip-path=\"url(#clip0_2099_423)\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.9808 0C29.8085 1.80045 32.7589 3.40338 35.8106 4.79717C34.9653 5.84977 34.2586 7.00513 33.7076 8.2353C31.3978 7.11234 29.1536 5.86099 26.9856 4.48722C20.4124 9.56096 12.8501 12.0835 4.59648 11.6401C3.97229 35.254 12.8501 48.358 27.072 53.4985C37.2462 49.6836 44.578 41.9967 47.771 30.2374H48.1359C49.3499 30.2384 50.56 30.0992 51.7417 29.8226C48.1311 44.1521 39.4933 53.3364 27.072 57.9857C9.93087 51.7818 -0.214559 36.551 0.539266 8.10655C9.55636 8.58341 18.4054 6.63784 26.9808 0.0238428V0Z\" fill=\"white\"><\/path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.8482 25.3163H20.5684V23.7379C20.5646 21.9841 21.2423 20.2965 22.4602 19.0266C23.05 18.4002 23.763 17.9009 24.555 17.5595C25.3471 17.2181 26.2013 17.042 27.0648 17.042C27.9282 17.042 28.7824 17.2181 29.5745 17.5595C30.3666 17.9009 31.0796 18.4002 31.6694 19.0266C32.8991 20.2911 33.5875 21.9798 33.5899 23.7379V25.3163H34.3053C34.5868 25.3163 34.8567 25.4273 35.0557 25.625C35.2547 25.8226 35.3665 26.0907 35.3665 26.3701V37.5047C35.3652 37.7839 35.253 38.0512 35.0543 38.2485C34.8555 38.4459 34.5864 38.5573 34.3053 38.5586H19.8482C19.5672 38.5573 19.298 38.4459 19.0993 38.2485C18.9006 38.0512 18.7884 37.7839 18.7871 37.5047V26.3701C18.7871 26.0907 18.8989 25.8226 19.0979 25.625C19.2969 25.4273 19.5668 25.3163 19.8482 25.3163ZM22.5754 25.3163H31.5589V23.7379C31.5668 22.4963 31.0901 21.3 30.2289 20.3999C29.8246 19.9689 29.3352 19.6251 28.7912 19.39C28.2472 19.155 27.6604 19.0337 27.0672 19.0337C26.474 19.0337 25.8871 19.155 25.3432 19.39C24.7992 19.6251 24.3098 19.9689 23.9054 20.3999C23.0443 21.3 22.5676 22.4963 22.5754 23.7379V25.3163ZM26.1957 32.4262L25.053 35.4066H29.0814L28.0203 32.3833C28.4389 32.1684 28.7719 31.819 28.9648 31.3919C29.1578 30.9649 29.1993 30.4855 29.0825 30.0321C28.9658 29.5786 28.6977 29.1778 28.3221 28.8952C27.9464 28.6125 27.4854 28.4647 27.0143 28.4757C26.5432 28.4868 26.0897 28.6562 25.728 28.9562C25.3662 29.2562 25.1176 29.6691 25.0226 30.1276C24.9276 30.586 24.9919 31.0629 25.2049 31.4804C25.418 31.8979 25.7673 32.2313 26.1957 32.4262Z\" fill=\"white\"><\/path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M48.1464 3.2998C50.3923 3.2998 52.5877 3.96123 54.4551 5.20043C56.3225 6.43963 57.778 8.20096 58.6374 10.2617C59.4969 12.3224 59.7218 14.59 59.2836 16.7776C58.8455 18.9653 57.764 20.9747 56.1759 22.552C54.5878 24.1292 52.5645 25.2032 50.3617 25.6384C48.159 26.0736 45.8758 25.8502 43.8009 24.9966C41.726 24.1431 39.9525 22.6976 38.7047 20.843C37.457 18.9884 36.791 16.808 36.791 14.5774C36.791 11.5864 37.9874 8.71792 40.1169 6.60295C42.2465 4.48798 45.1348 3.2998 48.1464 3.2998ZM45.5344 14.3056C45.861 14.5775 46.1675 14.8723 46.4515 15.1878C47.3205 13.8038 48.283 12.4799 49.3324 11.2252C52.2132 7.80133 50.8928 8.46416 54.854 8.46416L54.2778 9.08407C52.9367 10.5946 51.7181 12.2082 50.6335 13.9099C49.2597 15.8812 48.0136 17.9374 46.9028 20.0661L46.5619 20.7241L46.245 20.0565C45.6858 18.8429 44.9778 17.7026 44.1372 16.6613C43.3789 15.7113 42.4748 14.8858 41.458 14.215C41.9718 12.5317 44.4301 13.3948 45.5296 14.3199L45.5344 14.3056Z\" fill=\"#56B320\"><\/path>\n<\/g>\n<defs>\n<clippath id=\"clip0_2099_423\">\n<rect width=\"59\" height=\"58\" fill=\"white\" transform=\"translate(0.5)\"><\/rect>\n<\/clippath>\n<\/defs>\n<\/svg>",
+            "title": "Payment Information Is 100% Secure"
+          }
+        },
+        "73432793-eac7-4bc5-be51-5d1ffbede8e3": {
+          "type": "icon",
+          "settings": {
+            "svg_content": "",
+            "image": "shopify:\/\/shop_images\/image_474.png",
+            "title": "Get In Contact With Our Highly Qualified Team"
+          }
+        }
+      },
+      "block_order": [
+        "91451254-9711-43f5-a87f-330d4800de69",
+        "21e008cc-aeae-4f23-bdeb-a462b27ea741",
+        "4aba2c0b-618a-4cb9-a937-bbd42262eee8",
+        "73432793-eac7-4bc5-be51-5d1ffbede8e3"
+      ],
+      "settings": {}
+    },
+    "timeline": {
+      "type": "timeline",
+      "disabled": true,
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dwayne_Wade.jpg",
+            "label": "NBA",
+            "title": "Dwyane Wade",
+            "content": "<p><\/p>",
+            "button_text": "View ALL ATHLETES",
+            "button_link": "shopify:\/\/pages\/athletes"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cam_Newton.jpg",
+            "label": "NFL",
+            "title": "CAM NEWTON",
+            "content": "<p><\/p>",
+            "button_text": "View ALL ATHLETES",
+            "button_link": "shopify:\/\/pages\/athletes"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Max_Holloway_UFC.jpg",
+            "label": "UFC",
+            "title": "MAX HOLLOWAY",
+            "content": "<p><\/p>",
+            "button_text": "View ALL ATHLETES",
+            "button_link": "shopify:\/\/pages\/athletes"
+          }
+        },
+        "752ddbcb-781e-45b3-9c27-6c334f85d7f0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jon_Jay.jpg",
+            "label": "MLB",
+            "title": "JON JAY",
+            "content": "<p><\/p>",
+            "button_text": "View ALL ATHLETES",
+            "button_link": "shopify:\/\/pages\/athletes"
+          }
+        },
+        "0c3b0194-fbc3-43d1-867b-ae4f8166202d": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Laird_Hamilton.jpg",
+            "label": "SURF",
+            "title": "LAIRD HAMILTON",
+            "content": "<p><\/p>",
+            "button_text": "View ALL ATHLETES",
+            "button_link": "shopify:\/\/pages\/athletes"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "752ddbcb-781e-45b3-9c27-6c334f85d7f0",
+        "0c3b0194-fbc3-43d1-867b-ae4f8166202d"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "TRUSTED BY PRO ATHLETES",
+        "text_position": "middle",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "#000000",
+        "item_background": "rgba(0,0,0,0)",
+        "item_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "text-with-icons": {
+      "type": "text-with-icons",
+      "disabled": true,
+      "blocks": {
+        "item-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 100,
+            "title": "",
+            "content": "<p>Spend $200+ for Free Shipping<\/p>"
+          }
+        },
+        "item-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-warranty",
+            "custom_icon_width": 100,
+            "title": "",
+            "content": "<p>12 Months Warranty Included On All Sticks<\/p>"
+          }
+        },
+        "item-3": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-secure-payment",
+            "custom_icon_width": 100,
+            "title": "",
+            "content": "<p>Payment Information is 100% Secure<\/p>"
+          }
+        },
+        "item-4": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "icon": "picto-email",
+            "custom_icon_width": 50,
+            "title": "",
+            "content": "<p><strong>Email<\/strong>: <a href=\"mailto:support@stickmobility.com\" title=\"mailto:support@stickmobility.com\">support@stickmobility.com<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "item-1",
+        "item-2",
+        "item-3",
+        "item-4"
+      ],
+      "settings": {
+        "background": "#000000",
+        "text_color": "#ffffff"
+      }
+    },
+    "1664412736a2bede8b": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "429a505a-3823-424b-85cb-e1a406c5bad6": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_Home_Page.jpg",
+            "tab_label": "NEW COURSE",
+            "subheading": "NOW AVAILABLE ONLINE!",
+            "title": "LEVEL 2 ONLINE certification",
+            "content": "<p>Go beyond the core principles. Practice joint mobilizations, active stretching and strength training drills. Learn powerful warm-up and recovery techniques used by top trainers, professional athletes and medical practitioners.<\/p>",
+            "button_text_1": "Learn more",
+            "button_link_1": "shopify:\/\/pages\/level-2-online-certification",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "166441273611fc0942-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Intro_Workshop_Home_Page.jpg",
+            "tab_label": "INTRO WORKSHOP",
+            "subheading": "GET STARTED",
+            "title": "ONLINE INTRO WORKSHOP",
+            "content": "<p>Online Introductory Workshop featuring 4-hours of step-by-step instructional videos from our training program. <\/p>",
+            "button_text_1": "LEARN MORE",
+            "button_link_1": "shopify:\/\/products\/online-intro-workshop",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "429a505a-3823-424b-85cb-e1a406c5bad6",
+        "166441273611fc0942-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "featured-product": {
+      "type": "featured-product",
+      "disabled": true,
+      "blocks": {
+        "variant-picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity-selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy-buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#f94f1b",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "#f94f1b",
+            "buy_now_button_text_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "variant-picker",
+        "quantity-selector",
+        "buy-buttons"
+      ],
+      "settings": {
+        "product": "stick-bundles",
+        "subheading": "",
+        "title": "best seller",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": true,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "slide",
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "fffd9922-b5a0-4dc8-bfaa-3c0eaa9bd795": {
+      "type": "for-trainers",
+      "blocks": {
+        "7aa14fd8-81ad-4f6f-b980-95ecb28de984": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_465.png",
+            "reviews_count": "24",
+            "title": "Online Introductory Workshop",
+            "subtitle": "4 Hours Step By Step Videos On Learning Our Methods",
+            "price": "$99"
+          }
+        },
+        "77a21dda-1f7e-44fd-b1da-3c6545f4ec24": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/image_465.png",
+            "reviews_count": "18",
+            "title": "Online Certificate - Level 2",
+            "subtitle": "14 Hours In-Depth Step By Step Training Videos",
+            "price": "$395"
+          }
+        }
+      },
+      "block_order": [
+        "7aa14fd8-81ad-4f6f-b980-95ecb28de984",
+        "77a21dda-1f7e-44fd-b1da-3c6545f4ec24"
+      ],
+      "settings": {
+        "title": "FOR TRAINERS"
+      }
+    },
+    "93053d5c-f0a8-4e7a-92c5-8bb401613ea7": {
+      "type": "new-press",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image-removebg-preview_2_1.png",
+        "title": "“The Best Stretching Aid”"
+      }
+    },
+    "8368aa50-d312-42da-8831-4b4ec21c9295": {
+      "type": "great-for",
+      "blocks": {
+        "04b69d9f-7e6c-45da-bda0-16be26df0f22": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector.png",
+            "title": "GOLF",
+            "subtitle": "Increases swing power, consistency, & improves mobility"
+          }
+        },
+        "6f664275-3c1d-4998-aede-bd0658d2fbd7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_1.png",
+            "title": "BASEBALL",
+            "subtitle": "Increases swing power, consistency, & improves mobility"
+          }
+        },
+        "4df50b8e-344d-437d-8a0e-53bcc647e316": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_2.png",
+            "title": "CRICKET",
+            "subtitle": "Increases swing power, consistency, & improves mobility"
+          }
+        },
+        "5b7a5526-af8c-46f6-a8c7-f9bfc7fded78": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/rugby-svgrepo-com_1.png",
+            "title": "RUGBY",
+            "subtitle": "Increases swing power, consistency, & improves mobility"
+          }
+        },
+        "6200fee0-6fce-41ff-9d61-ec9219a52100": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_4.png",
+            "title": "TENNIS",
+            "subtitle": "Increases swing power, consistency, & improves mobility"
+          }
+        },
+        "30c02fa9-0e45-4f6f-a596-5cacc8f283a1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_4.png",
+            "title": "TENNIS",
+            "subtitle": "TENNIS"
+          }
+        }
+      },
+      "block_order": [
+        "04b69d9f-7e6c-45da-bda0-16be26df0f22",
+        "6f664275-3c1d-4998-aede-bd0658d2fbd7",
+        "4df50b8e-344d-437d-8a0e-53bcc647e316",
+        "5b7a5526-af8c-46f6-a8c7-f9bfc7fded78",
+        "6200fee0-6fce-41ff-9d61-ec9219a52100",
+        "30c02fa9-0e45-4f6f-a596-5cacc8f283a1"
+      ],
+      "settings": {
+        "title": "WHAT OUR STICKS ARE GREAT FOR?"
+      }
+    },
+    "e5236551-d86c-409b-9be3-4baa67658097": {
+      "type": "elevate-your-golf-game",
+      "settings": {
+        "title": "ELEVATE YOUR GOLF GAME",
+        "image": "shopify:\/\/shop_images\/317320578_670817311112411_1949243418297207912_n_1.png",
+        "text": "Award-winning instructors Jake Hutt & Ben Shear will assist you on increasing swing power, consistency, & improving mobility all in our expert-led training program.",
+        "url": "#",
+        "text1": "SHOP TRAINING STICKS",
+        "url2": "#",
+        "text2": "MOBILITY TRAINING"
+      }
+    },
+    "16679379699c18b96b": {
+      "type": "apps",
+      "disabled": true,
+      "blocks": {
+        "432b8ff4-c3f2-469e-b29f-19c54a332c98": {
+          "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/social-links\/4959f958-a614-4d73-add9-fc38222c9217",
+          "settings": {
+            "style": "5",
+            "size": 53,
+            "spacing": 10,
+            "align": "center",
+            "facebook": "https:\/\/www.facebook.com\/stickmobility\/",
+            "instagram": "https:\/\/www.instagram.com\/stickmobility\/?hl=en",
+            "twitter": "",
+            "tiktok": "https:\/\/www.tiktok.com\/@stickmobility",
+            "youtube": "https:\/\/www.youtube.com\/c\/StickMobility",
+            "pinterest": "",
+            "linkedin": "",
+            "medium": "",
+            "twitch": "",
+            "snapchat": "",
+            "phone": "",
+            "email": ""
+          }
+        },
+        "0126a673-3e92-4dfd-9fc6-1a03d9ba2d64": {
+          "type": "shopify:\/\/apps\/theme-blocks-plus-by-sktch-io\/blocks\/spacer\/4959f958-a614-4d73-add9-fc38222c9217",
+          "settings": {
+            "height": 50
+          }
+        }
+      },
+      "block_order": [
+        "432b8ff4-c3f2-469e-b29f-19c54a332c98",
+        "0126a673-3e92-4dfd-9fc6-1a03d9ba2d64"
+      ],
+      "settings": {
+        "include_horizontal_margins": true,
+        "include_vertical_margins": false
+      }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "disabled": true,
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "Subscribe to our newsletter",
+        "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+        "text_position": "right",
+        "text_alignment": "left",
+        "text_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "dialogue-product-recommendations": {
+      "type": "dialogue-ai",
+      "settings": {
+        "position": "bottom"
+      }
+    },
+    "a084891f-0931-48cc-b658-f6235039b1a0": {
+      "type": "custom-html",
+      "disabled": true,
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "html": "",
+        "add_vertical_spacing": true,
+        "background_type": "full_width",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "f8bf915b-dc2d-40ab-b10d-bff80f4032f5": {
+      "type": "featured-icons",
+      "blocks": {
+        "f22e8dae-c625-41c7-bf9d-fa52f013ee1a": {
+          "type": "icon",
+          "settings": {
+            "svg_content": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"62\" height=\"62\" viewbox=\"0 0 62 62\" fill=\"none\">\n<path d=\"M31 59L59.5 47.0001V15M31 59L2.5 47.0001V15M31 59V27M59.5 15L31 3L2.5 15M59.5 15L31 27M2.5 15L31 27\" stroke=\"white\" stroke-width=\"4\"><\/path>\n<\/svg>",
+            "title": "Spend $200+ Or Buy A Bundle - Free Shipping"
+          }
+        },
+        "3f818e07-b516-4bbf-af2a-5c1c05644560": {
+          "type": "icon",
+          "settings": {
+            "svg_content": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"46\" height=\"55\" viewbox=\"0 0 46 55\" fill=\"none\">\n<path d=\"M10.8333 5.38281C0.694445 9.94531 0.1875 10.9592 0.1875 20.8446C0.1875 34.5321 6.77778 47.7127 15.6493 52.5286C22.2396 55.8238 23.7604 55.8238 30.3507 52.5286C39.2222 47.7127 45.8125 34.5321 45.8125 20.8446C45.8125 10.7057 45.3056 9.94531 34.1528 5.38281C27.816 2.59461 22.4931 0.313362 22.2396 0.566833C21.9861 0.566833 16.9167 2.84808 10.8333 5.38281ZM31.8715 9.69183C39.4757 13.2404 40.7431 15.2682 40.7431 22.3654C40.7431 32.7578 34.9132 44.9245 28.0694 48.4731C17.6771 54.0495 5.25694 39.6016 5.25694 22.3654C5.25694 15.2682 6.5243 13.2404 13.6215 9.69183C17.9306 7.66406 21.9861 5.63628 22.2396 5.63628C22.4931 5.38281 26.8021 7.41058 31.8715 9.69183Z\" fill=\"white\"><\/path>\n<\/svg>",
+            "title": "12 Months Warranty Included On All Sticks"
+          }
+        },
+        "ef9fed72-5999-4fbd-b8a0-63e1097afbef": {
+          "type": "icon",
+          "settings": {
+            "svg_content": "<svg xmlns=\"http:\/\/www.w3.org\/2000\/svg\" width=\"60\" height=\"58\" viewbox=\"0 0 60 58\" fill=\"none\">\n<g clip-path=\"url(#clip0_2106_936)\">\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M26.9808 0C29.8085 1.80045 32.7589 3.40338 35.8106 4.79717C34.9653 5.84977 34.2586 7.00513 33.7076 8.2353C31.3978 7.11234 29.1536 5.86099 26.9856 4.48722C20.4124 9.56096 12.8501 12.0835 4.59648 11.6401C3.97229 35.254 12.8501 48.358 27.072 53.4985C37.2462 49.6836 44.578 41.9967 47.771 30.2374H48.1359C49.3499 30.2384 50.56 30.0992 51.7417 29.8226C48.1311 44.1521 39.4933 53.3364 27.072 57.9857C9.93087 51.7818 -0.214559 36.551 0.539266 8.10655C9.55636 8.58341 18.4054 6.63784 26.9808 0.0238428V0Z\" fill=\"white\"><\/path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M19.8482 25.3163H20.5684V23.7379C20.5646 21.9841 21.2423 20.2965 22.4602 19.0266C23.05 18.4002 23.763 17.9009 24.555 17.5595C25.3471 17.2181 26.2013 17.042 27.0648 17.042C27.9282 17.042 28.7824 17.2181 29.5745 17.5595C30.3666 17.9009 31.0796 18.4002 31.6694 19.0266C32.8991 20.2911 33.5875 21.9798 33.5899 23.7379V25.3163H34.3053C34.5868 25.3163 34.8567 25.4273 35.0557 25.625C35.2547 25.8226 35.3665 26.0907 35.3665 26.3701V37.5047C35.3652 37.7839 35.253 38.0512 35.0543 38.2485C34.8555 38.4459 34.5864 38.5573 34.3053 38.5586H19.8482C19.5672 38.5573 19.298 38.4459 19.0993 38.2485C18.9006 38.0512 18.7884 37.7839 18.7871 37.5047V26.3701C18.7871 26.0907 18.8989 25.8226 19.0979 25.625C19.2969 25.4273 19.5668 25.3163 19.8482 25.3163ZM22.5754 25.3163H31.5589V23.7379C31.5668 22.4963 31.0901 21.3 30.2289 20.3999C29.8246 19.9689 29.3352 19.6251 28.7912 19.39C28.2472 19.155 27.6604 19.0337 27.0672 19.0337C26.474 19.0337 25.8871 19.155 25.3432 19.39C24.7992 19.6251 24.3098 19.9689 23.9054 20.3999C23.0443 21.3 22.5676 22.4963 22.5754 23.7379V25.3163ZM26.1957 32.4262L25.053 35.4066H29.0814L28.0203 32.3833C28.4389 32.1684 28.7719 31.819 28.9648 31.3919C29.1578 30.9649 29.1993 30.4855 29.0825 30.0321C28.9658 29.5786 28.6977 29.1778 28.3221 28.8952C27.9464 28.6125 27.4854 28.4647 27.0143 28.4757C26.5432 28.4868 26.0897 28.6562 25.728 28.9562C25.3662 29.2562 25.1176 29.6691 25.0226 30.1276C24.9276 30.586 24.9919 31.0629 25.2049 31.4804C25.418 31.8979 25.7673 32.2313 26.1957 32.4262Z\" fill=\"white\"><\/path>\n<path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M48.1464 3.2998C50.3923 3.2998 52.5877 3.96123 54.4551 5.20043C56.3225 6.43963 57.778 8.20096 58.6374 10.2617C59.4969 12.3224 59.7218 14.59 59.2836 16.7776C58.8455 18.9653 57.764 20.9747 56.1759 22.552C54.5878 24.1292 52.5645 25.2032 50.3617 25.6384C48.159 26.0736 45.8758 25.8502 43.8009 24.9966C41.726 24.1431 39.9525 22.6976 38.7047 20.843C37.457 18.9884 36.791 16.808 36.791 14.5774C36.791 11.5864 37.9874 8.71792 40.1169 6.60295C42.2465 4.48798 45.1348 3.2998 48.1464 3.2998ZM45.5344 14.3056C45.861 14.5775 46.1675 14.8723 46.4515 15.1878C47.3205 13.8038 48.283 12.4799 49.3324 11.2252C52.2132 7.80133 50.8928 8.46416 54.854 8.46416L54.2778 9.08407C52.9367 10.5946 51.7181 12.2082 50.6335 13.9099C49.2597 15.8812 48.0136 17.9374 46.9028 20.0661L46.5619 20.7241L46.245 20.0565C45.6858 18.8429 44.9778 17.7026 44.1372 16.6613C43.3789 15.7113 42.4748 14.8858 41.458 14.215C41.9718 12.5317 44.4301 13.3948 45.5296 14.3199L45.5344 14.3056Z\" fill=\"#56B320\"><\/path>\n<\/g>\n<defs>\n<clippath id=\"clip0_2106_936\">\n<rect width=\"59\" height=\"58\" fill=\"white\" transform=\"translate(0.5)\"><\/rect>\n<\/clippath>\n<\/defs>\n<\/svg>",
+            "title": "Payment Information Is 100% Secure"
+          }
+        },
+        "09a835ef-8557-4035-bc60-106d47b0ecef": {
+          "type": "icon",
+          "settings": {
+            "svg_content": "",
+            "image": "shopify:\/\/shop_images\/image_474.png",
+            "title": "Get In Contact With Our Highly Qualified Team"
+          }
+        }
+      },
+      "block_order": [
+        "f22e8dae-c625-41c7-bf9d-fa52f013ee1a",
+        "3f818e07-b516-4bbf-af2a-5c1c05644560",
+        "ef9fed72-5999-4fbd-b8a0-63e1097afbef",
+        "09a835ef-8557-4035-bc60-106d47b0ecef"
+      ],
+      "settings": {}
+    },
+    "116924fd-6b9b-42ee-977d-82f20939b762": {
+      "type": "newsletter-section",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/317486596_214611964328040_421835355438745547_n_1.png",
+        "title": "SUBSCRIBE & GET 15% OFF",
+        "subtitle": "Subscribe Now & Get 15% Off On Your Next Order Along With Many Other Exclusive Offers!",
+        "btn_text": "SEND ME MY 15% OFF DISCOUNT"
+      }
+    }
+  },
+  "order": [
+    "dialogue-product-recommendations-top",
+    "slideshow",
+    "c4480a39-7d42-499f-af07-e52d5a1d4ce9",
+    "featured-collections",
+    "3a1c6904-fd1e-475a-becd-dbbefcbfa39e",
+    "378fbeeb-3ac6-434c-8551-467967a4708e",
+    "167719764107bab1df",
+    "6d6f6b54-b4b6-47c8-9cfc-ef7bd6c870f9",
+    "8ec61ab8-097e-4bff-84dc-ff3dac1783a3",
+    "f502a535-babf-4564-961f-9ba41e2050fa",
+    "timeline",
+    "text-with-icons",
+    "1664412736a2bede8b",
+    "featured-product",
+    "fffd9922-b5a0-4dc8-bfaa-3c0eaa9bd795",
+    "93053d5c-f0a8-4e7a-92c5-8bb401613ea7",
+    "8368aa50-d312-42da-8831-4b4ec21c9295",
+    "e5236551-d86c-409b-9be3-4baa67658097",
+    "16679379699c18b96b",
+    "newsletter",
+    "dialogue-product-recommendations",
+    "a084891f-0931-48cc-b658-f6235039b1a0",
+    "f8bf915b-dc2d-40ab-b10d-bff80f4032f5",
+    "116924fd-6b9b-42ee-977d-82f20939b762"
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "886a0cc3-fe1f-4feb-94a1-99c7f51f806c": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "button_text": "View Course Info",
+        "button_link": "shopify:\/\/pages\/certification-info",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "aecbc928-07e2-4753-92b2-a411c1975892": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16044600754344__aecbc928-07e2-4753-92b2-a411c1975892-166734471770b183d4-0": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/a717ae5f832bb86301f4418a7cb71cd3.png",
+            "image_width": 45,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Austin, Texas",
+            "content": "<p><strong>November 5th - 6th, 2022<br\/>FIT Austin<\/strong><br\/>Led by Co-founder Dennis Dunphy<\/p><p><em>Early registration price $699<\/em><br\/><strong>Registration ends Nov. 4th, 2022<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-austin-tx1-115-6-2022",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "template--16044600754344__aecbc928-07e2-4753-92b2-a411c1975892-166734471770b183d4-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HEART_HUSTLE_BLK.jpg",
+            "image_width": 44,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LOS ANGELES, CALIFORNIA",
+            "content": "<p><strong>December 3rd - 4th, 2022<br\/>Heart & Hustle<\/strong><br\/>Led by Master Instructors <br\/>Morgan & Chad Raynor<\/p><p><em>Early registration price $699<\/em><br\/><strong>Registration ends Nov. 4th, 2022<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca---123-4-2022",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "template--16044600754344__aecbc928-07e2-4753-92b2-a411c1975892-166734471770b183d4-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SMTrainingCenter_copy.png",
+            "image_width": 63,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "San Jose, California",
+            "content": "<p><strong>February 4th - 5th, 2023<br\/>Stick Mobility Training Center<\/strong><br\/>Led by Co-founder Dennis Dunphy<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends Jan. 29th 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---24-6-20223",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "template--16044600754344__aecbc928-07e2-4753-92b2-a411c1975892-166734471770b183d4-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/305318652_442883021196203_4277411159548919919_n_7ab53e3b-6e26-45d0-83a3-914291dd61c3.jpg",
+            "image_width": 69,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Hawthorne, New Jersey",
+            "content": "<p><strong>March 4th - 5th, 2023<br\/>Strong NJ<\/strong><br\/>Led by Master Instructor Jared Forestieri<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends Feb. 26th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---34-5-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "8b9efda0-1c0f-4622-8c03-8d13e48c4778": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/610fb248f08b1d3def7e8eecb13745e7.png",
+            "image_width": 67,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "San Diego, California",
+            "content": "<p><strong>March 19th - 20th, 2023<br\/>Water & Sports Physical Therapy<br\/><\/strong>Led by TBA<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends March 12th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-diego-ca---318-19-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "3d47f015-9f5d-408b-8871-e2561a5799ce": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ffc-logo_427854a0-17cd-47c5-9988-ca45a7d837e3.png",
+            "image_width": 32,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Chicago, Illinois",
+            "content": "<p><strong>April 22nd - 23rd, 2023<br\/>FFC Park Ridge<\/strong><\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends April 16th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-chicago-il---422-23-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "e5174cbd-b904-4229-8f1b-5b264be3dfd2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SMTrainingCenter_copy.png",
+            "image_width": 63,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "San Jose, California",
+            "content": "<p><strong>June 10th - 11th, 2023<br\/>Stick Mobility Training Center<\/strong><br\/>Led by Co-founder Dennis Dunphy<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends June 4th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---610-11-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "41343f7b-fd95-4419-95d5-7bd94f3c0b01": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/305318652_442883021196203_4277411159548919919_n_7ab53e3b-6e26-45d0-83a3-914291dd61c3.jpg",
+            "image_width": 69,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Hawthorne, New Jersey",
+            "content": "<p><strong>June 10th - 11th, 2023<br\/>Strong NJ<\/strong><br\/>Led by Master Instructor Jared Forestieri<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends June 4th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---610-11-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "ec2ede88-3fd8-48d7-bd82-899c7de3ed57": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Extreme_Studio_Performance_b59c4b2c-fb9d-4e4f-9b15-eca733eecc84.png",
+            "image_width": 54,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Dallas, Texas",
+            "content": "<p><strong>June 24th - 25th, 2023<br\/>Extreme Studio Performance<\/strong><br\/>Led by Co-founder Dennis Dunphy<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends June 18th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-dallas-tx---624-25-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "835984ae-e70e-4c3b-8702-ca1267e164a7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/610fb248f08b1d3def7e8eecb13745e7.png",
+            "image_width": 67,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "San Diego, California",
+            "content": "<p><strong>August 12th - 13th, 2023<br\/>Water & Sports Physical Therapy<br\/><\/strong>Led by TBA<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends August 6th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-diego-ca---812-13-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "b6eec7a9-bd34-4211-a456-138a0a08bfe0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SMTrainingCenter_copy.png",
+            "image_width": 63,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "San Jose, California",
+            "content": "<p><strong>September 30th - October 1st, 2023<br\/>Stick Mobility Training Center<\/strong><br\/>Led by Co-founder Dennis Dunphy<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends Sept. 24th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-san-jose-ca---930-101-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "c3c5d539-6bc1-4387-9294-101511c9f3b9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ffc-logo_427854a0-17cd-47c5-9988-ca45a7d837e3.png",
+            "image_width": 32,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Chicago, Illinois",
+            "content": "<p><strong>September 30th - October 1st, 2023<br\/>FFC Park Ridge<\/strong><\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends September 24th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-chicago-il---930-101-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "b58546e1-9380-47ee-b706-109e36d8e52e": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/305318652_442883021196203_4277411159548919919_n_7ab53e3b-6e26-45d0-83a3-914291dd61c3.jpg",
+            "image_width": 69,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Hawthorne, New Jersey",
+            "content": "<p><strong>October 21st - 22nd, 2023<br\/>Strong NJ<\/strong><br\/>Led by Master Instructor Jared Forestieri<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends Oct. 15th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-hawthorne-nj---1021-22-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "f77dfd09-dd98-49ac-b18f-8617959f426b": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Secondary_2x_74ff21f8-06ea-4e19-85a9-3434612445a7.png",
+            "image_width": 63,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "San Jose, California",
+            "content": "<p><strong>November 4th - 5th, 2023<br\/>Stick Mobility Training Center<\/strong><br\/>Led by Co-founder Dennis Dunphy<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends Oct. 29th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---114-5-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        }
+      },
+      "block_order": [
+        "template--16044600754344__aecbc928-07e2-4753-92b2-a411c1975892-166734471770b183d4-0",
+        "template--16044600754344__aecbc928-07e2-4753-92b2-a411c1975892-166734471770b183d4-1",
+        "template--16044600754344__aecbc928-07e2-4753-92b2-a411c1975892-166734471770b183d4-2",
+        "template--16044600754344__aecbc928-07e2-4753-92b2-a411c1975892-166734471770b183d4-3",
+        "8b9efda0-1c0f-4622-8c03-8d13e48c4778",
+        "3d47f015-9f5d-408b-8871-e2561a5799ce",
+        "e5174cbd-b904-4229-8f1b-5b264be3dfd2",
+        "41343f7b-fd95-4419-95d5-7bd94f3c0b01",
+        "ec2ede88-3fd8-48d7-bd82-899c7de3ed57",
+        "835984ae-e70e-4c3b-8702-ca1267e164a7",
+        "b6eec7a9-bd34-4211-a456-138a0a08bfe0",
+        "c3c5d539-6bc1-4387-9294-101511c9f3b9",
+        "b58546e1-9380-47ee-b706-109e36d8e52e",
+        "f77dfd09-dd98-49ac-b18f-8617959f426b"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "Upcoming",
+        "title": "Level-1 Certifications",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3": {
+      "type": "multi-column",
+      "blocks": {
+        "template--16044600754344__9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3-166734471770b183d4-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SMTrainingCenter_copy.png",
+            "image_width": 63,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "San Jose, California",
+            "content": "<p><strong>May 20th - 21st, 2023<br\/>Stick Mobility Training Center<\/strong><br\/>Led by Co-founders<br\/>Dennis Dunphy and Neal Valera<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends May 14th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---520-21-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "template--16044600754344__9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3-166734471770b183d4-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/305318652_442883021196203_4277411159548919919_n.jpg",
+            "image_width": 60,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Hawthorne, New Jersey",
+            "content": "<p><strong>July 15th - 16th, 2023<\/strong><br\/><strong>Strong NJ<\/strong><br\/>Led by Co-founder Dennis Dunphy<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends July 9th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-hawthorne-nj---715-16-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "template--16044600754344__9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3-166734471770b183d4-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/SMTrainingCenter_copy.png",
+            "image_width": 63,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "San Jose, California",
+            "content": "<p><strong>November 4th - 5th, 2023<br\/>Stick Mobility Training Center<\/strong><br\/>Led by Co-founders<br\/>Dennis Dunphy and Neal Valera<\/p><p><em>Early Registration Price $699<\/em><br\/><strong>Registration Ends Oct 29th, 2023<\/strong><\/p>",
+            "link_text": "Register",
+            "link_url": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-2-certification-san-jose-ca---114-5-2023",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "end"
+          }
+        },
+        "template--16044600754344__9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3-166734471770b183d4-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--16044600754344__9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3-166734471770b183d4-0",
+        "template--16044600754344__9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3-166734471770b183d4-1",
+        "template--16044600754344__9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3-166734471770b183d4-2",
+        "template--16044600754344__9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3-166734471770b183d4-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": true,
+        "subheading": "Upcoming",
+        "title": "Level-2 Certifications",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "tight",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644710975188d440": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "166447109759dd4503-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_2.jpg",
+            "tab_label": "Item",
+            "subheading": "OCTOBER 15TH - 16TH, 2022",
+            "title": "CHICAGO, ILLINOIS",
+            "content": "<p><strong>FFC Parkridge <\/strong><\/p><p>826 W Touhy Ave, Park Ridge, IL 60068<\/p><p>Saturday & Sunday 9am - 5pm <\/p><p>Early Registration Price $699 <\/p><p>Registration Ends October 9th, 2022<\/p><p><strong>Level 1 Course Led by Co-Founder Dennis Dunphy<\/strong><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166447109759dd4503-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "166450020834c74d96": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "1664500208488d0ba8-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_6.jpg",
+            "tab_label": "Item",
+            "subheading": "OCTOBER 22ND - 23RD, 2022",
+            "title": "SAN JOSE, CALIFORNIA",
+            "content": "<p><strong>Stick Mobility Training Center<\/strong><\/p><p>2215 South Bascom Ave. Campbell, CA 95008<\/p><p>Saturday & Sunday 9am - 5pm<\/p><p>Early Registration Price $699<\/p><p>Registration Ends October 16th, 2022<\/p><p><strong>Level 1 Course Led by Co-Founder Neal Valera<\/strong><\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664500208488d0ba8-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664500337c433503a": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "166450033732dc933b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cert_1.jpg",
+            "tab_label": "Item",
+            "subheading": "NOVEMBER 5TH - 6TH, 2022",
+            "title": "AUSTIN, TEXAS",
+            "content": "<p><strong>FIT Austin<\/strong><\/p><p>2919 Menchaca Rd #200 Austin, TX 78704<\/p><p>Saturday & Sunday 9am - 5pm<\/p><p>Early Registration Price $699<\/p><p>Registration Ends November 4th, 2022<\/p><p><strong>Level 1 Course Led by Co-Founder Dennis Dunphy<\/strong><\/p>",
+            "button_text_1": "Get Certified",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-austin-tx1-115-6-2022",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166450033732dc933b-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664500402ddf7e346": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "166450040250128033-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification_7.jpg",
+            "tab_label": "Item",
+            "subheading": "DECEMBER 3RD - 4TH, 2022",
+            "title": "LOS ANGELES, CALIFORNIA",
+            "content": "<p><strong>Heart & Hustle<\/strong><\/p><p>305 N Sweetzer Ave. Los Angeles, CA 90048<\/p><p>Saturday & Sunday 9am - 5pm<\/p><p>Early Registration Price $699<\/p><p>Registration Ends November 27th, 2022<\/p><p><strong>Level 1 Course Led by Master Instructors Morgan & Chad Raynor<\/strong><\/p>",
+            "button_text_1": "Get Certified",
+            "button_link_1": "https:\/\/stickmobility.regfox.com\/stick-mobility-level-1-certification-los-angeles-ca---123-4-2022",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166450040250128033-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "boxed",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "right",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "ce879533-6a4a-4148-a866-93cce91d8d1e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16596908507356__ce879533-6a4a-4148-a866-93cce91d8d1e-16651776247436fe7e-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Stick_Mobility_Certification_1800x1800_f1c51690-4d33-42b1-ab67-91ac0ba245e2.jpg",
+            "tab_label": "Item",
+            "subheading": "",
+            "title": "Interested in hosting a certification?",
+            "content": "",
+            "button_text_1": "Apply to Host A Certification",
+            "button_link_1": "https:\/\/stickmobility.com\/pages\/certification-hosting",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16596908507356__ce879533-6a4a-4148-a866-93cce91d8d1e-16651776247436fe7e-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#282828",
+        "text_color": "#ffffff",
+        "button_background": "#f94f1b",
+        "button_text_color": "#ffffff"
+      }
+    },
+    "1664470898eb166356": {
+      "type": "featured-collections",
+      "blocks": {
+        "16644708986deeb556-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "b0562b97-c73d-4215-afc8-9485bfed529b": {
+          "type": "collection",
+          "settings": {
+            "collection": "heavy-duty-mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "c4bdc6a8-4be3-400e-a094-122c56754b6b": {
+          "type": "collection",
+          "settings": {
+            "collection": "sports-video-training",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "d539163a-629a-43b1-ad9c-1eb02d78b66e": {
+          "type": "collection",
+          "settings": {
+            "collection": "workshops",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644708986deeb556-0",
+        "b0562b97-c73d-4215-afc8-9485bfed529b",
+        "c4bdc6a8-4be3-400e-a094-122c56754b6b",
+        "d539163a-629a-43b1-ad9c-1eb02d78b66e"
+      ],
+      "settings": {
+        "subheading": "SHOP STICK MOBILITY",
+        "title": "EXPLORE",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "886a0cc3-fe1f-4feb-94a1-99c7f51f806c",
+    "aecbc928-07e2-4753-92b2-a411c1975892",
+    "9ddfcf92-3e8b-4adb-b83f-7d0b9d3323f3",
+    "16644710975188d440",
+    "166450020834c74d96",
+    "1664500337c433503a",
+    "1664500402ddf7e346",
+    "ce879533-6a4a-4148-a866-93cce91d8d1e",
+    "1664470898eb166356"
+  ]
+}

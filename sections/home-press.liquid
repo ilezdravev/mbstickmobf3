@@ -1,0 +1,34 @@
+<div class="home-press">
+  <div class="container">
+    <div class="home-press__title">{{ section.settings.title }}</div>
+    {% if section.settings.image %}
+      <div class="home-press__image">
+        <img sizes="(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px" loading="lazy" {% render 'image-attributes', image: section.settings.image, sizes: '600,700,800,1000,1200,1400' %}>
+      </div>
+    {% endif %}
+  </div>
+
+</div>
+
+{% schema %}
+  {
+    "name": "Home Press",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title"
+      },
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Home Press"
+      }
+    ]
+  }
+{% endschema %}

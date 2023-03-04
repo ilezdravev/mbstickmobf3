@@ -1,0 +1,168 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "16644710975188d440": {
+      "type": "image-with-text",
+      "disabled": true,
+      "blocks": {
+        "166447109759dd4503-0": {
+          "type": "item",
+          "settings": {
+            "tab_label": "",
+            "subheading": "",
+            "title": "Improve your game with better mobility",
+            "content": "<p>STICK MOBILITY IS A TRAINING SYSTEM THAT COMBINES JOINT MOBILIZATION, STRENGTH TRAINING, AND ACTIVE STRETCHING TO INCREASE ATHLETIC PERFORMANCE, REDUCE RISK OF INJURY, AND SPEED RECOVERY.<\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166447109759dd4503-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#282828",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "efe92706-a1bb-43f2-913a-1a226e77701d": {
+      "type": "multi-column",
+      "disabled": true,
+      "blocks": {
+        "template--16590608105692__efe92706-a1bb-43f2-913a-1a226e77701d-1666134194310e6490-2": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Advanced Golf Mobility for trainers",
+            "content": "<p>This video is for training professionals and advanced golfers that are serious about improving their mobility.<\/p><p>The Advanced Training Video Series includes instructional videos that explain the benefits of mobility in relation to golf, a set of golf-specific warm-up exercises and two stengthening workout videos, plus a pre-round on-course warm-up video.  <\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "template--16590608105692__efe92706-a1bb-43f2-913a-1a226e77701d-1666134194310e6490-3": {
+          "type": "item",
+          "settings": {
+            "image_width": 100,
+            "image_border": "#282828",
+            "title": "Beginner Golf Mobility \"Feels\"",
+            "content": "<p>This video is for the golfer who wants golf instruction along with drills that improve mobility.<\/p><p>This includes exercises that improve set up, backswing, transition, impact and follow through, you can use as a reference which allows you to focus on your specific needs. <\/p><p><\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "template--16590608105692__efe92706-a1bb-43f2-913a-1a226e77701d-1666134194310e6490-2",
+        "template--16590608105692__efe92706-a1bb-43f2-913a-1a226e77701d-1666134194310e6490-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "This is me just condensing information not a final:) . PRACTICE AREA",
+        "title": "golf mobility training",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "large",
+        "spacing": "normal",
+        "background": "#282828",
+        "text_color": "#ffffff"
+      }
+    },
+    "199f2370-0125-4b43-882e-b99bf652be0d": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "small",
+        "subheading": "improve you game with",
+        "title": "online GOLF MOBILITY TRAINING",
+        "content": "<p><strong>Choose a program that suits you, whether you are a professional trainer or a golfer looking to improve your mobility along with your swing.  <\/strong><\/p><p><a href=\"https:\/\/stickmobility-test-site.myshopify.com\/pages\/golf-feels\" title=\"https:\/\/stickmobility-test-site.myshopify.com\/pages\/golf-feels\"><strong>Golf Mobility \"Feels\" Program<\/strong><\/a><strong> focuses on getting comfortable with golf mechanics and utilizing exercises that activate muscle memory. Build your golf swing.<\/strong><\/p><p><a href=\"https:\/\/stickmobility-test-site.myshopify.com\/pages\/golf-mobility\" title=\"https:\/\/stickmobility-test-site.myshopify.com\/pages\/golf-mobility\"><strong>Advanced Golf Mobility for Trainers<\/strong><\/a><strong> is mobility training centric.  It includes mobility and strength instructionals\/workouts intended for those who spend time in the gym. Build your golf body.<\/strong><\/p>",
+        "button_text_1": "Golf Mobility \"Feels\" Program",
+        "button_link_1": "shopify:\/\/pages\/golf-mobility",
+        "button_text_2": "Advanced Golf Mobility for Trainers",
+        "button_link_2": "shopify:\/\/pages\/golf-mobility",
+        "link_style": "button",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_center",
+        "text_color": "#ffffff",
+        "button_background": "#f94f1b",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 21
+      }
+    },
+    "fdcaff70-db8b-4393-be38-f9013e6c8a51": {
+      "type": "text-with-icons",
+      "blocks": {
+        "template--16590608105692__fdcaff70-db8b-4393-be38-f9013e6c8a51-16661369324f2d0ebd-0": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "custom_icon_width": 50,
+            "title": "Strength Training",
+            "content": "<p>Get your club and body in better positions to have a more consistent, efficient, and effective golf swing.<\/p>"
+          }
+        },
+        "template--16590608105692__fdcaff70-db8b-4393-be38-f9013e6c8a51-16661369324f2d0ebd-1": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-phone",
+            "custom_icon_width": 50,
+            "title": "Joint mobilization",
+            "content": "<p>Improve your mobility to increase your ability to hit the ball further.<\/p>"
+          }
+        },
+        "template--16590608105692__fdcaff70-db8b-4393-be38-f9013e6c8a51-16661369324f2d0ebd-2": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-lock",
+            "custom_icon_width": 50,
+            "title": "Active Stretching",
+            "content": "<p>Reduce your risk of injury in training and on the course.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16590608105692__fdcaff70-db8b-4393-be38-f9013e6c8a51-16661369324f2d0ebd-0",
+        "template--16590608105692__fdcaff70-db8b-4393-be38-f9013e6c8a51-16661369324f2d0ebd-1",
+        "template--16590608105692__fdcaff70-db8b-4393-be38-f9013e6c8a51-16661369324f2d0ebd-2"
+      ],
+      "settings": {
+        "background": "#282828",
+        "text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16644710975188d440",
+    "efe92706-a1bb-43f2-913a-1a226e77701d",
+    "199f2370-0125-4b43-882e-b99bf652be0d",
+    "fdcaff70-db8b-4393-be38-f9013e6c8a51"
+  ]
+}

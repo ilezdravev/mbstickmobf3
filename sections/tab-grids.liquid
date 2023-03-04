@@ -1,0 +1,97 @@
+
+
+<div class="timeline-section" id="{{ section.id }}">
+  <div class=" tab-container">
+    <a href="{{ section.settings.url }}" class="button button--primary  desktop-hide">
+      {{ section.settings.text }}
+    </a>
+    <div class="tab-content">
+      {% for block in section.blocks %}
+        <div class="tab-item {% if forloop.index0 == 0 %} active {%endif%}" data-source="{{ forloop.index0 }}">
+          <img src="{{ block.settings.image | img_url: '1000x'}}" alt="">
+          <div class="c-text">
+            {{ block.settings.c_text }}
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    <div class="tab-nav-wrap">
+      <div class="tab-nav">
+        <div class="title">
+          {{ section.settings.title }}
+        </div>
+        <div class="tab-grids">
+          {% for block in section.blocks %}
+            <div tab-trigger data-target="{{ forloop.index0 }}" class="{% if forloop.index0 == 0 %} active {%endif%}">{{ block.settings.text }}</div>
+          {% endfor %}
+        </div>
+        <a href="{{ section.settings.url }}" class="button button--primary  mobile-hide">
+          {{ section.settings.text }}
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+{% schema %}
+  {
+    "name": "Tab grids",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title",
+        "default": "TRUSTED BY PRO ATHLETES"
+      }, {
+        "type": "url",
+        "id": "url",
+        "label": "Link URL"
+      }, {
+        "type": "text",
+        "id": "text",
+        "label": "Link Text",
+        "default": "SHOP TRAINING STICKS"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "tab_item",
+        "name": "Tab Item",
+        "settings": [
+          {
+            "type": "text",
+            "id": "text",
+            "label": "Tab nav button text"
+          }, {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Tab Image"
+          }, {
+            "type": "text",
+            "id": "c_text",
+            "label": "Tab content text",
+            "default": "Dwayne Wade • NBA Player"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Tab grids"
+      }
+    ]
+  }
+{% endschema %}
+
+<script>
+  $('[tab-trigger]').on('click', function() {
+    if ($(this).hasClass('active'))
+      return;
+    let parent = $(this).parents('.tab-container');
+    let aIdx = $(this).attr('data-target');
+    parent.find('.tab-item.active').removeClass('active');
+    parent.find('[tab-trigger].active').removeClass('active');
+    $(this).addClass('active');
+    parent.find('.tab-item').eq(aIdx).addClass('active')
+  })
+</script>

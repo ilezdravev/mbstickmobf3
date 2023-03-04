@@ -1,0 +1,101 @@
+<div class="quotes-slider-section">
+  <div class="container">
+    <div class="title">{{ section.settings.title }}</div>
+    <div class="quotes-slider-wrap">
+      <div class="quotes-slider-prev">
+        <img src="{{ 'arrow-prev.png' | asset_url }}" alt="">
+      </div>
+      <div class="quotes-slider">
+        {% for block in section.blocks %}
+          <div class="quote-slide-wrap">
+            <div class="quote-slide">
+              <div class="quote-slide__author-image">
+                <img
+                  sizes="(max-width: 740px) calc(100vw - 96px), (max-width: 999px) calc(100vw - 160px), 600px"
+                  loading="lazy"
+                  {% render 'image-attributes', image: block.settings.author_image, sizes: '600,700,800,1000,1200,1400' %}>
+              </div>
+              <div class="quote-slide__icon">
+                {%- render 'icon' with 'quote-icon' -%}
+              </div>
+              <div class="quote-slide__rating">
+                {% comment %} {% render 'icon-five-star' %} {% endcomment %}
+                <img src="{{ 'StarRating-svg.png' | asset_url }}" alt="">
+              </div>
+              <div class="quote-slide__quote">{{ block.settings.quote }}</div>
+              <div class="quote-slide__author">{{ block.settings.author }} - Verified Buyer</div>
+            </div>
+          </div>
+        {% endfor %}
+      </div>
+      <div class="quotes-slider-next">
+        <img src="{{ 'arrow-next.png' | asset_url }}" alt="">
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  $('.quotes-slider').slick({
+    slidesToShow: 2,
+    inifinite: true,
+    dots: true,
+    arrows: false,
+    centerPadding: '20%',
+    responsive: [
+      {
+        breakpoint: 768,
+        settings: {
+          slidesToShow: 1
+        }
+      }
+    ]
+  })
+  $('.quotes-slider-prev').on('click', function() {
+    $('.quotes-slider').slick('slickPrev')
+  })
+  $('.quotes-slider-next').on('click', function() {
+    $('.quotes-slider').slick('slickNext')
+  })
+</script>
+{% schema %}
+  {
+    "name": "Quotes Slider",
+    "settings": [
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title",
+        "default": "WHAT OUR CUSTOMERS THINK ABOUT US?"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "quote",
+        "name": "Quote",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "author_image",
+            "label": "Author Photo"
+          }, {
+            "type": "text",
+            "id": "quote",
+            "label": "Quote",
+            "default": "The Training Stick Allows You To Achieve Positions & Ranges You Wouldn’t Normally Be Able To Reach. It’s Been The Missing Link To My Own Personal Mobility Training "
+          }, {
+            "type": "text",
+            "id": "author_name",
+            "label": "Author Name",
+            "default": "Joe DeFranco"
+          }
+        ]
+      }
+    ],
+    "presets": [
+      {
+        "name": "Quotes Slider"
+      }
+    ]
+  }
+{% endschema %}

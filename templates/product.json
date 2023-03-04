@@ -1,0 +1,158 @@
+{
+  "sections": {
+    "dialogue-product-recommendations-top": {
+      "type": "dialogue-ai",
+      "settings": {
+        "position": "top"
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "block",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#f94f1b",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "#f94f1b",
+            "buy_now_button_text_color": "#ffffff"
+          }
+        },
+        "59d98052-5026-4645-b244-2e1b67b7f706": {
+          "type": "shopify:\/\/apps\/sezzle-widget\/blocks\/widget-block\/f3a53793-e118-4764-a86b-a79bfedb0d5f",
+          "settings": {
+            "heading": "Sezzle Widget",
+            "font_size": 14,
+            "font_family": "inherit"
+          }
+        }
+      },
+      "block_order": [
+        "variant_picker",
+        "quantity_selector",
+        "buy_buttons",
+        "59d98052-5026-4645-b244-2e1b67b7f706"
+      ],
+      "settings": {
+        "show_vendor": true,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_sticky_add_to_cart": true,
+        "show_share_buttons": true,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "bottom",
+        "transition_effect": "slide"
+      }
+    },
+    "product-content": {
+      "type": "product-content",
+      "blocks": {
+        "description": {
+          "type": "description",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "description"
+      ],
+      "settings": {}
+    },
+    "dialogue-product-recommendations": {
+      "type": "dialogue-ai",
+      "settings": {
+        "position": "bottom"
+      }
+    },
+    "1664493388dbfc05b2": {
+      "type": "faq",
+      "disabled": true,
+      "blocks": {
+        "1664493388f96813dd-0": {
+          "type": "category",
+          "settings": {
+            "title": "Shipping"
+          }
+        },
+        "1664493388f96813dd-1": {
+          "type": "question",
+          "settings": {
+            "title": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship to many countries worldwide. Shipping costs will apply, and will be added at checkout. We do not collect customs duties\/import taxes and they are the customer's responsibility to pay upon receipt of the package if ordered from our US store. To save on shipping costs and import duties, be sure to visit our International Partners page to find the supplier closest to you!<\/p>"
+          }
+        },
+        "1664493388f96813dd-2": {
+          "type": "question",
+          "settings": {
+            "title": "How long will it take to get my order?",
+            "answer": "<p>It depends on where you are. Orders within the U.S. will take 3-7 business days to arrive. Overseas deliveries can take longer. Delivery details will be provided in your confirmation email.<\/p>"
+          }
+        },
+        "1664493388f96813dd-3": {
+          "type": "category",
+          "settings": {
+            "title": "Other"
+          }
+        },
+        "1664493388f96813dd-4": {
+          "type": "question",
+          "settings": {
+            "title": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1664493388f96813dd-0",
+        "1664493388f96813dd-1",
+        "1664493388f96813dd-2",
+        "1664493388f96813dd-3",
+        "1664493388f96813dd-4"
+      ],
+      "settings": {
+        "show_navigation": false,
+        "title": "FAQ",
+        "content": "",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "subheading": "",
+        "title": "You may also like",
+        "recommendations_count": 4,
+        "products": [],
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "dialogue-product-recommendations-top",
+    "main",
+    "product-content",
+    "dialogue-product-recommendations",
+    "1664493388dbfc05b2",
+    "product-recommendations"
+  ]
+}

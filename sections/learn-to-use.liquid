@@ -1,0 +1,74 @@
+<div class="learn-to-use-section">
+  <div class="section-title desktop-hide">{{ section.settings.title }}</div>
+  <div class="image-and-text-wrap">
+    <div class="image-content">
+      <img
+        loading="lazy"
+        sizes=""
+        {% render 'image-attributes', image: section.settings.image, sizes: '400,500,600,700,800,900,1000,1100,1200,1300,1400,1500,1600' %}>
+      {% if section.settings.image_label != '' %}
+        <div class="label">{{ section.settings.image_label }}</div>
+      {% endif %}
+    </div>
+    <div class="text-content">
+      <div class="section-title mobile-hide">{{ section.settings.title }}</div>
+      {% if section.settings.btn_text1 != '' %}
+        <a href="{{ section.settings.btn_link1 }}" class="button button--secondary btn-first">{{ section.settings.btn_text1 }}</a>
+      {% endif %}
+      {% if section.settings.btn_text2 != '' %}
+        <a href="{{ section.settings.btn_link2 }}" class="button button--primary btn-first">{{ section.settings.btn_text2 }}</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+
+{% schema %}
+  {
+    "name": "Learn To Use",
+    "settings": [
+      {
+        "type": "image_picker",
+        "id": "image",
+        "label": "Image"
+      },
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Title",
+        "default": "LEARN TO USE YOUR STICKS"
+      },
+      {
+        "type": "text",
+        "id": "image_label",
+        "label": "Image Label",
+        "default": "Golf Mobility Video Training"
+      },
+      {
+        "type": "text",
+        "id": "btn_text1",
+        "label": "Button 1 Text"
+      },
+      {
+        "type": "url",
+        "id": "btn_link1",
+        "label": "Button 1 Link"
+      },
+      {
+        "type": "text",
+        "id": "btn_text2",
+        "label": "Button 2 Text"
+      },
+      {
+        "type": "url",
+        "id": "btn_link2",
+        "label": "Button 2 Link"
+      }
+    ],
+    "presets": [
+      {
+        "name": "Learn To Use"
+      }
+    ]
+  }
+{% endschema %}

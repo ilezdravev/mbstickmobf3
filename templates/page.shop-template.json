@@ -1,0 +1,326 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "1664470898eb166356": {
+      "type": "featured-collections",
+      "blocks": {
+        "16644708986deeb556-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "8964f2b8-8813-4c1d-add6-596e14725897": {
+          "type": "collection",
+          "settings": {
+            "collection": "heavy-duty-mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "f3d32193-b7a5-457d-8c9b-90c215665300": {
+          "type": "collection",
+          "settings": {
+            "collection": "sports-video-training",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "4f92d7e5-1314-4c26-924e-1c49cc57b250": {
+          "type": "collection",
+          "settings": {
+            "collection": "certifications",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "d8ee93c1-6919-44b1-b4ce-fcfd951755f1": {
+          "type": "collection",
+          "settings": {
+            "collection": "workshops",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644708986deeb556-0",
+        "8964f2b8-8813-4c1d-add6-596e14725897",
+        "f3d32193-b7a5-457d-8c9b-90c215665300",
+        "4f92d7e5-1314-4c26-924e-1c49cc57b250",
+        "d8ee93c1-6919-44b1-b4ce-fcfd951755f1"
+      ],
+      "settings": {
+        "subheading": "Explore",
+        "title": "ALL PRODUCTS",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "#ffffff",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664471632669b3b10": {
+      "type": "multi-column",
+      "blocks": {
+        "16644716317aca07cf-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Golf_Mobility_Stick_Package.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "SHOP STICKS & BUNDLES",
+            "content": "",
+            "link_text": "SHOP STICKS",
+            "link_url": "shopify:\/\/collections\/mobility-sticks",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16644716317aca07cf-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bigger_Test.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ONLINE TRAINING COURSES",
+            "content": "",
+            "link_text": "SHOP COURSES",
+            "link_url": "shopify:\/\/collections\/sports-video-training",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16644716317aca07cf-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1400x1400_Certification.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "LIVE & ONLINE CERTIFICATIONS",
+            "content": "",
+            "link_text": "SHOP CERTS",
+            "link_url": "shopify:\/\/collections\/certifications",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16644716317aca07cf-3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Intro_Workshop_1400x1400_e3915bd4-487a-41f0-a1c9-9fabba11f018.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "ONLINE INTRO WORKSHOP",
+            "content": "",
+            "link_text": "BUY NOW",
+            "link_url": "shopify:\/\/products\/online-intro-workshop",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16644716317aca07cf-0",
+        "16644716317aca07cf-1",
+        "16644716317aca07cf-2",
+        "16644716317aca07cf-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644710975188d440": {
+      "type": "image-with-text",
+      "blocks": {
+        "166447109759dd4503-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jake_Hutt_Best_teachers_CA.png",
+            "tab_label": "Item",
+            "subheading": "NOW AVAILABLE",
+            "title": "GOLF SWING FEELS FOR INCREASED POWER",
+            "content": "<p>with Jake Hutt and Stick Mobility.<\/p>",
+            "button_text_1": "Learn More",
+            "button_link_1": "shopify:\/\/pages\/golf-swing-feels",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "df2ff05f-18b2-4557-b510-46b1aa98211a": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "tab_label": "Item",
+            "subheading": "Subheading",
+            "title": "Image with text",
+            "content": "<p>Use image with text to give your customers insight into your brand. Select imagery and text that relates to your style and story.<\/p>",
+            "button_text_1": "",
+            "button_link_1": "",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166447109759dd4503-0",
+        "df2ff05f-18b2-4557-b510-46b1aa98211a"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#ffffff",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644709228577adec": {
+      "type": "featured-product",
+      "blocks": {
+        "1664470922c66c7a63-0": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "selector_mode": "dropdown",
+            "color_mode": "block",
+            "size_chart_page": ""
+          }
+        },
+        "1664470922c66c7a63-1": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "1664470922c66c7a63-2": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "atc_button_background": "#f94f1b",
+            "atc_button_text_color": "#ffffff",
+            "buy_now_button_background": "#f94f1b",
+            "buy_now_button_text_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "1664470922c66c7a63-0",
+        "1664470922c66c7a63-1",
+        "1664470922c66c7a63-2"
+      ],
+      "settings": {
+        "product": "stick-bundles",
+        "subheading": "",
+        "title": "BEST SELLER",
+        "show_vendor": false,
+        "show_sku": false,
+        "show_taxes_included": false,
+        "show_product_rating": false,
+        "show_share_buttons": false,
+        "help_page": "",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "show_thumbnails_on_mobile": false,
+        "desktop_thumbnails_position": "left",
+        "transition_effect": "fade",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664471123aa93aecc": {
+      "type": "featured-collections",
+      "blocks": {
+        "166447112385ddc8ae-0": {
+          "type": "collection",
+          "disabled": true,
+          "settings": {
+            "collection": "",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "8241c7b6-cec6-49ad-be80-18d629586b4a": {
+          "type": "collection",
+          "settings": {
+            "collection": "t-shirts",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "eee43bf1-3643-41ea-93cf-0ce338ba3826": {
+          "type": "collection",
+          "settings": {
+            "collection": "training-aids",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "166447112385ddc8ae-0",
+        "8241c7b6-cec6-49ad-be80-18d629586b4a",
+        "eee43bf1-3643-41ea-93cf-0ce338ba3826"
+      ],
+      "settings": {
+        "subheading": "",
+        "title": "Swag",
+        "content": "<p>Stick Mobility T-Shirts and Training Posters<\/p>",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": true,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1664470898eb166356",
+    "1664471632669b3b10",
+    "16644710975188d440",
+    "16644709228577adec",
+    "1664471123aa93aecc"
+  ]
+}

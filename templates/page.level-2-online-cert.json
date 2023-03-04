@@ -1,0 +1,471 @@
+{
+  "sections": {
+    "c575795e-3b7d-4574-9f36-b91bc46a55c3": {
+      "type": "slideshow",
+      "blocks": {
+        "template--16089712459944__c575795e-3b7d-4574-9f36-b91bc46a55c3-16703485124ce32657-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Level_2_banner.jpg",
+            "text_position": "middle_left",
+            "subheading": "NOW AVAILABLE ONLINE",
+            "title": "LEVEL 2 CERTIFICATION",
+            "button_1_text": "GET CERTIFIED ONLINE",
+            "button_1_link": "shopify:\/\/products\/online-certification-level-2",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 0
+          }
+        },
+        "template--16089712459944__c575795e-3b7d-4574-9f36-b91bc46a55c3-16703485124ce32657-1": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "text_position": "middle_center",
+            "subheading": "Tell your story",
+            "title": "Slide 2",
+            "button_1_text": "",
+            "button_1_link": "",
+            "button_2_text": "",
+            "button_2_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30
+          }
+        }
+      },
+      "block_order": [
+        "template--16089712459944__c575795e-3b7d-4574-9f36-b91bc46a55c3-16703485124ce32657-0",
+        "template--16089712459944__c575795e-3b7d-4574-9f36-b91bc46a55c3-16703485124ce32657-1"
+      ],
+      "settings": {
+        "section_height": "auto",
+        "transition_type": "sweep",
+        "autoplay": true,
+        "cycle_speed": 5,
+        "background": "rgba(0,0,0,0)"
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": false,
+        "page_width": "medium"
+      }
+    },
+    "1664418750ff2a2a29": {
+      "type": "logo-list",
+      "disabled": true,
+      "blocks": {
+        "16644187504c4c5898-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Mens_Health_logo.png",
+            "link": "https:\/\/www.menshealth.com\/fitness\/a28777129\/stick-mobility-training\/"
+          }
+        },
+        "16644187504c4c5898-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Yoga_Journal_Logo.png",
+            "link": "https:\/\/www.yogajournal.com\/lifestyle\/fashion-beauty\/yoga-gear\/yj-tried-it-stick-mobility\/"
+          }
+        },
+        "16644187504c4c5898-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/golf-digest-logo.png",
+            "link": "https:\/\/www.golfdigest.com\/story\/best-fitness-equipment-for-golfers"
+          }
+        },
+        "16644187504c4c5898-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Muscle_Fitness_Logo.png",
+            "link": "https:\/\/www.muscleandfitness.com\/gear\/5-ways-upgrade-your-home-gym-2020\/"
+          }
+        },
+        "16644187504c4c5898-4": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        },
+        "16644187504c4c5898-5": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16644187504c4c5898-0",
+        "16644187504c4c5898-1",
+        "16644187504c4c5898-2",
+        "16644187504c4c5898-3",
+        "16644187504c4c5898-4",
+        "16644187504c4c5898-5"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "AS SEEN IN",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "#f5f5f5",
+        "text_color": "#000000",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "1664418782a34fdd2c": {
+      "type": "image-with-text",
+      "blocks": {
+        "166441878212fac13b-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Level_2_Cert_White.jpg",
+            "tab_label": "TRAINING",
+            "subheading": "now available 100% online",
+            "title": "Get Started with your level 2 certification!",
+            "content": "",
+            "button_text_1": "get certified",
+            "button_link_1": "shopify:\/\/products\/online-certification-level-2",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "ab968832-9377-455c-90b8-54173495fdd6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Level_2_Cert_White_2.jpg",
+            "tab_label": "SHOP STICKS",
+            "subheading": "SHOP EQUIPMENT",
+            "title": "Get Your Stick Bundle!",
+            "content": "<p>3-Stick Bundle to Compliment your Online Level 2 Certification.<\/p>",
+            "button_text_1": "Shop Bundles",
+            "button_link_1": "shopify:\/\/products\/stick-bundles",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166441878212fac13b-0",
+        "ab968832-9377-455c-90b8-54173495fdd6"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#ffffff",
+        "text_color": "#282828",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "c43b98de-218c-4576-9430-9d9c593ef7c9": {
+      "type": "testimonials",
+      "blocks": {
+        "template--16089712459944__c43b98de-218c-4576-9430-9d9c593ef7c9-167035688471ba349b-0": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Dennis shares so much great knowledge and insight into the leverage system, while keeping the class fun and engaging! So many great ways to use the Sticks.",
+            "author": "Nadine U."
+          }
+        },
+        "template--16089712459944__c43b98de-218c-4576-9430-9d9c593ef7c9-167035688471ba349b-1": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Can’t wait to apply these new strategies to my clients’ training! I had so much fun exploring and learning with you all.",
+            "author": "Morgan R."
+          }
+        },
+        "template--16089712459944__c43b98de-218c-4576-9430-9d9c593ef7c9-167035688471ba349b-2": {
+          "type": "testimonial",
+          "settings": {
+            "content": "Thank you so much Dennis and Neal!! You are both skilled teachers and coaches. I learned so much.",
+            "author": "Christina Z."
+          }
+        }
+      },
+      "block_order": [
+        "template--16089712459944__c43b98de-218c-4576-9430-9d9c593ef7c9-167035688471ba349b-0",
+        "template--16089712459944__c43b98de-218c-4576-9430-9d9c593ef7c9-167035688471ba349b-1",
+        "template--16089712459944__c43b98de-218c-4576-9430-9d9c593ef7c9-167035688471ba349b-2"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "",
+        "background": "#f5f5f5",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664418793205657c7": {
+      "type": "image-with-text",
+      "blocks": {
+        "166441879302dfe4d8-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Level_2_Certification_About.jpg",
+            "tab_label": "Item",
+            "subheading": "Level 2 Certification overview",
+            "title": "Diving Deeper Into Principles & Fundamentals",
+            "content": "<p>Stick Mobility's Online Level 2 Certification includes a PDF and over 70 videos guiding you through 6 sections: Advanced Leverage & Stability Strategies, Advanced Feedback Strategies, Irradiation Review, Advanced Isometric Strategies, Coordination Strategies and Implementing Stick Mobility.<\/p>",
+            "button_text_1": "get certified",
+            "button_link_1": "shopify:\/\/products\/online-certification-level-2",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166441879302dfe4d8-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "both",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "3d752d31-0183-4730-88c3-44eb3ca2a3a9": {
+      "type": "logo-list",
+      "blocks": {
+        "template--16089712459944__3d752d31-0183-4730-88c3-44eb3ca2a3a9-16703565984999587a-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/AFAA_Logo.jpg",
+            "link": ""
+          }
+        },
+        "template--16089712459944__3d752d31-0183-4730-88c3-44eb3ca2a3a9-16703565984999587a-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/NASM_Logo.png",
+            "link": ""
+          }
+        },
+        "template--16089712459944__3d752d31-0183-4730-88c3-44eb3ca2a3a9-16703565984999587a-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/NCEP.png",
+            "link": ""
+          }
+        },
+        "eb5145e1-5ea4-4bb2-a6ca-214fb75d6f84": {
+          "type": "logo",
+          "disabled": true,
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/National_College_of_Exercise_Professionals_Logo.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16089712459944__3d752d31-0183-4730-88c3-44eb3ca2a3a9-16703565984999587a-0",
+        "template--16089712459944__3d752d31-0183-4730-88c3-44eb3ca2a3a9-16703565984999587a-2",
+        "template--16089712459944__3d752d31-0183-4730-88c3-44eb3ca2a3a9-16703565984999587a-4",
+        "eb5145e1-5ea4-4bb2-a6ca-214fb75d6f84"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "The Stick mobility system is based on the scientific principles of leverage, stability, feedback, irradiation, isometrics, and coordination and is accredited by: Personal Training Academy Global, National Academy of Sports Medicine, Athletics & Fitness Association of America, National College of Exercise Professionals, National Strength & Conditioning Association, International Sports Sciences Association, Alberta Fitness Leadership Certification Association.",
+        "title": "",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": true,
+        "background": "#ffffff",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "9bc167bd-eba4-423b-8aa7-e6d07a096e8b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16089712459944__9bc167bd-eba4-423b-8aa7-e6d07a096e8b-16703565988628c0e4-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Level_2_More_Info.jpg",
+            "tab_label": "",
+            "subheading": "",
+            "title": "level 2 certification",
+            "content": "<p>You’ll practice joint mobilizations, active stretching, and strength training drills and learn powerful warm-up and recovery techniques used by top trainers, professional athletes, and medical practitioners. <\/p><p>The Level 2 Certification is aimed at advancing and refining your skills and problem solving as a Stick Mobility practitioner by diving deeper into the principles established in Level 1. This fully online course is taught by founders Dennis Dunphy and Neal Valera. In this course you will learn:<\/p><p>• <strong>Advanced concepts of leverage and stability<\/strong> providing more progressions and regressions.<br\/>• <strong>Feedback techniques<\/strong> that will give your clients the best opportunity to learn movements, feel muscle activation and acquire more body awareness.<br\/>• <strong>Advanced Bow & Arrow techniques<\/strong> to teach multi-directional loading and to strengthen the outer and inner ranges of movement.<br\/>• <strong>Dealing with torsion<\/strong> and building more sinew strength.<br\/>• Best practices for<strong> incorporating and enhancing various training modalities<\/strong> and equipment with the addition of Stick Mobility. (Barbells, kettlebells, bands, physio balls, etc.)<br\/>• <strong>Isometric loading strategies. <\/strong><br\/>• <strong>Learn different movement games<\/strong> to create fun, brain-engaging, movement variability.<br\/>• <strong>Programming and implementation<\/strong> of Stick Mobility.<br\/>• <strong>Coaching development<\/strong> that will improve problem-solving, communication, and adaptability.<br\/>• <strong>Recovery strategies.<\/strong><br\/><\/p>",
+            "button_text_1": "get started",
+            "button_link_1": "shopify:\/\/products\/online-certification-level-2",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16089712459944__9bc167bd-eba4-423b-8aa7-e6d07a096e8b-16703565988628c0e4-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "left",
+        "cycle_speed": 8,
+        "accent_background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "be64c520-18cc-4793-8d19-4123b77eb7ba": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16089712459944__be64c520-18cc-4793-8d19-4123b77eb7ba-16703565988628c0e4-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Certification---LA-H_H-Aug-2019---20190818-DSC01948.jpg",
+            "tab_label": "Item",
+            "subheading": "Explore more",
+            "title": "certifications",
+            "content": "<p>Certification courses are available as two-days of in-person training, or <a href=\"https:\/\/stickmobility.com\/collections\/certifications\/products\/online-certification-level-1\">online training<\/a>, to learn our methods of increasing flexibility, strength, and coordination.<\/p>",
+            "button_text_1": "view certification listings",
+            "button_link_1": "shopify:\/\/pages\/certification-listings",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16089712459944__be64c520-18cc-4793-8d19-4123b77eb7ba-16703565988628c0e4-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "text",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664418812487db6c4": {
+      "type": "multi-column",
+      "blocks": {
+        "16644188116a3e4e6f-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Jake_Hutt_Golf_Power_Home_Page.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "GOLF FEELS",
+            "content": "<p>Jake Hutt, awarded by Golf Digest as one of the Best Instructors in CA, takes you through simple and effective exercises with Stick Mobility to improve your swing for power and consistency.<\/p>",
+            "link_text": "learn more",
+            "link_url": "shopify:\/\/pages\/golf-swing-feels",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16644188116a3e4e6f-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Randy_Hew_Golf_Mobility_Home_Page.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "golf mobility",
+            "content": "<p>Improve your game with our Golf Mobility video training with PGA Pro Trainer Ben Shear. Used by PGA Tour Players and Trainers and four-time winner of Golf Digest Award.<\/p>",
+            "link_text": "learn more",
+            "link_url": "shopify:\/\/pages\/golf-mobility-training",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16644188116a3e4e6f-2": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Run-Injury-Free-Stick-Mobility-Naboso-Mat-Dr-Emily-2-540sq-60_0f3b8ab3-2305-44c0-8ccb-71155bea535a.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "run injury free",
+            "content": "<p>A collaboration between podiatrist Dr. Emily Splichal of Naboso Technology and Stick Mobility. This series features pre-run warmup exercises, two workout routines, plus post-run recovery drills. <\/p>",
+            "link_text": "learn more",
+            "link_url": "shopify:\/\/pages\/run-injury-free",
+            "link_style": "button",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "16644188116a3e4e6f-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "16644188116a3e4e6f-0",
+        "16644188116a3e4e6f-1",
+        "16644188116a3e4e6f-2",
+        "16644188116a3e4e6f-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "explore",
+        "title": "online training",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "c575795e-3b7d-4574-9f36-b91bc46a55c3",
+    "main",
+    "1664418750ff2a2a29",
+    "1664418782a34fdd2c",
+    "c43b98de-218c-4576-9430-9d9c593ef7c9",
+    "1664418793205657c7",
+    "3d752d31-0183-4730-88c3-44eb3ca2a3a9",
+    "9bc167bd-eba4-423b-8aa7-e6d07a096e8b",
+    "be64c520-18cc-4793-8d19-4123b77eb7ba",
+    "1664418812487db6c4"
+  ]
+}

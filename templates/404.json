@@ -1,0 +1,25 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "settings": {}
+    },
+    "dialogue-product-recommendations-top": {
+      "type": "dialogue-ai",
+      "settings": {
+        "position": "top"
+      }
+    },
+    "dialogue-product-recommendations": {
+      "type": "dialogue-ai",
+      "settings": {
+        "position": "bottom"
+      }
+    }
+  },
+  "order": [
+    "dialogue-product-recommendations-top",
+    "main",
+    "dialogue-product-recommendations"
+  ]
+}

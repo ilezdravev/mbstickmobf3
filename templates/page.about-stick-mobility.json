@@ -1,0 +1,529 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_title": true,
+        "page_width": "medium"
+      }
+    },
+    "166455563479bd9084": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "reveal_on_scroll": true,
+        "section_height": "auto",
+        "image": "shopify:\/\/shop_images\/2160x1080_New_Site_Banner.jpg",
+        "subheading": "ABOUT STICK MOBILITY",
+        "title": "Stick Mobility is a training system that improves your flexibility, strength, and coordination.",
+        "content": "<p>The system combines joint mobilization, strength training, and active stretching to increase athletic performance, reduce risk of injury, and accelerate recovery. The exercises use our custom-designed Training Sticks as tools to improve range of motion, muscle activation, coordination, and body awareness to build a strong foundation for better movement. <\/p>",
+        "button_text_1": "",
+        "button_link_1": "",
+        "button_text_2": "",
+        "button_link_2": "",
+        "link_style": "link",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "middle_left",
+        "text_color": "#ffffff",
+        "button_background": "#ffffff",
+        "button_text_color": "#000000",
+        "overlay_color": "#000000",
+        "overlay_opacity": 56
+      }
+    },
+    "166455599793316658": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "The training system",
+        "content": "<p>Our system is based on the scientific principles of leverage, stability, feedback, irradiation, isometrics, and coordination and is accredited by: Personal Training Academy Global, National Academy of Sports Medicine, Athletics & Fitness Association of America, National College of Exercise Professionals, National Strength & Conditioning Association, International Sports Sciences Association, Alberta Fitness Leadership Certification Association <\/p>",
+        "button_text": "",
+        "button_link": "",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#282828",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "166455610475159fff": {
+      "type": "logo-list",
+      "blocks": {
+        "166455610482b34544-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/NASM_Logo.png",
+            "link": ""
+          }
+        },
+        "166455610482b34544-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/PTA_Global.jpg",
+            "link": ""
+          }
+        },
+        "166455610482b34544-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/ISSA_Logo.png",
+            "link": ""
+          }
+        },
+        "166455610482b34544-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Copy_of_teal-ALFCA_logo.gif",
+            "link": ""
+          }
+        },
+        "166455610482b34544-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/NCSA_Logo.png",
+            "link": ""
+          }
+        },
+        "166455610482b34544-5": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/AFAA_Logo.jpg",
+            "link": ""
+          }
+        },
+        "f8cfdcff-842c-4bbd-b392-dc7ef9a3f38f": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/National_College_of_Exercise_Professionals_Logo.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "166455610482b34544-0",
+        "166455610482b34544-1",
+        "166455610482b34544-2",
+        "166455610482b34544-3",
+        "166455610482b34544-4",
+        "166455610482b34544-5",
+        "f8cfdcff-842c-4bbd-b392-dc7ef9a3f38f"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "1664556989d9a3374b": {
+      "type": "rich-text",
+      "settings": {
+        "subheading": "",
+        "title": "OUR FOCUS",
+        "content": "<p>We focus on helping coaches, athletes, and medical practitioners. From pro athletes to personal trainers, strength and conditioning coaches to physical therapists and chiropractors. Each one of them views movement from a different perspective. We work with them to understand how to apply the Stick Mobility principles into how they view movement with the goal of helping them reach their full potential.<\/p><p>Some professional sports teams who use Stick Mobility include The Cincinnati Bengals, Las Vegas Raiders, LA Rams, The Baltimore Orioles, LA Angels, Atlanta Braves, San Diego Padres, LA Kings, Anaheim Ducks, Philadelphia 76’ers, Indiana Pacers, Minnesota Timberwolves, and the Denver Nuggets.<\/p>",
+        "button_text": "VIEW ATHLETES",
+        "button_link": "shopify:\/\/pages\/athletes",
+        "background_type": "full_width",
+        "text_width": "medium",
+        "text_position": "center",
+        "text_alignment": "center",
+        "background": "#000000",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "166455765715d1cd33": {
+      "type": "logo-list",
+      "blocks": {
+        "16645576578b5df988-0": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Bengals_Logo.png",
+            "link": ""
+          }
+        },
+        "16645576578b5df988-1": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Vegas_Raiders.png",
+            "link": ""
+          }
+        },
+        "16645576578b5df988-2": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/LA_Rams.png",
+            "link": ""
+          }
+        },
+        "16645576578b5df988-3": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Baltimore_Orioles_cap.svg_98d1f6e2-aaad-42fd-a76b-d88dc9874ddc.png",
+            "link": ""
+          }
+        },
+        "16645576578b5df988-4": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/los-angeles-angels-06.png",
+            "link": ""
+          }
+        },
+        "16645576578b5df988-5": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Braves.png",
+            "link": ""
+          }
+        },
+        "c4b7c92e-b3ef-401e-bb9b-a120b0289abe": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Padres.png",
+            "link": ""
+          }
+        },
+        "86f580f6-7d35-4a51-a1e5-feea58804f50": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/LA_Kings.png",
+            "link": ""
+          }
+        },
+        "ebe45abf-1c39-411f-b12d-4cf699aaae94": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Ducks_2.png",
+            "link": ""
+          }
+        },
+        "04c2e225-d2d6-46be-a8f7-a59084dac0d9": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/76.png",
+            "link": ""
+          }
+        },
+        "2e9861a5-ba32-4a47-bd86-694d15a385ba": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Pacers_Logo.png",
+            "link": ""
+          }
+        },
+        "e9150d9d-0c17-4290-8cf6-9626b4caacdd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify:\/\/shop_images\/Nuggets.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "16645576578b5df988-0",
+        "16645576578b5df988-1",
+        "16645576578b5df988-2",
+        "16645576578b5df988-3",
+        "16645576578b5df988-4",
+        "16645576578b5df988-5",
+        "c4b7c92e-b3ef-401e-bb9b-a120b0289abe",
+        "86f580f6-7d35-4a51-a1e5-feea58804f50",
+        "ebe45abf-1c39-411f-b12d-4cf699aaae94",
+        "04c2e225-d2d6-46be-a8f7-a59084dac0d9",
+        "2e9861a5-ba32-4a47-bd86-694d15a385ba",
+        "e9150d9d-0c17-4290-8cf6-9626b4caacdd"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "subheading": "",
+        "title": "",
+        "button_text": "",
+        "button_link": "",
+        "stack_logos": false,
+        "background": "#282828",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)",
+        "logo_background": "rgba(0,0,0,0)"
+      }
+    },
+    "1664557197e556e304": {
+      "type": "image-with-text",
+      "blocks": {
+        "1664557197f16a4dbf-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Swing.jpg",
+            "tab_label": "Item",
+            "subheading": "LEARN MORE ABOUT OUR AWARD WINNING",
+            "title": "GOLF MOBILITY PROGRAM",
+            "content": "<p>PGA Golfers such as Paul Casey, Jason Day, and Dustin Johnson have implemented Stick Mobility with their trainers to increase mobility to improve their swing, rotational power to hit the ball further and reduce their risk of injury. (Our Golf Mobility Program won Golf Digest Magazine’s 2019 and 2020 Editors Choice Award for the Best Fitness Stretching Aid.)<\/p>",
+            "button_text_1": "Learn More",
+            "button_link_1": "shopify:\/\/pages\/advanced-golf-mobility-training",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "1664557197f16a4dbf-0"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "right",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#282828",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664554676f49487d2": {
+      "type": "multi-column",
+      "blocks": {
+        "1664554676b3a5aa14-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Dennis_Dunphy_2.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "DENNIS DUNPHY",
+            "content": "<p>Dennis’s first endeavor as a fitness professional began in 1999 at 24 Hour Fitness and soon after started his own training business. Many of his clients are 40+ who experience physical issues and pain, and his greatest reward comes from helping others improve physically and mentally. His journey has led to an ever-increasing knowledge of the human body and how all the body’s systems work in unison, which led him to co-create Stick Mobility in 2015 to help others achieve better movement and health.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664554676b3a5aa14-1": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Neil_Valera_2.jpg",
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Neal Valera",
+            "content": "<p>Neal has been coaching strength, mobility, and movement since 2007. His love for sports, martial arts, and outdoor activities have contributed to his lifelong interest in various movement disciplines. Having trained a wide range of body types and fitness levels, Neal believes the common denominator for health, longevity, and performance is improving movement quality. Neal co-founded Stick Mobility in 2015 and is dedicated to helping people discover their physical potential and improve their ability to move well.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664554676b3a5aa14-2": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        },
+        "1664554676b3a5aa14-3": {
+          "type": "item",
+          "disabled": true,
+          "settings": {
+            "image_width": 100,
+            "image_border": "rgba(0,0,0,0)",
+            "title": "Column 1",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_text": "",
+            "link_url": "",
+            "link_style": "link",
+            "text_alignment": "center",
+            "vertical_alignment": "start"
+          }
+        }
+      },
+      "block_order": [
+        "1664554676b3a5aa14-0",
+        "1664554676b3a5aa14-1",
+        "1664554676b3a5aa14-2",
+        "1664554676b3a5aa14-3"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "stack_items": false,
+        "subheading": "STICKMOBILITY",
+        "title": "CO-FOUNDERS",
+        "content": "",
+        "column_alignment": "center",
+        "mobile_item_size": "medium",
+        "desktop_item_size": "medium",
+        "spacing": "normal",
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16644710975188d440": {
+      "type": "image-with-text",
+      "blocks": {
+        "166447109759dd4503-0": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Cert_1.jpg",
+            "tab_label": "DENNIS DUNPHY",
+            "subheading": "CURRENT INDUSTRY CERTIFICATIONS",
+            "title": "DENNIS DUNPHY",
+            "content": "<p>IFPA and NCEP Certified Personal Trainer. Functional Range Conditioning Movement Specialist, FMS Practitioner, .U.S. Olympic Weightlifting Level 1 Coach, Animal Flow Level 1, Ultimate Sandbag Coach, Macebells, Indian Clubs, TRX, Kettlebell Trainer.<\/p>",
+            "button_text_1": "Get Certified",
+            "button_link_1": "shopify:\/\/pages\/certification-listings",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        },
+        "ad7ff00a-c045-4128-9011-e94a32d5f9c4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Neil_Valera_Website.jpg",
+            "tab_label": "NEAL VALERA",
+            "subheading": "CURRENT INDUSTRY CERTIFICATIONS",
+            "title": "NEAL VALERA",
+            "content": "<p>NASM Certified Personal Trainer, PES, CES.FRC Movement Specialist.Strong First Kettlebell and Bodyweight Instructor, American Kettlebell Club Coach, FMS Certified Specialist, Certified Indian Club Coach, NCEP Holistic Nutritionist, USAW Sports Performance Coach, IYCA Youth Fitness Specialist, Bachelor of Science, San Jose State University.<\/p>",
+            "button_text_1": "Get Certified",
+            "button_link_1": "shopify:\/\/pages\/certification-info",
+            "button_text_2": "",
+            "button_link_2": ""
+          }
+        }
+      },
+      "block_order": [
+        "166447109759dd4503-0",
+        "ad7ff00a-c045-4128-9011-e94a32d5f9c4"
+      ],
+      "settings": {
+        "reveal_on_scroll": true,
+        "background_type": "full_width",
+        "background_overlap": "image",
+        "image_position": "left",
+        "text_alignment": "center",
+        "cycle_speed": 8,
+        "accent_background": "#282828",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "1664471123aa93aecc": {
+      "type": "featured-collections",
+      "blocks": {
+        "166447112385ddc8ae-0": {
+          "type": "collection",
+          "settings": {
+            "collection": "mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "d0e0f763-f5a6-42a6-9de9-f409b2675c00": {
+          "type": "collection",
+          "settings": {
+            "collection": "heavy-duty-mobility-sticks",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "e70217b8-f2b2-4d6d-8b92-d5fbf17a059d": {
+          "type": "collection",
+          "settings": {
+            "collection": "sports-video-training",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "df0b5523-6e0a-4ab0-b23b-2075c902f2a4": {
+          "type": "collection",
+          "settings": {
+            "collection": "certifications",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        },
+        "6461a7f3-e86d-4360-800d-31672b1fb06c": {
+          "type": "collection",
+          "settings": {
+            "collection": "workshops",
+            "label": "",
+            "button_text": "",
+            "button_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "166447112385ddc8ae-0",
+        "d0e0f763-f5a6-42a6-9de9-f409b2675c00",
+        "e70217b8-f2b2-4d6d-8b92-d5fbf17a059d",
+        "df0b5523-6e0a-4ab0-b23b-2075c902f2a4",
+        "6461a7f3-e86d-4360-800d-31672b1fb06c"
+      ],
+      "settings": {
+        "subheading": "SHOP STICKMOBILITY",
+        "title": "EXPLORE",
+        "content": "",
+        "products_count": 8,
+        "products_per_row": 4,
+        "stack_products": true,
+        "show_cta": false,
+        "background": "rgba(0,0,0,0)",
+        "text_color": "rgba(0,0,0,0)",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    },
+    "16645083803d8852a7": {
+      "type": "contact-form",
+      "settings": {
+        "title": "Contact Us",
+        "content": "",
+        "text_1_heading": "",
+        "text_1_text": "",
+        "text_2_heading": "",
+        "text_2_text": "",
+        "background": "#282828",
+        "text_color": "#ffffff",
+        "button_background": "rgba(0,0,0,0)",
+        "button_text_color": "rgba(0,0,0,0)"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "166455563479bd9084",
+    "166455599793316658",
+    "166455610475159fff",
+    "1664556989d9a3374b",
+    "166455765715d1cd33",
+    "1664557197e556e304",
+    "1664554676f49487d2",
+    "16644710975188d440",
+    "1664471123aa93aecc",
+    "16645083803d8852a7"
+  ]
+}
